@@ -182,7 +182,7 @@ export default function PokemonGuide() {
   return (
     <div
       className={`min-h-screen transition-colors duration-300 ${
-        lightMode ? "bg-gray-100 text-gray-900" : "bg-gray-900 text-white"
+        lightMode ? "bg-gray-100 text-gray-900" : "bg-[#111827] text-white"
       }`}
     >
       <div className="container mx-auto px-4 py-8">
@@ -203,14 +203,14 @@ export default function PokemonGuide() {
           {regions.map((region) => (
             <div
               key={region.id}
-              className={`relative cursor-pointer rounded-lg overflow-hidden transition-all duration-300 ${
+              className={`relative cursor-pointer rounded-lg overflow-hidden transition-all duration-300 bg-[#1e293b] border border-gray-700 ${
                 expandedRegion === region.id
                   ? "ring-2 ring-blue-400 transform scale-105"
                   : "hover:transform hover:scale-102"
               }`}
               onClick={() => handleRegionClick(region.id)}
             >
-              <img src={region.image || "/placeholder.svg"} alt={region.name} className="w-full h-24 object-cover" />
+              <img src={region.image || "/placeholder.svg"} className="w-full h-24 object-cover" />
               <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center">
                 <span className="text-white font-bold text-lg">{region.name}</span>
               </div>
@@ -224,14 +224,16 @@ export default function PokemonGuide() {
             {currentRegion.leaders.map((leader) => (
               <div
                 key={leader.id}
-                className={`relative cursor-pointer rounded-lg overflow-hidden transition-all duration-300 ${
+                className={`relative cursor-pointer rounded-lg overflow-hidden transition-all duration-300 bg-[#1e293b] border border-gray-700 ${
                   expandedLeader === leader.id
                     ? "ring-2 ring-red-400 transform scale-105"
                     : "hover:transform hover:scale-102"
                 }`}
                 onClick={() => handleLeaderClick(leader.id)}
               >
-                <img src={leader.image || "/placeholder.svg"} alt={leader.name} className="w-full h-24 object-cover" />
+                <img 
+                src={`src/data/images/lideres/${leader.name.toLowerCase().replace(/ /g, '_')}.png`}
+                alt={leader.name} className="w-24 h-24 object-contain" />
                 <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center">
                   <span className="text-white font-bold text-lg">{leader.name}</span>
                 </div>
@@ -247,10 +249,10 @@ export default function PokemonGuide() {
               {currentLeaderPokemons.map((pokemon) => (
                   <div
                     key={pokemon.id || pokemon.name}
-                    className={`relative cursor-pointer rounded-lg overflow-hidden transition-all duration-300 ${
-                      selectedPokemon?.name === pokemon.name
-                        ? "ring-2 ring-yellow-400 transform scale-105"
-                        : "hover:transform hover:scale-105"
+                    className={`relative cursor-pointer rounded-lg overflow-hidden transition-all duration-300 bg-[#1e293b] border border-gray-700 ${
+                      selectedPokemon?.id === pokemon.id
+                        ? "ring-2 ring-blue-400 transform scale-105"
+                        : "hover:transform hover:scale-102"
                     }`}
                     onClick={() => handlePokemonClick(pokemon)}
                   >
@@ -274,7 +276,7 @@ export default function PokemonGuide() {
 
         {/* Pokemon Details */}
         {selectedPokemon && (
-          <div className="bg-gray-800 rounded-lg p-6 animate-in slide-in-from-bottom duration-300">
+          <div className="bg-[#1f2937] rounded-lg p-6 animate-in slide-in-from-bottom duration-300 border border-gray-700">
             <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
               <span>{selectedPokemon.initialMove}:</span>
             </h3>

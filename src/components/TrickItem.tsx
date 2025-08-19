@@ -15,7 +15,7 @@ export function TrickItem({ trick, level = 0 }: TrickItemProps) {
   return (
     <div className="w-full">
       <div 
-        className={`p-3 rounded-lg mb-2 ${"bg-gray-700"}`}
+        className={`p-3 rounded-lg mb-2 bg-[#1e293b] border border-gray-700`}
         style={{ marginLeft: `${level * 1}rem` }}
       >
         <div className="flex items-start gap-2">
