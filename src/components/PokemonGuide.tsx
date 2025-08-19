@@ -210,7 +210,7 @@ export default function PokemonGuide() {
               }`}
               onClick={() => handleRegionClick(region.id)}
             >
-              <img src={region.image || "/placeholder.svg"} alt="" className="w-full h-24 object-cover" />
+              <img src={region.image || `${import.meta.env.BASE_URL}placeholder.svg`} alt="" className="w-full h-24 object-cover" />
               <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center">
                 <span className="text-white font-bold text-lg">{region.name}</span>
               </div>
@@ -232,7 +232,7 @@ export default function PokemonGuide() {
                 onClick={() => handleLeaderClick(leader.id)}
               >
                 <img 
-                src={`src/data/images/lideres/${leader.name.toLowerCase().replace(/ /g, '_')}.png`}
+                src={`${import.meta.env.BASE_URL}images/lideres/${leader.name.toLowerCase().replace(/ /g, '_')}.png`}
                 alt={leader.name} className="w-24 h-24 object-contain" />
                 <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center">
                   <span className="text-white font-bold text-lg">{leader.name}</span>
@@ -258,7 +258,7 @@ export default function PokemonGuide() {
                   >
                     <div className="flex items-center justify-center">
                       <img
-                        src={`src/data/images/pokemon/${pokemon.name.toLowerCase().replace(/ /g, '_')}.png`}
+                        src={`${import.meta.env.BASE_URL}images/pokemon/${pokemon.name.toLowerCase().replace(/ /g, '_')}.png`}
                         alt={pokemon.name}
                         className="w-24 h-24 object-contain"
                       />
