@@ -1,0 +1,9 @@
+{
+  "id": "magnezone",
+  "name": "Magnezone",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "COLOCA TRAMPA ROCAS",
+  "tricks": [
+    {"detail": "Luego cambia a Excadrill para matar a Magnezone con Terremoto, debe salir Lapras, cambias a Poliwrath 6+2", "variant": []}
+  ]
+}

@@ -50,20 +50,10 @@ interface Region extends ConfigLeader {
   leaders: ConfigLeader[];
 }
 
-interface GuideLeader {
-  id: string;
-  pokemons: Pokemon[];
-}
-
-interface GuideData {
-  leaders: GuideLeader[];
-}
-
 export default function PokemonGuide() {
   const [expandedRegion, setExpandedRegion] = useState<string | null>(null);
   const [expandedLeader, setExpandedLeader] = useState<string | null>(null);
   const [selectedPokemon, setSelectedPokemon] = useState<Pokemon | null>(null);
-  //const [currentGuide, setCurrentGuide] = useState<GuideData | null>(null);
   const [lightMode, setLightMode] = useState(false);
   const [regions, setRegions] = useState<Region[]>([]);
   const { getPokemonFiles } = useDynamicImports();

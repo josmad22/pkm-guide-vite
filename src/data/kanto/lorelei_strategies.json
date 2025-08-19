@@ -3,14 +3,19 @@
     "id": "articuno",
     "name": "Articuno",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Utiliza roca afilada para matar a articuno, sale nidoking así que cambia a cloyster para luego cambiar a metagross, truco, cloyster +6 // carámbano para lucario",
-    "tricks": []
+    "initialMove": "Utiliza Roca Afilada para matar a Articuno",
+    "tricks": [
+      {
+        "detail": "Sale Nidoking así que cambia a Cloyster para luego cambiar a Metagross, Truco, Cloyster +6 // Carámbano para Lucario",
+        "variant": []
+      }
+    ]
   },
   {
     "id": "bronzong",
     "name": "Bronzong",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Truco",
+    "initialMove": "TRUCO",
     "tricks": [
       {
         "detail": "NIDOQUEEN, saca a Excadrill 6+2",
@@ -31,7 +36,8 @@
             "detail": "Si Slowbro cambia a Lucario utiliza Truco con Chandelure para encerrar en Roca Afilada / Triturar, luego cambia a Scrafty +2"
           },
           {
-            "detail": "Si cambia a Lapras o Slowbro se queda, cambia a Poliwrath 6+2 (Slowbro no muere de 1 terremoto, probar A bocajarro. Igual con 2 terremoto muere y no te mata) (Usar A Bocajarro contra Bronzong)"
+            "detail": "Si cambia a Lapras o Slowbro se queda, cambia a Poliwrath 6+2 (Slowbro no muere de 1 terremoto, probar A bocajarro. Igual con 2 terremoto muere y no te mata) (Usar A Bocajarro contra Bronzong)",
+            "variant": []
           }
         ]
       },
@@ -42,7 +48,8 @@
             "detail": "Si entra Lapras cambia a Poliwrath 6 + 2"
           },
           {
-            "detail": "Si entra Lucario cambia a Scrafty para cambiar a Chandelure inmediatamente utiliza Truco para encerrar en Roca Afilada o Triturar, vuelve Scrafty +2"
+            "detail": "Si entra Lucario cambia a Scrafty para cambiar a Chandelure inmediatamente utiliza Truco para encerrar en Roca Afilada o Triturar, vuelve Scrafty +2",
+            "variant": []
           }
         ]
       },
@@ -56,15 +63,15 @@
     "id": "chansey",
     "name": "Chansey",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Truco",
+    "initialMove": "TRUCO",
     "tricks": [
       {
         "detail": "Si utiliza MOV. SÍSMICO cambia a Scrafty, utiliza +1 luego + Raíz Energía para recuperar salud y boostea +1 (Paliza para Vileplume y Bronzong)",
-        "variant": [
-          {
-            "detail": "Si sale NIDOKING cambia a Excadrill +6 + 0"
-          }
-        ]
+        "variant": []
+      },
+      {
+        "detail": "Si sale NIDOKING cambia a Excadrill +6 + 0",
+        "variant": []
       }
     ]
   },
@@ -72,14 +79,14 @@
     "id": "claydol",
     "name": "Claydol",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Trampa rocas, cambia a cloyster, luego a metagross/ contra lapras, usa truco para bloquear hidrobomba, poliwrath +6+2",
+    "initialMove": "Trampa Rocas, cambia a Cloyster, luego a Metagross/ Contra Lapras, usa Truco para bloquear Hidrobomba, Poliwrath +6+2",
     "tricks": []
   },
   {
     "id": "dragonite",
     "name": "Dragonite",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Cambia a chandelure",
+    "initialMove": "CAMBIA A CHANDELURE",
     "tricks": [
       {
         "detail": "NO CAMBIA, utiliza Poder Oculto, si aún sigue en el campo y no cambia, sigue usando Poder Oculto:",
@@ -89,11 +96,12 @@
           },
           {
             "detail": "Si luego entra LUCARIO, cambia a Scrafty para luego volver con Chandelure, usar Truco para encerrar en Roca Afilada o Triturar, saca a Scrafty +2"
-          },
-          {
-            "detail": "Si cambia a SLOWBRO usa Truco con Chandelure para encerrar en Escaldar, cambia a Poliwrath 6+2"
           }
         ]
+      },
+      {
+        "detail": "Si cambia a SLOWBRO usa Truco con Chandelure para encerrar en Escaldar, cambia a Poliwrath 6+2",
+        "variant": []
       }
     ]
   },
@@ -101,7 +109,7 @@
     "id": "exeggutor",
     "name": "Exeggutor",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Truco",
+    "initialMove": "TRUCO",
     "tricks": [
       {
         "detail": "MAGNEZONE, cambia a Excadrill y matalo con Terremoto, debería de salir Lapras, cambia a Poliwrath 6+2 // Si sale Mantine, cambia a Poliwrath, luego a Chandelure, Truco y saca a Poliwrath 2+6 ( Falta Testear, por favor reportar soluciones)",
@@ -110,17 +118,22 @@
       {
         "detail": "NIDOKING, Excadrill coloca Trampa Rocas, luego Cloyster +6",
         "variant": []
+      }
+    ]
+  },
+  {
+    "id": "golduck",
+    "name": "Golduck",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "TRUCO",
+    "tricks": [
+      {
+        "detail": "Si cambia a Magneton / Magnezone, cambia a Excadrill y matalo con Terremoto, debería de salir Lapras, cambia a Poliwrath 6+2",
+        "variant": []
       },
       {
-        "detail": "VS. GOLDUCK (2) (Verificar ya que es lo mismo que Exeggutor)",
-        "variant": [
-          {
-            "detail": "Si cambia a Magneton / Magnezone, cambia a Excadrill y matalo con Terremoto, debería de salir Lapras, cambia a Poliwrath 6+2"
-          },
-          {
-            "detail": "Si cambia a Nidoking, cambia a Cloyster +6"
-          }
-        ]
+        "detail": "Si cambia a Nidoking, cambia a Cloyster +6",
+        "variant": []
       }
     ]
   },
@@ -128,7 +141,7 @@
     "id": "hariyama",
     "name": "Hariyama",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Cambia a chandelure",
+    "initialMove": "CAMBIA A CHANDELURE",
     "tricks": [
       {
         "detail": "SI NO CAMBIA utiliza Truco para encerrar en Roca Afilada, cambia a Scrafty +3 (Utiliza A Bocajarro contra Hariyama y Gliscor)(Puño Drenaje contra Lapras)",
@@ -152,14 +165,14 @@
     "id": "jynx",
     "name": "Jynx",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Cambia a scrafty +2 (utiliza a bocajarro para acabar con hariyama, paliza con togekiss y puño drenaje con lapras)",
+    "initialMove": "Cambia a Scrafty +2 (Utiliza A Bocajarro para acabar con Hariyama, Paliza con Togekiss y Puño drenaje con Lapras)",
     "tricks": []
   },
   {
     "id": "lapras",
     "name": "Lapras",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Truco",
+    "initialMove": "TRUCO",
     "tricks": [
       {
         "detail": "Surf → Cambia a Poliwrath 6+2 // (Si entra Slowbro, cambia a Chandelure, Truco para encerrar en Escaldar, luego cambia a Poliwrath 6+2)",
@@ -175,27 +188,25 @@
       },
       {
         "detail": "Hidrobomba → Usa Trampa Rocas, luego cambia a Poliwrath 2 Veces Tambor +Velocidad X.",
-        "variant": []
-      },
-      {
-        "detail": "(Si Metagross no aguanta el ataque y no puedes poner Trampa Rocas, dale Defensa X a Poliwrath y usa 2 tambores.)",
-        "variant": []
-      },
-      {
-        "detail": "Lucario te mata → Saca a Chandelure, Truco para encerrar en Triturar / Roca Afilada, saca a Scrafty +2",
-        "variant": []
+        "variant": [
+          {
+            "detail": "(Si Metagross no aguanta el ataque y no puedes poner Trampa Rocas, dale Defensa X a Poliwrath y usa 2 tambores.)"
+          },
+          {
+            "detail": "Lucario te mata → Saca a Chandelure, Truco para encerrar en Triturar / Roca Afilada, saca a Scrafty +2"
+          }
+        ]
       },
       {
         "detail": "Nidoqueen → Observa el ítem intercambiado:",
-        "variant": []
-      },
-      {
-        "detail": "Vidasfera → Cambia a Excadrill 6+2 (Mata a Lapras con Terremoto)",
-        "variant": []
-      },
-      {
-        "detail": "Casco Dentado → Cambia a Excadrill 4+2, luego pon Trampa Rocas (Terremoto para matar a Nido)",
-        "variant": []
+        "variant": [
+          {
+            "detail": "Vidasfera → Cambia a Excadrill 6+2 (Mata a Lapras con Terremoto)"
+          },
+          {
+            "detail": "Casco Dentado → Cambia a Excadrill 4+2, luego pon Trampa Rocas (Terremoto para matar a Nido)"
+          }
+        ]
       },
       {
         "detail": "Nidoking → Cambia a Excadrill para colocar Trampa Rocas, luego cambia a Cloyster +6",
@@ -206,12 +217,11 @@
         "variant": [
           {
             "detail": "Si entra Lapras / Slowbro → Cambia a Poliwrath 6+2"
+          },
+          {
+            "detail": "Lucario → Cambia a Chandelure y utiliza Truco para encerrar en Triturar / Roca Afilada, luego cambia a Scrafty +2"
           }
         ]
-      },
-      {
-        "detail": "Lucario → Cambia a Chandelure y utiliza Truco para encerrar en Triturar / Roca Afilada, luego cambia a Scrafty +2",
-        "variant": []
       },
       {
         "detail": "Blissey / Jigglypuff → Cambia a Chandelure y utiliza Truco para encerrar el Tierra Viva de Nidoking, luego cambia a Excadrill +6",
@@ -231,15 +241,15 @@
     "id": "lucario",
     "name": "Lucario",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Cambia a chandelure",
+    "initialMove": "CAMBIA A CHANDELURE",
     "tricks": [
       {
         "detail": "Si cambia a Nidoking utiliza Truco con Chandelure para encerrar en movimiento tipo tierra, cambia a Cloyster +6 (Utiliza Carámbano contra Lucario) (Hay una pequeña posibilidad de que no mates a Lapras)",
-        "variant": [
-          {
-            "detail": "Si se queda en Lucario, utiliza Truco para que encierres en Triturar / Roca Afilada, cambia a Scrafty +3 (Si Chandelure muere, utiliza 1 Danza Dragón extra)"
-          }
-        ]
+        "variant": []
+      },
+      {
+        "detail": "Si se queda en Lucario, utiliza Truco para que encierres en Triturar / Roca Afilada, cambia a Scrafty +3 (Si Chandelure muere, utiliza 1 Danza Dragón extra)",
+        "variant": []
       }
     ]
   },
@@ -247,7 +257,7 @@
     "id": "magnezone",
     "name": "Magnezone",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Coloca trampa rocas",
+    "initialMove": "COLOCA TRAMPA ROCAS",
     "tricks": [
       {
         "detail": "Luego cambia a Excadrill para matar a Magnezone con Terremoto, debe salir Lapras, cambias a Poliwrath 6+2",
@@ -259,7 +269,7 @@
     "id": "mantine",
     "name": "Mantine",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Utiliza puño trueno (si mantine no cambia sigue atacando)",
+    "initialMove": "UTILIZA PUÑO TRUENO (Si MANTINE NO CAMBIA SIGUE ATACANDO)",
     "tricks": [
       {
         "detail": "Si cambia a Magnezone, saca a Excadrill y matalo con Terremoto, observa:",
@@ -269,49 +279,52 @@
           },
           {
             "detail": "Si sale Lapras, coloca Trampa Rocas, cambia a Poliwrath 6+2"
-          },
-          {
-            "detail": "Si cambia a Chansey, saca a Scrafty +1 luego utiliza Raíz Energía para recuperar PS y vuelva a usar Danza Dragón +1 (Utiliza Paliza para eliminar a Vileplume o Bronzong) // Mantine y Vileplume necesitan 2 Golpes // Curas con Lapras al final"
-          },
+          }
+        ]
+      },
+      {
+        "detail": "Si cambia a Chansey, saca a Scrafty +1 luego utiliza Raíz Energía para recuperar PS y vuelva a usar Danza Dragón +1 (Utiliza Paliza para eliminar a Vileplume o Bronzong) // Mantine y Vileplume necesitan 2 Golpes // Curas con Lapras al final",
+        "variant": [
           {
             "detail": "Si mientras estás preparando el Scrafty sale Nidoking, cambia a Excadrill luego cambia a Chandelure y utiliza Truco para encerrar en Terremoto, vuelve con Excadrill, Trampa Rocas y +6"
-          },
-          {
-            "detail": "Si cambia a Nidoking, saca a Excadrill luego a Chandelure y observa el movimiento:"
           }
         ]
       },
       {
-        "detail": "Roca Afilada, usa Truco y observa:",
+        "detail": "Si cambia a Nidoking, saca a Excadrill luego a Chandelure y observa el movimiento:",
         "variant": [
           {
-            "detail": "Si usa Tierra Viva, observa la vida de Mantine:"
+            "detail": "Roca Afilada, usa Truco y observa:",
+            "variant": [
+              {
+                "detail": "Si usa Tierra Viva, observa la vida de Mantine:",
+                "variant": [
+                  {
+                    "detail": "Si tiene Vida Completa, entra Excadrill + Trampa Rocas, luego cambia a Cloyster +6"
+                  },
+                  {
+                    "detail": "No está Full Vida, entra Excadrill +6 +0"
+                  }
+                ]
+              },
+              {
+                "detail": "Si usa Rayo, saca a Excadrill, Trampa Rocas +6 +0 (Si Mantine no tiene full vida, puedes omitir las Trampa Rocas)"
+              }
+            ]
           },
           {
-            "detail": "Si tiene Vida Completa, entra Excadrill + Trampa Rocas, luego cambia a Cloyster +6"
-          }
-        ]
-      },
-      {
-        "detail": "No está Full Vida, entra Excadrill +6 +0",
-        "variant": [
-          {
-            "detail": "Si usa Rayo, saca a Excadrill, Trampa Rocas +6 +0 (Si Mantine no tiene full vida, puedes omitir las Trampa Rocas)"
-          }
-        ]
-      },
-      {
-        "detail": "Rayo Hielo, usa Truco y bloquea el Tierra Viva, entra Excadrill, Trampa Rocas y cambias a Cloyster +6",
-        "variant": []
-      },
-      {
-        "detail": "Llamarada, usa Truco y bloquea el Tierra Viva, luego revisa la vida de Mantine:",
-        "variant": [
-          {
-            "detail": "Si tiene Vida Completa, entra Excadrill + Trampa Rocas + 6 + 0"
+            "detail": "Rayo Hielo, usa Truco y bloquea el Tierra Viva, entra Excadrill, Trampa Rocas y cambias a Cloyster +6"
           },
           {
-            "detail": "Si No está Full Vida, entra Excadrill +4 +0"
+            "detail": "Llamarada, usa Truco y bloquea el Tierra Viva, luego revisa la vida de Mantine:",
+            "variant": [
+              {
+                "detail": "Si tiene Vida Completa, entra Excadrill + Trampa Rocas + 6 + 0"
+              },
+              {
+                "detail": "Si No está Full Vida, entra Excadrill +4 +0"
+              }
+            ]
           }
         ]
       }
@@ -321,7 +334,7 @@
     "id": "nidoking",
     "name": "Nidoking",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Truco",
+    "initialMove": "TRUCO",
     "tricks": [
       {
         "detail": "Cambia a Excadrill y utiliza Trampa Rocas, luego cambia a Cloyster +6",
@@ -333,7 +346,7 @@
     "id": "nidoqueen",
     "name": "Nidoqueen",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Truco",
+    "initialMove": "TRUCO",
     "tricks": [
       {
         "detail": "Cambia a Excadrill 6+2 (Terremoto para matar a Lapras) (Si Lapras aparece mientras te estas preparando, cambia a Poliwrath 6+2)",
@@ -345,7 +358,7 @@
     "id": "raichu",
     "name": "Raichu",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Cambia a chandelure",
+    "initialMove": "CAMBIA A CHANDELURE",
     "tricks": [
       {
         "detail": "Utiliza Truco para encerrar Escaldar de Slowbro, entra Poliwrath 6+2",
@@ -357,23 +370,22 @@
     "id": "slowbro",
     "name": "Slowbro",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Cambia a chandelure",
+    "initialMove": "CAMBIA A CHANDELURE",
     "tricks": [
       {
         "detail": "SI UTILIZA LANZALLAMAS, usa Truco para encerrar en Escaldar, Poliwrath 6+2",
+        "variant": []
+      },
+      {
+        "detail": "Si cambia a Dragonite usa Poder Oculto para bajar vida hasta que cambie:",
         "variant": [
           {
-            "detail": "Si cambia a Dragonite usa Poder Oculto para bajar vida hasta que cambie:"
+            "detail": "LAPRAS: Poliwrath 6+2+6 (Aún no se que significa el último +6, me imagino que es otro Tambor para que se cure el Poliwrath) (Si te atacan con Rayo cambia a Excadrill 6+2)"
+          },
+          {
+            "detail": "LUCARIO: Cambia a Scrafty, vuelve a entrar Chandelure para usar Truco y encerrar en Triturar / Roca Afilada, vuelve a salir Scrafty +2"
           }
         ]
-      },
-      {
-        "detail": "Lapras: Poliwrath 6+2+6 (Aún no se que significa el último +6, me imagino que es otro Tambor para que se cure el Poliwrath) (Si te atacan con Rayo cambia a Excadrill 6+2)",
-        "variant": []
-      },
-      {
-        "detail": "Lucario: Cambia a Scrafty, vuelve a entrar Chandelure para usar Truco y encerrar en Triturar / Roca Afilada, vuelve a salir Scrafty +2",
-        "variant": []
       }
     ]
   },
@@ -381,7 +393,7 @@
     "id": "togekiss",
     "name": "Togekiss",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Cambia a chandelure",
+    "initialMove": "CAMBIA A CHANDELURE",
     "tricks": [
       {
         "detail": "Nidoking / Nidoqueen, usa Truco para bloquear movimiento de tierra, entra Excadrill 6+2 (Usa terremoto para matar a Lapras)",
@@ -389,11 +401,11 @@
       },
       {
         "detail": "Hariyama, usa Truco para bloquear Roca Afilada, sale Scrafty +3 (Usa A Bocajarro para matar a Hariyama, Puño Drenaje para Lapras, Paliza para Nidoqueen)",
-        "variant": [
-          {
-            "detail": "Si No Cambia usa Lanzallamas para bajar la vida a Togekiss, luego cambia a Scrafty y vuelve a cambiar Chandelure para usar Truco y encerrar el Roca Afilada, saca a Scrafty +3 (Usa A Bocajarro para matar a Conkeldurr, Puño Drenaje para Lapras, Paliza para Gliscor)"
-          }
-        ]
+        "variant": []
+      },
+      {
+        "detail": "Si No Cambia usa Lanzallamas para bajar la vida a Togekiss, luego cambia a Scrafty y vuelve a cambiar Chandelure para usar Truco y encerrar el Roca Afilada, saca a Scrafty +3 (Usa A Bocajarro para matar a Conkeldurr, Puño Drenaje para Lapras, Paliza para Gliscor)",
+        "variant": []
       }
     ]
   },
@@ -401,7 +413,7 @@
     "id": "vileplume",
     "name": "Vileplume",
     "image": "/placeholder.svg?height=80&width=80",
-    "initialMove": "Cambia a chandelure",
+    "initialMove": "CAMBIA A CHANDELURE",
     "tricks": [
       {
         "detail": "Utiliza Lanzallamas para derrotar, saldrá Bronzong así que cambia a Excadrill 6+2 y Trampa Rocas",

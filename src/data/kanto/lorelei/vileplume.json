@@ -1,0 +1,9 @@
+{
+  "id": "vileplume",
+  "name": "Vileplume",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {"detail": "Utiliza Lanzallamas para derrotar, saldrá Bronzong así que cambia a Excadrill 6+2 y Trampa Rocas", "variant": []}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "raichu",
+  "name": "Raichu",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {"detail": "Utiliza Truco para encerrar Escaldar de Slowbro, entra Poliwrath 6+2", "variant": []}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "nidoking",
+  "name": "Nidoking",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {"detail": "Cambia a Excadrill y utiliza Trampa Rocas, luego cambia a Cloyster +6", "variant": []}
+  ]
+}
