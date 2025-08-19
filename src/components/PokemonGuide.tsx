@@ -63,7 +63,7 @@ export default function PokemonGuide() {
   const [expandedRegion, setExpandedRegion] = useState<string | null>(null);
   const [expandedLeader, setExpandedLeader] = useState<string | null>(null);
   const [selectedPokemon, setSelectedPokemon] = useState<Pokemon | null>(null);
-  const [currentGuide, setCurrentGuide] = useState<GuideData | null>(null);
+  //const [currentGuide, setCurrentGuide] = useState<GuideData | null>(null);
   const [lightMode, setLightMode] = useState(false);
   const [regions, setRegions] = useState<Region[]>([]);
   const { getPokemonFiles } = useDynamicImports();
@@ -143,18 +143,11 @@ export default function PokemonGuide() {
       setExpandedRegion(null);
       setExpandedLeader(null);
       setSelectedPokemon(null);
-      setCurrentGuide(null);
     } else {
       setExpandedRegion(regionId);
       setExpandedLeader(null);
       setSelectedPokemon(null);
-      try {
-        const guide = await import(`../data/guide-${regionId}.json`);
-        setCurrentGuide(guide.default || guide);
-      } catch (error) {
-        console.error(`Could not load guide for ${regionId}:`, error);
-        setCurrentGuide(null);
-      }
+     
     }
   };
 
@@ -243,7 +236,7 @@ export default function PokemonGuide() {
         )}
 
         {/* Pokemon Grid */}
-        {expandedLeader && currentGuide && (
+        {expandedLeader && (
           <div className="mb-6 animate-in slide-in-from-top duration-300">
             <div className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-2">
               {currentLeaderPokemons.map((pokemon) => (
