@@ -243,7 +243,7 @@ export default function PokemonGuide() {
         {/* Pokemon Grid */}
         {expandedLeader && currentGuide && (
           <div className="mb-6 animate-in slide-in-from-top duration-300">
-            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-2">
               {currentLeaderPokemons.map((pokemon) => (
                   <div
                     key={pokemon.id || pokemon.name}
@@ -254,11 +254,13 @@ export default function PokemonGuide() {
                     }`}
                     onClick={() => handlePokemonClick(pokemon)}
                   >
-                    <img
-                      src={pokemon.image || "/placeholder.svg"}
-                      alt={pokemon.name}
-                      className="w-full h-24 object-cover"
-                    />
+                    <div className="flex items-center justify-center">
+                      <img
+                        src={`src/data/images/pokemon/${pokemon.name.toLowerCase().replace(/ /g, '_')}.png`}
+                        alt={pokemon.name}
+                        className="w-24 h-24 object-contain"
+                      />
+                    </div>
                     <div className="absolute inset-0 bg-black bg-opacity-30 flex items-end">
                       <span className="text-white text-sm font-medium p-2 w-full text-center bg-black bg-opacity-60">
                         {pokemon.name}

@@ -1,6 +1,6 @@
 {
-    "id": "gorluck",
-    "name": "Gorluck",
+    "id": "golurk",
+    "name": "Golurk",
     "image": "/placeholder.svg?height=80&width=80",
     "initialMove": "TRUCO (Verificar ya que es lo mismo que Exeggutor)",
     "tricks": [
