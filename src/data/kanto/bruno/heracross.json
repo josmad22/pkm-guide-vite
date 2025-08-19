@@ -1,0 +1,12 @@
+{
+  "id": "heracross",
+  "name": "Heracross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Cambia a Rhyperior, saca a Cloyster +4",
+      "variant": []
+    }
+  ]
+}

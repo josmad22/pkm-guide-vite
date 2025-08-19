@@ -1,0 +1,61 @@
+{
+  "id": "slowbro",
+  "name": "Slowbro",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "ACUA COLA → Ver si acierta",
+      "variant": [
+        {
+          "detail": "Acierta → Volver a usar Truco para bloquear a Krookodile, Cloyster +4. / Carámbano para matar a Lucario"
+        },
+        {
+          "detail": "Falla → Colocar Trampa Rocas, evaluar situación:",
+          "variant": [
+            {
+              "detail": "Slowbro no se retira → Poliwrath 6+2"
+            },
+            {
+              "detail": "Sale Metagross → Chandelure usa Truco para bloquear Avalancha / Roca Afilada, luego cambia a Metagross y Truco para bloquear a Krookodile, Cloyster +4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "LANZALLAMAS → Colocar Trampa Rocas, luego ver el objeto",
+      "variant": [
+        {
+          "detail": "Casco Dentado → Chandelure 2+2. / Lanzallamas para barrer"
+        },
+        {
+          "detail": "Restos → Chandelure +2 Píldoras (At. Esp.). / Lanzallamas para barrer"
+        }
+      ]
+    },
+    {
+      "detail": "AGGRON → Chandelure +2 Píldoras (At. Esp.). / Lanzallamas para barrer / Si Chandelure es eliminado por Terremoto de Hitmonchan → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "KROOKODILE → Cloyster +4. / Carámbano para matar a Lucario",
+      "variant": []
+    },
+    {
+      "detail": "STEELIX → Cloyster +6. / Carámbano para matar a Steelix",
+      "variant": []
+    },
+    {
+      "detail": "METAGROSS → Cambiar a Chandelure",
+      "variant": [
+        {
+          "detail": "Si no se retira → Usar una vez Poder Oculto Hielo para bajar PS, luego cambiar a Excadrill contra Slowbro, colocar Trampa Rocas, Poliwrath 6+2"
+        },
+        {
+          "detail": "Contra Krookodile → Truco para bloquear Terremoto, Cloyster +4. / Carámbano para matar a Lucario"
+        }
+      ]
+    }
+  ]
+}

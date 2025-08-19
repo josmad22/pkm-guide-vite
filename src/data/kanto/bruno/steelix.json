@@ -1,0 +1,16 @@
+{
+  "id": "steelix",
+  "name": "Steelix",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Revestimiento Metálico → Cloyster +6. / Cloyster usa Carámbano para matar a Steelix.",
+      "variant": []
+    },
+    {
+      "detail": "Casco Dentado → Cloyster +4 + Medicina de At. Esp. // Surf hitmontop y machamp",
+      "variant": []
+    }
+  ]
+}

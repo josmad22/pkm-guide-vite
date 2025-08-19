@@ -1,0 +1,23 @@
+{
+  "id": "hitmonlee",
+  "name": "Hitmonlee",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "UTILIZA TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "Si entra Machamp → Cambia a Chandelure y usa Truco",
+      "variant": [
+        {
+          "detail": "Si sale Blastoise → Poliwrath 6+2"
+        },
+        {
+          "detail": "Si usa Roca Afilada → Excadrill 4+2"
+        }
+      ]
+    },
+    {
+      "detail": "Si entra Metagross → Chandelure usa Lanzallamas para matarlo. Si luego sale Blastoise → Poliwrath 6+2",
+      "variant": []
+    }
+  ]
+}

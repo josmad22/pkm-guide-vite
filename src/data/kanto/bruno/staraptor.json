@@ -1,0 +1,20 @@
+{
+  "id": "staraptor",
+  "name": "Staraptor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "A Bocajarro → Colocar Trampa Rocas, Chandelure usa Lanzallamas, entra Slowbro, Poliwrath 6+0. / Slowbro necesita dos golpes. Si hace Tambor y sale Machamp, no importa, simplemente barre.",
+      "variant": []
+    },
+    {
+      "detail": "Steelix con Chaleco→ Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "Steelix con Casco Dentado O rev. metálico → Cloyster +4 + Medicina de At. Esp.",
+      "variant": []
+    }
+  ]
+}

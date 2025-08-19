@@ -1,0 +1,12 @@
+{
+  "id": "gliscor",
+  "name": "Gliscor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Encierras en Terremoto, Cloyster +4 + Especial X / Carámbano contra Hitmonlee",
+      "variant": []
+    }
+  ]
+}

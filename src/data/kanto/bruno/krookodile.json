@@ -1,0 +1,12 @@
+{
+  "id": "krookodile",
+  "name": "Krookodile",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Enciérralo en Terremoto, Cloyster + 4. (Usa Carámbano para matar a Lucario.)",
+      "variant": []
+    }
+  ]
+}

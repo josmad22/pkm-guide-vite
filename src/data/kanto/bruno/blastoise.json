@@ -1,0 +1,16 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "USAR TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "TORTERRA→ Cambia a Cloyster, luego a Metagross con Truco, bloquea Terremoto, Cloyster +4 + Especial X",
+      "variant": []
+    },
+    {
+      "detail": "NO CAMBIA→ Poliwrath 6+2+6",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ursaring",
+  "name": "Ursaring",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquea a Steelix → Cloyster +6",
+      "variant": []
+    }
+  ]
+}

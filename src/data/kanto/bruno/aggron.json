@@ -1,0 +1,12 @@
+{
+  "id": "aggron",
+  "name": "Aggron",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Utiliza +2 Velocidad X para boostear a Chandelure a +4 Especial X, utiliza Lanzallamas para barrer todo el equipo. (Si Chandelure muere por Hitmonchan, saca a Cloyster +4) (No te asustes si sale Slowbro o Salamences, igual mueren)",
+      "variant": []
+    }
+  ]
+}

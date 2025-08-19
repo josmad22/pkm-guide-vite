@@ -1,0 +1,23 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Si Eelektross no se retira → Truco para ver qué movimiento usa",
+      "variant": [
+        {
+          "detail": "Si usa Voltio Cruel → Excadrill 6+2"
+        },
+        {
+          "detail": "Si usa Rayo → Excadrill 4+2"
+        }
+      ]
+    },
+    {
+      "detail": "Contra Torterra → Truco para encerrarlo en Terremoto, Cloyster +4 + Especial X",
+      "variant": []
+    }
+  ]
+}

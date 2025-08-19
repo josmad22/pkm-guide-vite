@@ -1,0 +1,16 @@
+{
+  "id": "darmanitan",
+  "name": "Darmanitan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Si quieres hacerlo rápido → Chandelure 4+0, Lanzallamas para barrer el equipo.",
+      "variant": []
+    },
+    {
+      "detail": "Si quieres ahorrar → Truco, cambia a Scrafty +3 ( A Bocajarro para matar a Machamp o Metagross)",
+      "variant": []
+    }
+  ]
+}

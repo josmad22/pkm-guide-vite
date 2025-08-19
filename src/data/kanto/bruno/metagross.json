@@ -1,0 +1,53 @@
+{
+  "id": "metagross",
+  "name": "Metagross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "SI UTILIZA TERREMOTO: Excadrill 4+2",
+      "variant": []
+    },
+    {
+      "detail": "MACHADA → Cambia a Chandelure:",
+      "variant": [
+        {
+          "detail": "Contra Krookodile → Truco para encerrarlo en Terremoto, Cloyster +4 / Carámbano para matar a Lucario // No importa si Salamence te intimida // Surf para Machamp"
+        },
+        {
+          "detail": "Si no se va → Lanza una Poder Oculto para bajarle vida, luego cambia a Excadrill para enfrentarse a Slowbro, coloca Trampa Rocas, Poliwrath 6+2"
+        }
+      ]
+    },
+    {
+      "detail": "PODER OCULTO → Coloca Trampa Rocas, Chandelure 2+2. / Lanzallamas para barrer el equipo (Blastoise necesita 2 lanzallamas)",
+      "variant": []
+    },
+    {
+      "detail": "Puño Meteoro → Cambia a Chandelure:",
+      "variant": [
+        {
+          "detail": "Contra Rhyperior → Truco para encerrarlo en Terremoto, Cloyster +4"
+        },
+        {
+          "detail": "Si no se va → Lanzallamas para matarlo, sale Rhyperior, cambia a Excadrill y luego a Chandelure para hacer Truco, encierra en Terremoto, Cloyster +4"
+        },
+        {
+          "detail": "Si Chandelure es derrotado por Metagross → Metagross entra y remata con Puño Trueno, luego sale Rhyperior, revive a Chandelure, hace Truco y encierra en Terremoto, Cloyster + 4"
+        }
+      ]
+    },
+    {
+      "detail": "Puño Hielo → Cambia a Chandelure frente a Rhyperior, Truco para encerrarlo en Terremoto, Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile → Cloyster +4. / Carámbano para Lucario",
+      "variant": []
+    }
+  ]
+}
