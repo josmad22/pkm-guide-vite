@@ -1,0 +1,12 @@
+{
+  "id": "golduck",
+  "name": "Golduck",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "ENCIERRA A MAROWAK → Cloyster +6 / Surf para Gengar / Si se bloquea Surf, Carámbano para matar a Rotom",
+      "variant": []
+    }
+  ]
+}

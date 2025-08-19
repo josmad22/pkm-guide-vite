@@ -1,0 +1,23 @@
+{
+  "id": "toxicroak",
+  "name": "Toxicroak",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "No se va → Truco para bloquear en Roca Afilada, Scrafty +2",
+      "variant": [
+        {
+          "detail": "Puño Drenaje + Paliza mata a Toxicroak, Puño Drenaje + A Bocajarro mata a Mandibuzz"
+        },
+        {
+          "detail": "Si está envenenado, primero curar el veneno"
+        }
+      ]
+    },
+    {
+      "detail": "Krookodile → Truco para bloquear en Terremoto, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

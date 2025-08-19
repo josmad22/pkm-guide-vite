@@ -1,0 +1,20 @@
+{
+  "id": "seismitoad",
+  "name": "Seismitoad",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Gafas Elegidas → Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "Restos → Cloyster +4. / Carámbano para vencer a Lucario",
+      "variant": []
+    },
+    {
+      "detail": "Casco Dentado → Cloyster +6. / Carámbano para vencer a Houndoom",
+      "variant": []
+    }
+  ]
+}

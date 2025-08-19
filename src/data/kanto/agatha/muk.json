@@ -1,0 +1,23 @@
+{
+  "id": "muk",
+  "name": "Muk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Puño Fuego → Chandelure usa Lanzallamas para debilitar, observa al siguiente:",
+      "variant": [
+        {
+          "detail": "Si entra Gyarados → Poliwrath +6+2"
+        },
+        {
+          "detail": "Si entra Seismitoad → Cloyster +6"
+        }
+      ]
+    },
+    {
+      "detail": "Seismitoad → Cloyster +6",
+      "variant": []
+    }
+  ]
+}

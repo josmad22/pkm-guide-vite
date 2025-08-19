@@ -1,0 +1,27 @@
+{
+  "id": "mandibuzz",
+  "name": "Mandibuzz",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Krookodile → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad → Cloyster +4 / Carámbano para matar a Lucario / Houndoom",
+      "variant": []
+    },
+    {
+      "detail": "Finta (No se que es) → Trampa Rocas, entra Scrafty, luego entra Chandelure:",
+      "variant": [
+        {
+          "detail": "Contra Toxicroak → Truco para bloquear Avalancha, Scrafty +3 / A Bocajarro para matar a Mandibuzz"
+        },
+        {
+          "detail": "Contra Rotom → Truco para bloquear Houndoom, Scrafty +3 / A Bocajarro para matar a Mandibuzz (pendiente de prueba)"
+        }
+      ]
+    }
+  ]
+}

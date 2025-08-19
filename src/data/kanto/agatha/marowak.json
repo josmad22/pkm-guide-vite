@@ -1,0 +1,16 @@
+{
+  "id": "marowak",
+  "name": "Marowak",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza Terremoto, cambia a Cloyster +4 (Utiliza Carámbano con Gengar)",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza Huesomerang, cambia a Cloyster +6 (Utiliza Surf con Gengar)(Si surf esta bloqueado usa Carambano contra Rotom)",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "houndoom",
+  "name": "Houndoom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Houndoom no se retira → Usar Truco Cambia a Metagross y observa que Hace.",
+      "variant": [
+        {
+          "detail": "Persecución → Cambiar a Metagross, poner Trampa Rocas, Scrafty +2. / A Bocajarro para vencer a Toxicroak, Probar a Bocajarro para para vencer a Mandibuzz"
+        },
+        {
+          "detail": "Pulso Umbrío → Trampa Rocas, Scrafty +3. / A Bocajarro para vencer a Seismitoad"
+        },
+        {
+          "detail": "Seismitoad → Cloyster +4. / Carámbano para vencer a Lucario / Surf contra Gengar / Si se bloquea Surf, Carámbano para Houndoom"
+        }
+      ]
+    },
+    {
+      "detail": "Contra Seismitoad → Usar Truco y revisar el objeto:",
+      "variant": [
+        {
+          "detail": "Restos → Cloyster +4. / Carámbano para vencer a Lucario"
+        },
+        {
+          "detail": "Casco Dentado → Cloyster +6. / Carámbano para vencer a Houndoom"
+        }
+      ]
+    }
+  ]
+}

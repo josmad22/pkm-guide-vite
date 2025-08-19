@@ -1,0 +1,16 @@
+{
+  "id": "hydreigon",
+  "name": "Hydreigon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE Y TRUCO",
+  "tricks": [
+    {
+      "detail": "Hydreigon no se retira → Scrafty +2 / Si queda bloqueado Paliza, usar A Bocajarro para matar a Arbok / Si rota a Rotom, Excadrill mete Rocas 4+2",
+      "variant": []
+    },
+    {
+      "detail": "Si entra Rotom → Cambiar a Metagross para colocar Rocas, luego Poliwrath +6+2 / puño hielo contra gengar",
+      "variant": []
+    }
+  ]
+}

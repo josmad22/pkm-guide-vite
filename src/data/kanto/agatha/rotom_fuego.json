@@ -1,0 +1,16 @@
+{
+  "id": "rotom_fuego",
+  "name": "Rotom Fuego",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Rotom no se va --> Truco para bloquear Rayo o Muk, Excadrill remata con Terremoto, sale Gyarados, Poliwrath +6 y +2.",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad --> Cloyster +6",
+      "variant": []
+    }
+  ]
+}

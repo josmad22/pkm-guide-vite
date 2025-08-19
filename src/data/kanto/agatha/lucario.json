@@ -1,0 +1,20 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "A Bocajarro → Truco para bloquear con Avalancha, Politoed +6 + Raíz Energía +2 / A Bocajarro para matar a Mandibuzz, Puño Hielo para matar a Rotom",
+      "variant": []
+    },
+    {
+      "detail": "Esfera Aural → Lanzallamas para debilitar, entra Hydreigon, Scrafty +2 / Si Chandelure tiene menos del 93% de vida, no debilitar directamente --- usar Truco para bloquear Pulso Umbrío, luego Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad → Truco para bloquear Terremoto, Cloyster +4 / Carámbano para matar a Lucario / Surf para Gengar",
+      "variant": []
+    }
+  ]
+}

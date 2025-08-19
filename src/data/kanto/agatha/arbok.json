@@ -1,0 +1,42 @@
+{
+  "id": "arbok",
+  "name": "Arbok",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si Arbok se queda y te intercambio una Cinta Xperto cambia Cloyster +6 (Utiliza Carámbano contra Gengar)",
+      "variant": []
+    },
+    {
+      "detail": "Si Arbok se queda y te intercambio Vidasfera cambia a Cloyster +6 (Surf para matar a Gengar) (Si Surf se bloqueo, utiliza Carámbano para matar a Rotom)",
+      "variant": []
+    },
+    {
+      "detail": "Si cambia por Marowak, entra Cloyster +6 (Surf para matar a Gengar) (Si Surf se bloqueo, utiliza Carámbano para matar a Rotom)",
+      "variant": []
+    },
+    {
+      "detail": "Si cambia por Hydreigon, utiliza Trampa Rocas, luego cambia a Chandelure para usar Truco (Si no logras meter Trampa Rocas, no importa igual cambia a Chandelure)",
+      "variant": [
+        {
+          "detail": "Si Hydreigon no cambia, saca a Scrafty +2"
+        },
+        {
+          "detail": "Si entra Rotom, cambia a Poliwrath Tambor + Vel x. (Si no hay rocas en el campo utiliza Poliwrath con 1 Defensa Especial X )"
+        }
+      ]
+    },
+    {
+      "detail": "Si cambia por Rotom Lavadora, utiliza Trampa Rocas y Observa:",
+      "variant": [
+        {
+          "detail": "Si usa Rayo, cambia a Excadrill 4+2"
+        },
+        {
+          "detail": "Si usa Hidrobomba, cambia a Poliwrath Tambor + Vel x"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gengar",
+  "name": "Gengar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Lanzallamas [Zoroark disfrazado] → Elección:",
+      "variant": [
+        {
+          "detail": "Estilo seguro → Chandelure usa Lanzallamas para debilitar, entra Golduck, cambia a Poliwrath, luego a Chandelure para hacer Truco, se bloquea en Hidrocañón, Poliwrath 6+2, Puño Hielo para vencer a Drapion, Si aún no has derrotado a Mismagius usa Terremoto contra Gengar"
+        }
+      ]
+    },
+    {
+      "detail": "Bola Sombra → Scrafty +2 + Raíz Energía + 1",
+      "variant": []
+    },
+    {
+      "detail": "Rayo → Excadrill 4+2 // Usa cabeza de hierro contra Gengar",
+      "variant": []
+    },
+    {
+      "detail": "Seismitoad → Revisar el objeto:",
+      "variant": [
+        {
+          "detail": "Restos → Cloyster +4. / Carámbano para vencer a Lucario"
+        },
+        {
+          "detail": "Casco Dentado / Gafas Elegidas → Cloyster +6. / Carámbano para vencer a Lucario"
+        }
+      ]
+    },
+    {
+      "detail": "KROOKODILE → Ver si tiene Intimidación:",
+      "variant": [
+        {
+          "detail": "Con Intimidación → Cloyster +4 / Surf con Gengar / Carámbano con Houndoom"
+        },
+        {
+          "detail": "SIN INTIMIDACIÓN → Cloyster +6. / Carámbano para vencer a Houndoom"
+        }
+      ]
+    },
+    {
+      "detail": "Marowak → Cloyster +6. / Surf para matar a Gengar / Si queda bloqueado en Surf, Carámbano para vencer a Rotom",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon → Poner Trampa Rocas, cambiar a Chandelure y usar Truco:",
+      "variant": [
+        {
+          "detail": "Hydreigon no se retira → Scrafty +2"
+        },
+        {
+          "detail": "Sale Rotom → Poliwrath 6+2 / A Bocajarro para vencer a Arbok"
+        }
+      ]
+    }
+  ]
+}

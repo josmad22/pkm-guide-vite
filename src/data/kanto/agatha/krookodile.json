@@ -1,0 +1,16 @@
+{
+  "id": "krookodile",
+  "name": "Krookodile",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "OBSERVA SI TIENE INTIMIDACIÓN",
+  "tricks": [
+    {
+      "detail": "Si tiene, utiliza Truco para encerrar en Terremoto, saca a Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "No tiene, cambia directamente a Cloyster +6 (Usa Carámbano contra Houndoom) (Surf contra Gengar si aún no mataste a Houndoom)",
+      "variant": []
+    }
+  ]
+}
