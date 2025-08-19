@@ -1,0 +1,64 @@
+{
+  "regions": [
+    {
+      "id": "kanto",
+      "name": "Kanto",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "lorelei", "name": "Lorelei" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "bruno", "name": "Bruno" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "agatha", "name": "Agatha" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "lance", "name": "Lance" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "blue", "name": "Blue" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []}
+      ]
+    },
+    {
+      "id": "johto",
+      "name": "Johto",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "will", "name": "Will" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "koga", "name": "Koga" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "bruno", "name": "Bruno" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "karen", "name": "Karen" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "lance", "name": "Lance" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []}
+      ]
+    },
+    {
+      "id": "hoenn",
+      "name": "Hoenn",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "sidney", "name": "Sidney" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "phoebe", "name": "Phoebe" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "glacia", "name": "Glacia" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "drake", "name": "Drake" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "wallace", "name": "Wallace" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []}
+      ]
+    },
+    {
+      "id": "sinnoh",
+      "name": "Sinnoh",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "aaron", "name": "Aaron" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "bertha", "name": "Bertha" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "flint", "name": "Flint" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "lucian", "name": "Lucian" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "cynthia", "name": "Cynthia" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []}
+      ]
+    },
+    {
+      "id": "unova",
+      "name": "Unova",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "shauntai", "name": "Shauntai" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "grimsley", "name": "Grimsley" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "caitlin", "name": "Caitlin" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "marshal", "name": "Marshal" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []},
+        { "id": "alder", "name": "Alder" , "image": "/placeholder.svg?height=80&width=80", "pokemons": []}
+      ]
+    }
+  ]
+}

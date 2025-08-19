@@ -1,0 +1,25 @@
+{
+  "leaders": [
+    {
+      "id": "lorelei",
+      "pokemons": [
+        {
+          "id": "articuno",
+          "name": "Articuno"
+        },
+        {
+          "id": "bronzong",
+          "name": "Bronzong"
+        },
+        {
+          "id": "chansey",
+          "name": "Chansey"
+        }
+      ]
+    },
+    {
+      "id": "bruno",
+      "pokemons": []
+    }
+  ]
+}
