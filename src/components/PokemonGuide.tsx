@@ -210,7 +210,7 @@ export default function PokemonGuide() {
               }`}
               onClick={() => handleRegionClick(region.id)}
             >
-              <img src={region.image || "/placeholder.svg"} className="w-full h-24 object-cover" />
+              <img src={region.image || "/placeholder.svg"} alt="" className="w-full h-24 object-cover" />
               <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center">
                 <span className="text-white font-bold text-lg">{region.name}</span>
               </div>
