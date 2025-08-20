@@ -1,0 +1,12 @@
+{
+    "id": "espeon",
+    "name": "Espeon",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "USA TRAMPA ROCAS",
+    "tricks": [
+      {
+        "detail": "Umbreon → Scrafty +2",
+        "variant": []
+      }
+    ]
+  }

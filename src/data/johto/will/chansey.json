@@ -1,0 +1,12 @@
+{
+    "id": "chansey",
+    "name": "Chansey",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "CAMBIA A SCRAFTY",
+    "tricks": [
+      {
+        "detail": "Scrafty +1 → 2 Puño drenaje para derrotar a chansey",
+        "variant": []
+      }
+    ]
+  }

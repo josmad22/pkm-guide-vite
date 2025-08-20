@@ -1,0 +1,16 @@
+{
+    "id": "bronzong",
+    "name": "Bronzong",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "Chandelure usa Lanzallamas para debilitar y revelar al Pokémon rival",
+    "tricks": [
+      {
+        "detail": "ABSOL: cambia a Scrafty +2",
+        "variant": []
+      },
+      {
+        "detail": "EMPOLEON: cambia a Poliwrath 6+2",
+        "variant": []
+      }
+    ]
+  }

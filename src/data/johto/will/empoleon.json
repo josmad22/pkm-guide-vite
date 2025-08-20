@@ -1,0 +1,42 @@
+{
+    "id": "empoleon",
+    "name": "Empoleon",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "TRUCO",
+    "tricks": [
+      {
+        "detail": "GOLURK → Excadrill 4+2",
+        "variant": []
+      },
+      {
+        "detail": "BLISSEY / CHANSEY → Scrafty +1 / a bocajarro para matar a Blissey // Paliza vs Jynx",
+        "variant": []
+      },
+      {
+        "detail": "BRONZONG → Chandelure",
+        "variant": [
+          {
+            "detail": "Contra Empoleon → Truco para bloquear Escaldar, Poliwrath 6+2,",
+            "variant": []
+          },
+          {
+            "detail": "Contra Tropius → Truco para bloquear Poder Oculto, Scrafty +2",
+            "variant": []
+          }
+        ]
+      },
+      {
+        "detail": "VIDASFERA → Poliwrath 2 defensa especial x +2 +6, lo mata Mismagius con Encanto,",
+        "variant": [
+          {
+            "detail": "Hydreigon → Chandelure usa Truco para bloquear Poder Oculto, Scrafty +2",
+            "variant": []
+          }
+        ]
+      },
+      {
+        "detail": "GAFAS ELEGIDAS → Poliwrath 6+2 / A bocajarro para matar a Umbreon",
+        "variant": []
+      }
+    ]
+  }
