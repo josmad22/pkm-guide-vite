@@ -1,0 +1,23 @@
+{
+    "id": "luxray",
+    "name": "Luxray",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "TRUCO",
+    "tricks": [
+      {
+        "detail": "Si sale BRONZONG, cambiar a Chandelure.",
+        "variant": [
+          {
+            "detail": "Hydreigon → Scrafty +4"
+          },
+          {
+            "detail": "CHANDELURE → Truco bloquea Infortunio, Scrafty +2 // Puño Drenaje + Paliza para eliminar Bronzong"
+          }
+        ]
+      },
+      {
+        "detail": "NO SE RETIRA O HYDREIGON → Chandelure usa Truco para intercambiar objeto, Scrafty +4",
+        "variant": []
+      }
+    ]
+  }

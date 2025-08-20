@@ -1,0 +1,23 @@
+{
+    "id": "hydreigon",
+    "name": "Hydreigon",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "CAMBIA A CHANDELURE",
+    "tricks": [
+      {
+        "detail": "LLAMARADA → usa Truco para cambiar objeto, Scrafty usa Danza Dragón +4.",
+        "variant": []
+      },
+      {
+        "detail": "LANZALLAMAS → cambia a Metagross para enfrentar a Milotic, usa Truco,",
+        "variant": [
+          {
+            "detail": "Si entra GOLURK, Excadrill pone Trampa Rocas, cambia a Cloyster +6."
+          },
+          {
+            "detail": "Si usa Escaldar, pon Trampa rocas, Poliwrath usa Tambor +6 y Velocidad X."
+          }
+        ]
+      }
+    ]
+  }

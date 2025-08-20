@@ -1,0 +1,26 @@
+{
+    "id": "lucario",
+    "name": "Lucario",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "CAMBIA A CHANDELURE",
+    "tricks": [
+      {
+        "detail": "LUCARIO NO SE RETIRA → Usa Truco",
+        "variant": [
+          {
+            "detail": "Banda Focus y usa Pulso Umbrío → Scrafty +3"
+          },
+          {
+            "detail": "VIDASFERA Y PULSO UMBRÍO → Scrafty +5 o +3 con Poción de Ataque"
+          },
+          {
+            "detail": "TRITURAR → Scrafty +2"
+          }
+        ]
+      },
+      {
+        "detail": "GOLURK → Usa Truco para bloquear Terremoto, Excadrill coloca Trampa Rocas, Cloyster +6",
+        "variant": []
+      }
+    ]
+} 

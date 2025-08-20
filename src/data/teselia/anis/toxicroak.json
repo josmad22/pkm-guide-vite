@@ -1,0 +1,16 @@
+{
+    "id": "toxicroak",
+    "name": "Toxicroak",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "TRAMPA ROCAS",
+    "tricks": [
+      {
+        "detail": "TERREMOTO → Cloyster usa Rompecoraza +6.",
+        "variant": []
+      },
+      {
+        "detail": "A BOCAJARRO→ Chandelure usa Truco para cambiar objeto, Cloyster usar Rompecoraza +6.",
+        "variant": []
+      }
+    ]
+  }

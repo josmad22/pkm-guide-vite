@@ -6,48 +6,53 @@
   "tricks": [
     {
       "detail": "PATADA BAJA : Usa Truco; si ves que intenta usar Golpe Bajo, lanza un Poder Oculto para forzarlo y luego decide la siguiente jugada.",
-      "variant": []
+      "variant": [
+        {
+          "detail": "PULIMENTO O DANZA ESPADA → Scrafty +3 // Dos ataques de Paliza para eliminar Gliscor",
+          "variant": []
+        },
+        {
+          "detail": "CABEZAHIERRO → Cambia a Metagross y usa Truco",
+          "variant": [
+            {
+              "detail": "Lucario o Eelektross → Chandelure usa Truco para recuperar el Pañuelo, luego usa Truco nuevamente",
+              "variant": [
+                {
+                  "detail": "Pulso Umbrío → Scrafty +5 o +3 con Poción de Ataque",
+                  "variant": []
+                },
+                {
+                  "detail": "Rayo → Excadrill coloca Trampa Rocas 6+2, usa // Terremoto para eliminar Froslass",
+                  "variant": []
+                }
+              ]
+            },  
+            {
+              "detail": "Dragonite → Coloca Trampa Rocas, Chandelure lanza un Poder Oculto para reducir su salud, cambia a Scrafty usa una Poción de Velocidad para barrer // A Bocajarro para eliminar Eelektross // Si Metagross recibe Quemadura → Chandelure lo ayuda a curarla",
+              "variant": []
+            }
+          ]
+        },
+    
+        {
+          "detail": "AVALANCHA → Scrafty +3",
+          "variant": []
+        },
+        {
+          "detail": "PATADA BAJA → Cambia a Metagross y coloca Trampa Rocas, Chandelure +2+2 Prioriza movimientos de ventaja",
+          "variant": []
+        },
+        {
+          "detail": "TRAMPA ROCAS O EXPLOSIÓN METÁLICA → Cloyster +6",
+          "variant": []
+        },
+        {
+          "detail": "PERSECUCIÓN → Scrafty +3 A Bocajarro para eliminar Toxicroak",
+          "variant": []
+        }
+      ]
     },
-    {
-      "detail": "PULIMENTO O DANZA ESPADA → Scrafty +3 // Dos ataques de Paliza para eliminar Gliscor",
-      "variant": []
-    },
-    {
-      "detail": "CABEZAHIERRO → Cambia a Metagross y usa Truco",
-      "variant": []
-    },
-    {
-      "detail": "Lucario o Eelektross → Chandelure usa Truco para recuperar el Pañuelo, luego usa Truco nuevamente",
-      "variant": []
-    },
-    {
-      "detail": "Pulso Umbrío → Scrafty +5 o +3 con Poción de Ataque",
-      "variant": []
-    },
-    {
-      "detail": "Rayo → Excadrill coloca Trampa Rocas 6+2, usa // Terremoto para eliminar Froslass",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite → Coloca Trampa Rocas, Chandelure lanza un Poder Oculto para reducir su salud, cambia a Scrafty usa una Poción de Velocidad para barrer // A Bocajarro para eliminar Eelektross // Si Metagross recibe Quemadura → Chandelure lo ayuda a curarla",
-      "variant": []
-    },
-    {
-      "detail": "AVALANCHA → Scrafty +3",
-      "variant": []
-    },
-    {
-      "detail": "PATADA BAJA → Cambia a Metagross y coloca Trampa Rocas, Chandelure +2+2 Prioriza movimientos de ventaja",
-      "variant": []
-    },
-    {
-      "detail": "TRAMPA ROCAS O EXPLOSIÓN METÁLICA → Cloyster +6",
-      "variant": []
-    },
-    {
-      "detail": "PERSECUCIÓN → Scrafty +3 A Bocajarro para eliminar Toxicroak",
-      "variant": []
-    },
+
     {
       "detail": "GLISCOR → Truco bloquea Terremoto, Cloyster +6 // Hielo para eliminar todos",
       "variant": []
@@ -70,47 +75,51 @@
     },
     {
       "detail": "UMBREON → Cambia a Metagross",
-      "variant": []
-    },
-    {
-      "detail": "UMBREON NO SE RETIRA → Coloca Trampa Rocas, Scrafty usa Danza Dragón (entra Dragonite), luego usa otra Danza Dragón para barrer // Puño Drenaje + Paliza para eliminar Dragonite // A Bocajarro para eliminar Toxicroak",
-      "variant": []
-    },
-    {
-      "detail": "DRAGONITE → Coloca Trampa Rocas y observa el siguiente movimiento",
-      "variant": []
-    },
-    {
-      "detail": "Toxicroak → Coloca Trampa Rocas y evalúa el ataque",
-      "variant": []
-    },
-    {
-      "detail": "Terremoto → Cloyster +6",
-      "variant": []
-    },
-    {
-      "detail": "A Bocajarro → Chandelure usa Truco para intercambiar objeto, Cloyster +6",
-      "variant": []
-    },
-    {
-      "detail": "Umbreon → Scrafty usa Danza Dragón (entra Dragonite), luego usa otra Danza Dragón para barrer // Puño Drenaje + Paliza para eliminar Dragonite // A Bocajarro para eliminar Toxicroak",
-      "variant": []
-    },
-    {
-      "detail": "Bisharp → Cambia a Chandelure y usa Truco",
-      "variant": []
-    },
-    {
-      "detail": "Trampa Rocas o Explosión Metálica→ Cloyster +6",
-      "variant": []
-    },
-    {
-      "detail": "Patada Baja → Chandelure 2+2 Prioriza movimientos de ventaja",
-      "variant": []
-    },
-    {
-      "detail": "Persecución → Scrafty +3 A Bocajarro para eliminar Toxicroak",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "UMBREON NO SE RETIRA → Coloca Trampa Rocas, Scrafty usa Danza Dragón (entra Dragonite), luego usa otra Danza Dragón para barrer // Puño Drenaje + Paliza para eliminar Dragonite // A Bocajarro para eliminar Toxicroak",
+          "variant": []
+        },
+        {
+          "detail": "DRAGONITE → Coloca Trampa Rocas y observa el siguiente movimiento",
+          "variant": [
+            {
+              "detail": "Toxicroak → Coloca Trampa Rocas y evalúa el ataque",
+              "variant": [
+                {
+                  "detail": "Terremoto → Cloyster +6",
+                  "variant": []
+                },
+                {
+                  "detail": "A Bocajarro → Chandelure usa Truco para intercambiar objeto, Cloyster +6",
+                  "variant": []
+                }
+              ]
+            },   
+            {
+              "detail": "Umbreon → Scrafty usa Danza Dragón (entra Dragonite), luego usa otra Danza Dragón para barrer // Puño Drenaje + Paliza para eliminar Dragonite // A Bocajarro para eliminar Toxicroak",
+              "variant": []
+            },
+            {
+              "detail": "Bisharp → Cambia a Chandelure y usa Truco",
+              "variant": [
+                {
+                  "detail": "Trampa Rocas o Explosión Metálica→ Cloyster +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Patada Baja → Chandelure 2+2 Prioriza movimientos de ventaja",
+                  "variant": []
+                },
+                {
+                  "detail": "Persecución → Scrafty +3 A Bocajarro para eliminar Toxicroak",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }   
   ]
 }

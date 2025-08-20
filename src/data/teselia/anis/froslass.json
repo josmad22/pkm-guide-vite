@@ -10,23 +10,25 @@
     },
     {
       "detail": "BOLA SOMBRA → Selección libre",
-      "variant": []
-    },
-    {
-      "detail": "Rápido y valiente → Scrafty +4 o +2 con Poción de Ataque // No teme que Paliza quede bloqueado",
-      "variant": []
-    },
-    {
-      "detail": "Lento pero seguro → Coloca Trampa Rocas, Excadrill usa Cabeza de Hierro para eliminar y observa el siguiente Pokémon",
-      "variant": []
-    },
-    {
-      "detail": "Dragonite → Cambiar a Chandelure y usar Poder Oculto para eliminar, si entra Chandelure o Lucario, cambiar a Scrafty y luego a Chandelure para usar Truco, bloquear con Bola Sombra o Pulso Umbrío, Scrafty +2",
-      "variant": []
-    },
-    {
-      "detail": "Lucario o Chandelure → Cambiar a Chandelure y usar Truco, bloquear con Pulso Umbrío o Bola Sombra, Scrafty +2",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Rápido y valiente → Scrafty +4 o +2 con Poción de Ataque // No teme que Paliza quede bloqueado",
+          "variant": []
+        },
+        {
+          "detail": "Lento pero seguro → Coloca Trampa Rocas, Excadrill usa Cabeza de Hierro para eliminar y observa el siguiente Pokémon",
+          "variant": [
+            {
+              "detail": "Dragonite → Cambiar a Chandelure y usar Poder Oculto para eliminar, si entra Chandelure o Lucario, cambiar a Scrafty y luego a Chandelure para usar Truco, bloquear con Bola Sombra o Pulso Umbrío, Scrafty +2",
+              "variant": []
+            },
+            {
+              "detail": "Lucario o Chandelure → Cambiar a Chandelure y usar Truco, bloquear con Pulso Umbrío o Bola Sombra, Scrafty +2",
+              "variant": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }

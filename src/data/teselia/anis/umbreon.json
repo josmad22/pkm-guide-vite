@@ -1,0 +1,16 @@
+{
+    "id": "umbreon",
+    "name": "Umbreon",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "Coloca Trampa Rocas",
+    "tricks": [
+      {
+        "detail": "Scrafty +2 // Puño Drenaje + Paliza para eliminar Dragonite // A Bocajarro para eliminar Toxicroak",
+        "variant": [
+          {
+            "detail": "Dragonite intenta escapar → Sigue fortaleciendo"
+          }
+        ]
+      }
+    ]
+  }

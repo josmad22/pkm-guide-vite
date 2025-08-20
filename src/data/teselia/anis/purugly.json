@@ -1,0 +1,12 @@
+{
+    "id": "purugly",
+    "name": "Purugly",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "",
+    "tricks": [
+      {
+        "detail": "TRUCO para bloquear a Golurk, Excadrill pone Trampa Rocas, Cloyster usa Rompecoraza +6.",
+        "variant": []
+      }
+    ]
+  }

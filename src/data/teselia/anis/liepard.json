@@ -1,0 +1,32 @@
+{
+    "id": "liepard",
+    "name": "Liepard",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "TRAMPA ROCAS",
+    "tricks": [
+      {
+        "detail": "JUEGO SUCIO → Scrafty +3 // A Bocajarro para eliminar Rotom // Si Paliza queda bloqueado y entra Chandelure → Cambia a Chandelure y usa Bola Sombra para eliminar",
+        "variant": []
+      },
+      {
+        "detail": "ROTOM → Cambia a Politoed, luego a Metagross para forzar el Volt Switch y observar el siguiente Pokémon",
+        "variant": [
+          {
+            "detail": "Eelektross o Bisharp → Cambia a Chandelure y usa Truco",
+            "variant": [
+              {
+                "detail": "Voltio Cruel → Excadrill +4+2"
+              },
+              {
+                "detail": "Avalancha → Scrafty +3"
+              }
+            ]
+          },
+          {
+            "detail": "CHANDELURE → Cambia a Chandelure y usa Truco para intercambiar objeto, Scrafty +3 // Cuida tu salud curate con Raíz Energía // Daño Crítico de Bola Sombra -36.5%",
+            "variant": []
+          }
+        ]
+      }     
+    ]
+  }

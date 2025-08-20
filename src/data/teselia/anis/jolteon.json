@@ -1,0 +1,20 @@
+{
+    "id": "jolteon",
+    "name": "Jolteon",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "Truco bloquea Rayo, cambia a Excadrill y evalúa la situación",
+    "tricks": [
+      {
+        "detail": "TRUCO FALLA POR PARÁLISIS, cambia a Excadrill y luego a Chandelure para seguir usando Truco. Si Jolteon no se va, Excadrill usa Danza Espadas +4 y Velocidad X.",
+        "variant": []
+      },
+      {
+        "detail": "JOLTEON NO SE VA, Excadrill usa Danza Espadas +4 y Velocidad X.",
+        "variant": []
+      },
+      {
+        "detail": "UMBREON → Scrafty usa Danza Dragón +3.",
+        "variant": []
+      }
+    ]
+  }

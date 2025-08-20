@@ -2,12 +2,8 @@
   "id": "dragonite",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "TRUCO, Si Queda encerrado en Tijera X, pon trampa Rocas y Observa por quien Cambia:",
   "tricks": [
-    {
-      "detail": "Si Queda encerrado en Tijera X, pon trampa Rocas y Observa por quien Cambia:",
-      "variant": []
-    },
     {
       "detail": "PUÑO FUEGO: Cambia Chandelure y Debilitarlo con Poder Oculto observa a quien saca:",
       "variant": [
@@ -22,8 +18,17 @@
       "variant": []
     },
     {
-      "detail": "TOXICROAK: Trampa Rocas y observa qué movimiento usa. - Si usa Terremoto: Cambia a Cloyster +6. - Si usa A Bocajarro: Cambia a Chandelure usa Truco para cambiar objetos, Cambia a Cloyster +6.",
-      "variant": []
+      "detail": "TOXICROAK: Trampa Rocas y observa qué movimiento usa.",
+      "variant": [
+        {
+          "detail": "Terremoto, Cloyster +6",
+          "variant": []
+        },
+        {
+          "detail": "A Bocajarro, cambiar a Chandelure y usar Truco para intercambiar objeto, Cambiar Cloyster x6",
+          "variant": []
+        }
+      ]
     }
   ]
 }
