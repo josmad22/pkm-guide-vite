@@ -1,0 +1,25 @@
+{
+  "id": "vaporeon",
+  "name": "Vaporeon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Sandslash → Metagross coloca Trampa Rocas, Cloyster +6.",
+      "variant": [
+        {
+          "detail": "Si Metagross falla al colocar Trampa Rocas (muere), entonces Cloyster +6 con medicina de defensa especial / Carámbano mata a Magnezone.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Golem → Excadrill +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "Escaldar → Colocar Trampa Rocas, Scrafty usa medicina de defensa especial +3. + Pildora \"DIRECTO\" esto aumenta la probabilidad de golpe crítico",
+      "variant": []
+    }
+  ]
+}

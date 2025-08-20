@@ -1,0 +1,42 @@
+{
+  "id": "jolteon",
+  "name": "Jolteon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "(Umbreon) → Scrafty 3. / A Bocajarro mata a Machamp. Paliza para Jolteon.",
+      "variant": []
+    },
+    {
+      "detail": "(Machamp) → Cambia a Chandelure.",
+      "variant": [
+        {
+          "detail": "No se retira → Usa Truco para bloquear a Blastoise, Scrafty +2. / A Bocajarro mata a Machamp. Paliza para Jolteon",
+          "variant": []
+        },
+        {
+          "detail": "Contra (Umbreon) → Scrafty +3. / A Bocajarro mata a Machamp. Si cambia a Blastoise, Scrafty +2. / A Bocajarro mata a Machamp, Paliza mata a Jolteon.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "(Vidasfera) → Cambia a Excadrill. Truco falla (parálisis), se sacrifica y entra Chandelure para seguir usando Truco.",
+      "variant": [
+        {
+          "detail": "No se retira → Excadrill +6+2 + Trampa Rocas",
+          "variant": []
+        },
+        {
+          "detail": "Contra (Rhyperior) → Cambia a Chandelure y usa Truco para bloquear Terremoto, Cloyster +6. / Todo se mata con Carámbano. Si temes que Chandelure entre congelado, cambia a Metagross para sacrificarlo y luego entra Chandelure. (Más seguro)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "(Banda Focus) → Excadrill 4+2. Truco falla (parálisis), se sacrifica y entra Chandelure para seguir con Truco.",
+      "variant": []
+    }
+  ]
+}

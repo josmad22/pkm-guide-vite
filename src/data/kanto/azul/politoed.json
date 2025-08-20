@@ -1,0 +1,42 @@
+{
+  "id": "politoed",
+  "name": "Politoed",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A POLIWRATH",
+  "tricks": [
+    {
+      "detail": "Si no se retira → Cambiar a Chandelure, usar Truco para bloquear Hidrobomba → Poliwrath 6+2+6+6 // Fijate los turnos de lluvia ya que si luego entra Kingdra será más rápido que Poliwrath",
+      "variant": []
+    },
+    {
+      "detail": "Contra Nidoqueen (de entrada) → Sacrificar a Poliwrath, luego Metagross usa Truco para bloquear Terremoto / Tierra Viva, luego Cloyster +6.",
+      "variant": []
+    },
+    {
+      "detail": "Contra Blastoise (de entrada) → Cambiar a Metagross para ver el movimiento.",
+      "variant": [
+        {
+          "detail": "Rayo Hielo → Usar Truco",
+          "variant": [
+            {
+              "detail": "Después de Nidoking → Cloyster +6",
+              "variant": []
+            },
+            {
+              "detail": "Scizor → Usar Truco de nuevo, cambiar a Chandelure frente a Scizor, luego Cloyster +6",
+              "variant": []
+            },
+            {
+              "detail": "Blastoise no se retira → Poliwrath 6+2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Esfera Aural → Usar Truco para bloquear a Nidoking, luego Cloyster +6 // Si Blastoise no se retira → Poliwrath 6+2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

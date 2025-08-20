@@ -1,0 +1,41 @@
+{
+  "id": "ninetales",
+  "name": "Ninetales",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "LLAMARADA → Usar Truco",
+      "variant": []
+    },
+    {
+      "detail": "Rayo Solar → Cambiar a Metagross y usar Truco, bloquear a Rhyperior, luego Cloyster con +6",
+      "variant": []
+    },
+    {
+      "detail": "Ninetales no se retira → Chandelure usa Bola Sombra, si entra Golduck o Rhyperior, usar Truco y sacrificarse. Luego, Metagross usa Truco para bloquear a Rhyperior o Terremoto. Cloyster +6 limpia.",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto → Scrafty +3 /// Paliza + Puño Drenaje para Magnezone /////// A Bocajarro para Poliwrath //// Paliza para Sandslash //// Si Magnezone está a rango de Activar Baya (VIDA EN ROJO) usa Raíz Energía para curarte y seguir barriendo.",
+      "variant": []
+    },
+    {
+      "detail": "Psicocarga → Scrafty +3 // Paliza + Puño Drenaje para Magnezone",
+      "variant": [
+        {
+          "detail": "Si el Rival cambia a Vaporeon, usa Defensa Especial X y sigue boosteando. (CRÍTICO -51.7%) // a Bocajarro para Machamp",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Vaporeon → Cambiar a Metagross y usar Truco para bloquear a Magnezone, Excadrill 4 + 2 + Trampa Rocas",
+      "variant": []
+    },
+    {
+      "detail": "RHYPERIOR → Usar Truco para bloquear Terremoto, luego Cloyster +6",
+      "variant": []
+    }
+  ]
+}

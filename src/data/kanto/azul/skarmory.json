@@ -1,0 +1,16 @@
+{
+  "id": "skarmory",
+  "name": "Skarmory",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Nidoking → Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior → Cloyster +6. // Todo se mata con Carámbano",
+      "variant": []
+    }
+  ]
+}

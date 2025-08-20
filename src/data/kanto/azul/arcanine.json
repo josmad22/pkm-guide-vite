@@ -1,0 +1,16 @@
+{
+  "id": "arcanine",
+  "name": "Arcanine",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "(No se retira) → Usa Truco para bloquear Voltio Cruel, Excadrill 6+2.",
+      "variant": []
+    },
+    {
+      "detail": "(Contra Nidoking) → Cloyster +6.",
+      "variant": []
+    }
+  ]
+}

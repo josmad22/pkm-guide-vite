@@ -48,20 +48,21 @@
                 },
                 {
                   "detail": "Aerodactyl → Enviar a Excadrill con +4 +2",
-                  "variant": []
-                }
-              ]
-            },
-            {
-              "detail": "Si Metagross falla al colocar rocas → Cambiar a Chandelure y usar Truco:",
-              "variant": [
-                {
-                  "detail": "Si entra Tyranitar, enviar a Scrafty +3.",
-                  "variant": []
-                },
-                {
-                  "detail": "Si entra Lapras, enviar a Poliwrath con +6 +2 / Prohibido usar A Bocajarro en este escenario.",
-                  "variant": []
+                  "variant": [
+                    {
+                      "detail": "Si Metagross falla al colocar rocas → Cambiar a Chandelure y usar Truco:",
+                      "variant": [
+                        {
+                          "detail": "Si entra Tyranitar, enviar a Scrafty +3.",
+                          "variant": []
+                        },
+                        {
+                          "detail": "Si entra Lapras, enviar a Poliwrath con +6 +2 / Prohibido usar A Bocajarro en este escenario.",
+                          "variant": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },

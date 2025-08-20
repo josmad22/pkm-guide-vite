@@ -36,11 +36,12 @@
               "variant": []
             }
           ]
-        },
-        {
-          "detail": "(Machada) → Chandelure usa Lanzallamas para matar",
-          "variant": []
-        },
+        }        
+      ]
+    },
+    {
+      "detail": "(Machada) → Chandelure usa Lanzallamas para matar",
+      "variant": [
         {
           "detail": "Entra Lapras → Poliwrath 6 + 2",
           "variant": []

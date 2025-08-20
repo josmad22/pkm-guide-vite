@@ -6,76 +6,78 @@
   "tricks": [
     {
       "detail": "NO CAMBIA → usa Lanzallamas para rematar",
-      "variant": []
-    },
-    {
-      "detail": "LAPRAS → Poliwrath 6 + 2, si cambias a Poliwrath y recibe un rayo, entra Excadrill con 2 + 2 + Trampa Rocas",
-      "variant": []
-    },
-    {
-      "detail": "FERALIGATR → cambia a Poliwrath y luego a Metagross, observar el movimiento:",
       "variant": [
         {
-          "detail": "Si usa Fuerza Bruta → usar Truco",
+          "detail": "LAPRAS → Poliwrath 6 + 2, si cambias a Poliwrath y recibe un rayo, entra Excadrill con 2 + 2 + Trampa Rocas",
           "variant": []
         },
         {
-          "detail": "Si usa Cascada → Poliwrath 6 + 2 + Defensa X",
-          "variant": []
-        }
-      ]
-    },
-    {
-      "detail": "(Dragonite) → Scrafty consume objeto de defensa especial +3 / usa Paliza para matar a Axew (pendiente de confirmar)",
-      "variant": []
-    },
-    {
-      "detail": "(Metagross) → Excadrill 2 + 2 y vuelve a poner Trampa Rocas",
-      "variant": []
-    },
-    {
-      "detail": "(Puño Hielo) → usar Truco y bloquear a Steelix, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "(Rayo Hielo) → usar Truco",
-      "variant": [
-        {
-          "detail": "(Flygon) → cambia a Chandelure y observar qué movimiento usa:",
+          "detail": "FERALIGATR → cambia a Poliwrath y luego a Metagross, observar el movimiento:",
           "variant": [
             {
-              "detail": "(Terremoto) → Cloyster mata con Carámbano, entra Lapras, Excadrill entra con +2 + 0 y usa Terremoto para matar a Lapras",
+              "detail": "Si usa Fuerza Bruta → usar Truco",
+              "variant": [
+                {
+                  "detail": "Si usa Cascada → Poliwrath 6 + 2 + Defensa X",
+                  "variant": []
+                },
+                {
+                  "detail": "(Dragonite) → Scrafty consume objeto de defensa especial +3 / usa Paliza para matar a Axew (pendiente de confirmar)",
+                  "variant": []
+                },
+                {
+                  "detail": "(Metagross) → Excadrill 2 + 2 y vuelve a poner Trampa Rocas",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "(Puño Hielo) → usar Truco y bloquear a Steelix, Cloyster +4",
               "variant": []
             },
             {
-              "detail": "(Colmillo Ígneo) → usa Truco para intercambiar objeto, Cloyster mata con Carámbano, entra Lapras, Excadrill entra con +2 + 0 y usa Terremoto para matar a Lapras",
+              "detail": "(Rayo Hielo) → usar Truco",
+              "variant": [
+                {
+                  "detail": "(Flygon) → cambia a Chandelure y observar qué movimiento usa:",
+                  "variant": [
+                    {
+                      "detail": "(Terremoto) → Cloyster mata con Carámbano, entra Lapras, Excadrill entra con +2 + 0 y usa Terremoto para matar a Lapras",
+                      "variant": []
+                    },
+                    {
+                      "detail": "(Colmillo Ígneo) → usa Truco para intercambiar objeto, Cloyster mata con Carámbano, entra Lapras, Excadrill entra con +2 + 0 y usa Terremoto para matar a Lapras",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "detail": "(Escaldar) → Poliwrath 6 + 2, lleva Banda Focus Metagross (Usar defensa X después del Vel X por seguridad)",
               "variant": []
+            },
+            {
+              "detail": "TRITURAR → usar Truco",
+              "variant": [
+                {
+                  "detail": "Si es Steelix, Cloyster +4",
+                  "variant": []
+                },
+                {
+                  "detail": "Si es Cascada, poner Trampa Rocas, Poliwrath 6 + 2. Si no logra poner trampas, Poliwrath usa objeto de defensa",
+                  "variant": []
+                }
+              ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "detail": "(Escaldar) → Poliwrath 6 + 2, lleva Banda Focus Metagross (Usar defensa X después del Vel X por seguridad)",
-      "variant": []
-    },
-    {
-      "detail": "TRITURAR → usar Truco",
-      "variant": [
+        },    
         {
-          "detail": "Si es Steelix, Cloyster +4",
-          "variant": []
-        },
-        {
-          "detail": "Si es Cascada, poner Trampa Rocas, Poliwrath 6 + 2. Si no logra poner trampas, Poliwrath usa objeto de defensa",
+          "detail": "(Entra Flygon) → cambia a Excadrill, luego a Chandelure, usa Truco para bloquear Terremoto, Cloyster mata con Carámbano, entra Lapras → Excadrill entra con +2 + 0 y Terremoto mata a Lapras",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "(Entra Flygon) → cambia a Excadrill, luego a Chandelure, usa Truco para bloquear Terremoto, Cloyster mata con Carámbano, entra Lapras → Excadrill entra con +2 + 0 y Terremoto mata a Lapras",
-      "variant": []
-    },
+    },    
     {
       "detail": "METAGROSS → usar Truco y bloquear Terremoto, Excadrill 2 + 2 y vuelve a poner Trampa Rocas",
       "variant": []

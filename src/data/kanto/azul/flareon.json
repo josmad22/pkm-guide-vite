@@ -1,0 +1,21 @@
+{
+  "id": "flareon",
+  "name": "Flareon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Coloca Trampa Rocas, luego cambia a Chandelure para usar Truco",
+  "tricks": [
+    {
+      "detail": "POLIWRATH → Poliwrath 6+2. / Usar A Bocajarro para matar a Magnezone.",
+      "variant": []
+    },
+    {
+      "detail": "AERODACTYL → Scrafty +4. / Usar A Bocajarro para matar a Poliwrath.",
+      "variant": [
+        {
+          "detail": "Si Scrafty y recibe Terremoto, usar Cloyster +6. / Prestar atención a la curación",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

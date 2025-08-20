@@ -1,0 +1,21 @@
+{
+  "id": "magnezone",
+  "name": "Magnezone",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Globo Helio → Colocar trampas y dejarse vencer (no se puede escapar por Imán), luego Excadrill con +4 + 2. Si no hay trampas, coloca Trampa Rocas",
+      "variant": []
+    },
+    {
+      "detail": "Lodo Negro → Excadrill con +6 +2 +Defensa especial.X // Si Excadrill es derrotado por Alakazam al intentar entrar, revisar la siguiente línea:",
+      "variant": [
+        {
+          "detail": "Entra Metagross y remata con Puño Trueno, el rival cambia a Sandslash → coloca trampas, se deja vencer, Chandelure usa Truco para bloquear Terremoto, luego Cloyster se potencia hasta +6. (NO SE ENTIENDE ESTO SI SUPUESTAMENTE METAGROSS DEBÍA DE MORIR)",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

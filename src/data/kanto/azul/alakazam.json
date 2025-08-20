@@ -1,0 +1,17 @@
+{
+  "id": "alakazam",
+  "name": "Alakazam",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco para bloquear Sandlash, Metagross pone Trampa Rocas, Cloyster +6",
+  "tricks": [
+    {
+      "detail": "Si Metagross falla en poner Trampa Rocas (KO por golpe crítico), ver siguiente:",
+      "variant": [
+        {
+          "detail": "(Fallo al poner Trampa Rocas) → Cloyster +6 con golpe crítico + potenciador + medicina de defensa especial. / Carámbano para matar a Magnezone.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Scrafty +3",
+  "tricks": [
+    {
+      "detail": "Usa A Bocajarro para derrotar a Machamp // Paliza contra Jolteon",
+      "variant": []
+    }
+  ]
+}

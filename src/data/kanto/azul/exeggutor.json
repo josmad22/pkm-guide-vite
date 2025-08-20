@@ -1,0 +1,12 @@
+{
+  "id": "exeggutor",
+  "name": "Exeggutor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Chandelure contra Magnezone y usa Truco para bloquear Rayo",
+  "tricks": [
+    {
+      "detail": "Excadrill coloca Trampa Rocas +4+2",
+      "variant": []
+    }
+  ]
+}

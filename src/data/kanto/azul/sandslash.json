@@ -1,0 +1,12 @@
+{
+  "id": "sandslash",
+  "name": "Sandslash",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "COLOCAR TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "Cambiar a Chandelure para usar Truco y bloquear Terremoto → Cloyster +6",
+      "variant": []
+    }
+  ]
+}

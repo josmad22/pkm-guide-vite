@@ -1,0 +1,12 @@
+{
+  "id": "rhyperior",
+  "name": "Rhyperior",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco para bloquear Terremoto",
+  "tricks": [
+    {
+      "detail": "Cloyster +6 // Todo se mata con Carámbano.",
+      "variant": []
+    }
+  ]
+}

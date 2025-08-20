@@ -1,0 +1,21 @@
+{
+  "id": "charizard",
+  "name": "Charizard",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE Y OBSERVA",
+  "tricks": [
+    {
+      "detail": "(Envite Ígneo) → Cambiar a Poliwrath para recibir Acróbata (se sacrifica), luego Chandelure usa Truco para bloquear Terremoto, Cloyster con +4 y medicina de ataque especial.",
+      "variant": [
+        {
+          "detail": "Si entra Vaporeon, usa Rompecoraza y sacrificarse, luego Metagross usa Truco para bloquear Golem, Excadrill +6+2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "(Puño Fuego) → Truco para bloquear Terremoto, Cloyster +6. / Carámbano para matar a Poliwrath.",
+      "variant": []
+    }
+  ]
+}

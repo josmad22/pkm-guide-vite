@@ -19,15 +19,16 @@
     },
     {
       "detail": "Dragonite → Cambiar a Chandelure y usar Truco.",
-      "variant": []
-    },
-    {
-      "detail": "Tyranitar → Scrafty +2. / Si lleva Banda Focus, Poliwrath puede rematar con Puño Drenaje.",
-      "variant": []
-    },
-    {
-      "detail": "Feraligatr → Poliwrath +6+2.",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Tyranitar → Scrafty +2. / Si lleva Banda Focus, Poliwrath puede rematar con Puño Drenaje.",
+          "variant": []
+        },
+        {
+          "detail": "Feraligatr → Poliwrath +6+2.",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Hydreigon → Scrafty +4 o también puedes boostear +2 + medicina de ataque.",
@@ -60,6 +61,19 @@
         {
           "detail": "Si sale Eelektross → Cambiar a Chandelure, usar Truco para bloquear Movimiento Eléctrico, luego Excadrill +4+2.",
           "variant": []
+        },
+        {
+          "detail": "Tyranitar→ Colocar Trampa Rocas y observar el movimiento:",
+          "variant": [
+            {
+              "detail": "Triturar → Scrafty +2.",
+              "variant": []
+            },
+            {
+              "detail": "Fuerza Bruta → Cambiar a Chandelure, usar Truco para bloquear a Feraligatr o Dragonite, Poliwrath +6+2. // Si es derrotado por sorpresa con Triturar, entra Scrafty +2.",
+              "variant": []
+            }
+          ]
         }
       ]
     },

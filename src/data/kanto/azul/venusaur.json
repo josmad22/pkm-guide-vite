@@ -1,0 +1,20 @@
+{
+  "id": "venusaur",
+  "name": "Venusaur",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Terremoto → Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "Drenadoras → Metagross coloca Trampa Rocas, Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "Sandslash → Metagross coloca Trampa Rocas, Cloyster +6 // Si falla al colocar Trampa Rocas (muere), entonces Cloyster +6 con medicina de defensa especial + golpe crítico potenciado (Píldora Directo)",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Utiliza directamente Puño Trueno",
+  "tricks": [
+    {
+      "detail": "cambiará a Nidoking, saca a Cloyster +6",
+      "variant": []
+    }
+  ]
+}
