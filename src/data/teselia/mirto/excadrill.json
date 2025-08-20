@@ -6,11 +6,12 @@
   "tricks": [
     {
       "detail": "PAÑUELO ELEGIDO → Excadrill +4+2 / Terremoto para eliminar Druddigon",
-      "variant": []
-    },
-    {
-      "detail": "Si inesperadamente recibe Cabeza de Hierro, cambia a Metagross para sacrificar, entra Chandelure y usa Truco para intercambiar objeto, Cloyster +6 con objeto de defensa especial",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si inesperadamente recibe Cabeza de Hierro, cambia a Metagross para sacrificar, entra Chandelure y usa Truco para intercambiar objeto, Cloyster +6 con objeto de defensa especial",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "BANDA FOCUS → Cloyster +4",

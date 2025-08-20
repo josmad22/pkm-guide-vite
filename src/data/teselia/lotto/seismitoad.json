@@ -1,0 +1,16 @@
+{
+  "id": "seismitoad",
+  "name": "Seismitoad",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TIERRA VIDA → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "TERREMOTO → Cloyster +4 + Ataque X / Surf para Aggron",
+      "variant": []
+    }
+  ]
+}

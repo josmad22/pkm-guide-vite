@@ -10,15 +10,16 @@
     },
     {
       "detail": "MEGACUERNO / ESPADASANTA → Cambia a Chandelure",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill → Usa Truco para bloquear Terremoto, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "Si no se retira, usa Bola Sombra para debilitarlo, luego entra Excadrill, cambia a Metagross para sacrificar, luego Chandelure usa Truco para bloquear Terremoto, Cloyster +4",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Excadrill → Usa Truco para bloquear Terremoto, Cloyster +4",
+          "variant": []
+        },
+        {
+          "detail": "Si no se retira, usa Bola Sombra para debilitarlo, luego entra Excadrill, cambia a Metagross para sacrificar, luego Chandelure usa Truco para bloquear Terremoto, Cloyster +4",
+          "variant": []
+        }
+      ]
+    }   
   ]
 }

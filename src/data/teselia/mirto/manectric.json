@@ -14,27 +14,29 @@
     },
     {
       "detail": "LUCARIO → Cambia a Chandelure para analizar el movimiento",
-      "variant": []
-    },
-    {
-      "detail": "Si usa Patada Salto Alta → Usa Truco hasta que se debilite por sí mismo (entra Vaporeon), Truco para bloquear Hidrobomba, Poder Oculto para sacrificarlo, luego Metagross usa Truco para bloquear Sandslash, Cloyster +6 / Eliminación total con Carámbano",
-      "variant": []
-    },
-    {
-      "detail": "Si usa Sacrificio → Usa Truco para intercambiar objeto, Scrafty +2 / Puño Drenaje para eliminar Sandslash",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si usa Patada Salto Alta → Usa Truco hasta que se debilite por sí mismo (entra Vaporeon), Truco para bloquear Hidrobomba, Poder Oculto para sacrificarlo, luego Metagross usa Truco para bloquear Sandslash, Cloyster +6 / Eliminación total con Carámbano",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Sacrificio → Usa Truco para intercambiar objeto, Scrafty +2 / Puño Drenaje para eliminar Sandslash",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "LANZALLAMAS → Evalúa el objeto equipado",
-      "variant": []
-    },
-    {
-      "detail": "Si tiene Cinta Xperto → Chandelure usa Llamarada para eliminar, entra Krookodile, Cloyster +4 / Carámbano contra Lucario",
-      "variant": []
-    },
-    {
-      "detail": "Si tiene Vidasfera → Chandelure usa Truco para intercambiar objeto, Excadrill coloca Trampa Rocas +4+2",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Si tiene Cinta Xperto → Chandelure usa Llamarada para eliminar, entra Krookodile, Cloyster +4 / Carámbano contra Lucario",
+          "variant": []
+        },
+        {
+          "detail": "Si tiene Vidasfera → Chandelure usa Truco para intercambiar objeto, Excadrill coloca Trampa Rocas +4+2",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

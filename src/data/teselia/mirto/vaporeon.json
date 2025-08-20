@@ -14,39 +14,42 @@
     },
     {
       "detail": "LUCARIO → Cambia a Chandelure para analizar el movimiento",
-      "variant": []
-    },
-    {
-      "detail": "Si usa Patada Salto Alta → Usa Truco hasta que se debilite por sí mismo, luego Vaporeon usa Truco para bloquear Hidrobomba, Poder Oculto para sacrificar, Metagross usa Truco para bloquear Sandslash, Cloyster +6 / Eliminación total con Carámbano",
-      "variant": []
-    },
-    {
-      "detail": "Si usa Sacrificio → Usa Truco para intercambiar objeto, Scrafty +3",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "Si usa Patada Salto Alta → Usa Truco hasta que se debilite por sí mismo, luego Vaporeon usa Truco para bloquear Hidrobomba, Poder Oculto para sacrificar, Metagross usa Truco para bloquear Sandslash, Cloyster +6 / Eliminación total con Carámbano",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Sacrificio → Usa Truco para intercambiar objeto, Scrafty +3",
+          "variant": []
+        }
+      ]
+    },  
     {
       "detail": "ESCALDAR → Poliwrath +6+2 / A Bocajarro para eliminar Conkeldurr, Druddigon y Vaporeon",
       "variant": []
     },
     {
       "detail": "HIDROBOMBA → Coloca Trampa Rocas y observa",
-      "variant": []
-    },
-    {
-      "detail": "Si Colocaste Rocas con éxito, cambia a Poliwrath y luego a Chandelure para eliminar Volcarona con Llamarada, luego Poliwrath +6+2",
-      "variant": []
-    },
-    {
-      "detail": "Si falla las Rocas, Poliwrath +6+2+2 (Defensa Especial X), asegurando recuperación completa de HP",
-      "variant": []
-    },
-    {
-      "detail": "Si Poliwrath es derrotado por Sandslash → Chandelure usa Truco para bloquear Terremoto, Cloyster +4 / Carámbano contra Volcarona",
-      "variant": []
-    },
-    {
-      "detail": "Si Poliwrath es derrotado por Volcarona → Chandelure usa Lanzallamas para eliminar, entra Manectric, usa Especial X, luego Lanzallamas para limpiar el equipo",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si Colocaste Rocas con éxito, cambia a Poliwrath y luego a Chandelure para eliminar Volcarona con Llamarada, luego Poliwrath +6+2",
+          "variant": []
+        },
+        {
+          "detail": "Si falla las Rocas, Poliwrath +6+2+2 (Defensa Especial X), asegurando recuperación completa de HP",
+          "variant": [
+            {
+              "detail": "Si Poliwrath es derrotado por Sandslash → Chandelure usa Truco para bloquear Terremoto, Cloyster +4 / Carámbano contra Volcarona",
+              "variant": []
+            },
+            {
+              "detail": "Si Poliwrath es derrotado por Volcarona → Chandelure usa Lanzallamas para eliminar, entra Manectric, usa Especial X, luego Lanzallamas para limpiar el equipo",
+              "variant": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }

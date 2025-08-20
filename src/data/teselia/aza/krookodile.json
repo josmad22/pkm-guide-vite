@@ -2,11 +2,6 @@
   "id": "krookodile",
   "name": "Krookodile",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "",
-  "tricks": [
-    {
-      "detail": "Excadrill coloca Trampa Rocas 2+0",
-      "variant": []
-    }
-  ]
+  "initialMove": "Excadrill coloca Trampa Rocas 2+0",
+  "tricks": []
 }

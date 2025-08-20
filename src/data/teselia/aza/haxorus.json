@@ -2,10 +2,10 @@
   "id": "haxorus",
   "name": "Haxorus",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "",
+  "initialMove": "Cambia a Chandelure",
   "tricks": [
     {
-      "detail": "Cambia a Chandelure, usa Truco para bloquear Cola Agua, Cloyster +4",
+      "detail": "usa Truco para bloquear Cola Agua, Cloyster +4",
       "variant": []
     }
   ]

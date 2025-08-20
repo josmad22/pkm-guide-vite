@@ -23,16 +23,17 @@
     },
     {
       "detail": "LUCARIO → Cambia a Chandelure para analizar el movimiento",
-      "variant": []
-    },
-    {
-      "detail": "Patada Salto Alta → Usa Truco hasta que se debilite por sí mismo, entra Vaporeon, usa Truco para bloquear Hidrobomba, Poder Oculto para debilitarlo, entra Metagross y usa Truco para bloquear Sandslash, Cloyster +6",
-      "variant": []
-    },
-    {
-      "detail": "Sacrificio → Usa Truco para intercambiar objeto, Scrafty +2 / Puño Drenaje para eliminar Sandslash",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "Patada Salto Alta → Usa Truco hasta que se debilite por sí mismo, entra Vaporeon, usa Truco para bloquear Hidrobomba, Poder Oculto para debilitarlo, entra Metagross y usa Truco para bloquear Sandslash, Cloyster +6",
+          "variant": []
+        },
+        {
+          "detail": "Sacrificio → Usa Truco para intercambiar objeto, Scrafty +2 / Puño Drenaje para eliminar Sandslash",
+          "variant": []
+        }
+      ]
+    },    
     {
       "detail": "SANDSLASH → Cloyster +6 / Todo con Carámbano",
       "variant": []

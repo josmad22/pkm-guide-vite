@@ -10,20 +10,22 @@
         {
           "detail": "CONTRA TIPO AGUA, Poliwrath +6+2+6 / Excadrill tiene banda focus, no es peligroso",
           "variant": []
+        },
+        {
+          "detail": "EXCADRILL, Cloyster +4",
+          "variant": [
+            {
+              "detail": "Si Feraligatr se retira, cambia a Poliwrath contra Excadrill, luego:",
+              "variant": [
+                {
+                  "detail": "Sacrifica Metagross, entra Chandelure y usa Truco para bloquear Terremoto, Cloyster +4",
+                  "variant": []
+                }
+              ]
+            }
+          ]
         }
       ]
-    },
-    {
-      "detail": "EXCADRILL, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "Si Feraligatr se retira, cambia a Poliwrath contra Excadrill, luego:",
-      "variant": []
-    },
-    {
-      "detail": "Sacrifica Metagross, entra Chandelure y usa Truco para bloquear Terremoto, Cloyster +4",
-      "variant": []
-    }
+    }    
   ]
 }
