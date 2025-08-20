@@ -1,0 +1,12 @@
+{
+  "id": "golduck",
+  "name": "Golduck",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "USA TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "entra Umbreon → Scrafty +2",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "flareon",
+  "name": "Flareon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "ENVITE ÍGNEO → Usa Truco",
+      "variant": [
+        {
+          "detail": "Drapion, Scrafty +2",
+          "variant": []
+        },
+        {
+          "detail": "Empoleon, Poliwrath 6+2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "BRONZONG → Usa Llamarada para eliminarlo",
+      "variant": [
+        {
+          "detail": "Drapion, Scrafty +2",
+          "variant": []
+        },
+        {
+          "detail": "Empoleon, Poliwrath +6+2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "golurk",
+  "name": "Golurk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "RESTOS → Excadrill 4+2 / Hypno Terremoto",
+      "variant": []
+    },
+    {
+      "detail": "CINTA XPERTA → Excadrill 4+2 y vuelve a lanzar Trampa Rocas, entra Slowbro, cambia a Poliwrath, luego cambia a Scrafty +1 Defensa Especial X +2",
+      "variant": []
+    }
+  ]
+}

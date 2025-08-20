@@ -1,0 +1,25 @@
+{
+  "id": "girafarig",
+  "name": "Girafarig",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "CLAYDOL CON TERREMOTO / PSÍQUICO → Excadrill lanza Trampa Rocas (entra Mantine), cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "variant": [
+        {
+          "detail": "Opción 1: Si aparece Claydol mientras te boosteas cambia a Excadrill 4+2, si vuelve a cambiar a Mantine vuelve con Poliwrath 6+2 (Experimental, falta testear)",
+          "variant": []
+        },
+        {
+          "detail": "Opción 2: Si aparece Claydol mientras te boosteas cambia a Scrafty +3 (Experimental, falta testear)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "MAGNEZONE → Excadrill lo derrota, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2 (HAY REPORTES QUE DEJÓ DE FUNCIONAR) // Excadrill coloca Trampa Rocas y queda 6+2 (FALTA TESTEAR)",
+      "variant": []
+    }
+  ]
+}

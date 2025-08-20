@@ -1,0 +1,12 @@
+{
+  "id": "exeggutor",
+  "name": "Exeggutor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CLOYSTER",
+  "tricks": [
+    {
+      "detail": "Bronzong, luego cambia a Poliwrath contra Empoleon, Poliwrath 6+2",
+      "variant": []
+    }
+  ]
+}

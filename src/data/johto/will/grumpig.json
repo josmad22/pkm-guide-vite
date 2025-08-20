@@ -1,0 +1,12 @@
+{
+  "id": "grumpig",
+  "name": "Grumpig",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Entra Blissey, Scrafty +1, A bocajarro para matar a Blissey",
+      "variant": []
+    }
+  ]
+}
