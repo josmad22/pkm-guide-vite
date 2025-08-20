@@ -6,15 +6,16 @@
   "tricks": [
     {
       "detail": "Utilizar Truco y observa el mov.",
-      "variant": []
-    },
-    {
-      "detail": "Si utiliza Triturar, cambiar a Scrafty +2",
-      "variant": []
-    },
-    {
-      "detail": "Si utiliza Bola Sombra, cambiar a Scrafty +3 / Paliza para matar a, Absol y Raichu",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Si utiliza Triturar, cambiar a Scrafty +2",
+          "variant": []
+        },
+        {
+          "detail": "Si utiliza Bola Sombra, cambiar a Scrafty +3 / Paliza para matar a, Absol y Raichu",
+          "variant": []
+        }
+      ]
+    }   
   ]
 }

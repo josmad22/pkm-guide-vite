@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "Si utiliza Terremoto, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
-      "variant": [
-        {
-          "detail": "Si cambia a Bouffalant, cambiar a Cloyster +2 + Velocidad X",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a Bouffalant, cambiar a Cloyster +2 + Velocidad X",
+      "variant": []
     }
   ]
 }

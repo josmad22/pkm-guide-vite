@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "Si entra Dragonite, cambiar a Metagross y utilizar Truco para bloquear en Puño Fuego (Cura al Chandelure hasta más del 60%), luego cambia a Chandelure 4+0 / Lanzallamas para matar a todos",
-      "variant": [
-        {
-          "detail": "Si entra Gallade, cambia a Scrafty, luego cambia a Chandelure y utilizar Truco para bloquear en Tajo Umbrío, lo sacrificas, luego cambiar a Poliwrath 6 + Raíz Grande para curarse y sube +2",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Si entra Gallade, cambia a Scrafty, luego cambia a Chandelure y utilizar Truco para bloquear en Tajo Umbrío, lo sacrificas, luego cambiar a Poliwrath 6 + Raíz Grande para curarse y sube +2",
+      "variant": []
     }
   ]
 }

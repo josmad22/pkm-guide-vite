@@ -10,15 +10,16 @@
     },
     {
       "detail": "FLYGON → Cambia a Cloyster para ver qué movimiento usa",
-      "variant": []
-    },
-    {
-      "detail": "TERREMOTO → cloyster +4 (Carámbano Para matar a Tyranitar)",
-      "variant": []
-    },
-    {
-      "detail": "LLAMARADA → Chandelure usa Truco para cambiar de objeto, Excadrill +2+2 (Terremoto mata a Drapion)",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "TERREMOTO → cloyster +4 (Carámbano Para matar a Tyranitar)",
+          "variant": []
+        },
+        {
+          "detail": "LLAMARADA → Chandelure usa Truco para cambiar de objeto, Excadrill +2+2 (Terremoto mata a Drapion)",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

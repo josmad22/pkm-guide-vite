@@ -6,24 +6,24 @@
   "tricks": [
     {
       "detail": "Si utiliza A BOCAJARRO, cambiar a Chandelure y utilizar Truco, luego cambiar a Scrafty 2",
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a GALLADE , colocar Trampa Rocas, luego cambiar a Chandelure 4+0 (Atq. Esp) / Lanzallamas para matar a todo el equipo, también Bola Sombra",
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a METAGROSS, utilizar Trampa Rocas, luego cambiar a Chandelure 4+0(Atq. Esp) / Lanzallamas para matar a todo el equipo. Recuperar PS después de fortalecerse, resistir un Garra Dragón. Si Dragonite contraataca y te derrota, revisar:",
       "variant": [
-        {
-          "detail": "Si cambia a GALLADE , colocar Trampa Rocas, luego cambiar a Chandelure 4+0 (Atq. Esp) / Lanzallamas para matar a todo el equipo, también Bola Sombra",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a METAGROSS, utilizar Trampa Rocas, luego cambiar a Chandelure 4+0(Atq. Esp) / Lanzallamas para matar a todo el equipo. Recuperar PS después de fortalecerse, resistir un Garra Dragón. Si Dragonite contraataca y te derrota, revisar:",
-          "variant": []
-        },
         {
           "detail": "Si cambia a Houndoom, sacar a Metagross para revivir a Chandelure (Como sacrificio de Dragonite). Luego sacar a Ninetales(?), luego cambiar a Chandelure y utilizar Truco para bloquear en Poder Oculto, luego cambiar a Scrafty 2 (Revisar)",
           "variant": []
-        },
-        {
-          "detail": "Si cambia a DRAGONITE, cambiar a Chandelure 4+0 / Lanzallamas para matar al equipo",
-          "variant": []
         }
       ]
+    },   
+    {
+      "detail": "Si cambia a DRAGONITE, cambiar a Chandelure 4+0 / Lanzallamas para matar al equipo",
+      "variant": []
     }
   ]
 }

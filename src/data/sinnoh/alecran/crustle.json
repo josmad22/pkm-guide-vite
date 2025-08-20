@@ -6,15 +6,16 @@
   "tricks": [
     {
       "detail": "Bloqueando Flygon, según se prefiera:",
-      "variant": []
-    },
-    {
-      "detail": "Variante Rápida: Excadrill con +4 Ataque / +2 Velocidad.",
-      "variant": []
-    },
-    {
-      "detail": "Ahorra Recursos: Excadrill coloca Trampa Rocas, luego Cloyster +4.",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Variante Rápida: Excadrill con +4 Ataque / +2 Velocidad.",
+          "variant": []
+        },
+        {
+          "detail": "Ahorra Recursos: Excadrill coloca Trampa Rocas, luego Cloyster +4.",
+          "variant": []
+        }
+      ]
+    }   
   ]
 }

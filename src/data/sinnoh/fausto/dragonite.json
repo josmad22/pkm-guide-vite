@@ -6,37 +6,39 @@
   "tricks": [
     {
       "detail": "Si tiene Restos",
-      "variant": []
-    },
-    {
-      "detail": "Cambiar a Chandelure y utilizar Poder Oculto para presionar",
       "variant": [
         {
-          "detail": "Si cambia a Bronzong, cambiar a Cloyster +4",
-          "variant": []
+          "detail": "Cambiar a Chandelure y utilizar Poder Oculto para presionar",
+          "variant": [
+            {
+              "detail": "Si cambia a Bronzong, cambiar a Cloyster +4",
+              "variant": []
+            },
+            {
+              "detail": "Si Dragonite no cambia, seguir utilizando Poder Oculto, sale Bronzong, Cloyster +4",
+              "variant": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "detail": "Si Dragonite no cambia, seguir utilizando Poder Oculto, sale Bronzong, Cloyster +4",
-      "variant": []
-    },
+    },    
     {
       "detail": "Si tiene Cinta Experto",
-      "variant": []
-    },
-    {
-      "detail": "Cambiar a Chandelure y utilizar Bola Sombra // Según la situación actuar así",
-      "variant": []
-    },
-    {
-      "detail": "Si Dragonite no cambia, cambiar a Cloyster frente a Bouffalant, luego cambiar a Excadrill 4+2",
       "variant": [
         {
-          "detail": "Si cambia a Bouffalant, cambiar a Cloyster +2 + Velocidad X / Surf para matar a Steelix",
-          "variant": []
-        }
+          "detail": "Cambiar a Chandelure y utilizar Bola Sombra // Según la situación actuar así",
+          "variant": [
+            {
+              "detail": "Si Dragonite no cambia, cambiar a Cloyster frente a Bouffalant, luego cambiar a Excadrill 4+2",
+              "variant": []
+            },
+            {
+              "detail": "Si cambia a Bouffalant, cambiar a Cloyster +2 + Velocidad X / Surf para matar a Steelix",
+              "variant": []
+            }
+          ]
+        }  
       ]
-    }
+    }    
   ]
 }

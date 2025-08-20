@@ -6,25 +6,26 @@
   "tricks": [
     {
       "detail": "Si utiliza PUÑO FUEGO, usa Truco para bloquear en Puño Trueno, Excadrill 6+2",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza LANZALLAMAS, usa Píldora Protec. Esp, espera a que use Voltiocambio y ver que entra",
       "variant": [
         {
-          "detail": "Si utiliza LANZALLAMAS, usa Píldora Protec. Esp, espera a que use Voltiocambio y ver que entra",
-          "variant": []
-        },
-        {
           "detail": "Si entra HERACROSS, cambia a Excadrill 4+2 / Terremoto mata a Clefable.",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Milotic, cambia a Poliwrath 6+2 / A Bocajarro mata a Milotic y Clefable",
-          "variant": []
-        },
+          "variant": [
+            {
+              "detail": "Si entra Milotic, cambia a Poliwrath 6+2 / A Bocajarro mata a Milotic y Clefable",
+              "variant": []
+            }
+          ]
+        },    
         {
           "detail": "Si entra GARCHOMP, utiliza Truco para bloquear en Terremoto, cambia a Excadrill 4+2 / Terremoto mata a Clefable",
           "variant": []
         }
       ]
-    },
+    },    
     {
       "detail": "GARCHOMP, utiliza Truco para bloquear en Terremoto, cambia a Excadrill 6+2. Si el rival cambia , seguir así:",
       "variant": [

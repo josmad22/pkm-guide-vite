@@ -10,16 +10,17 @@
     },
     {
       "detail": "VIDASFERA + TERREMOTO → Ver el daño del Terremoto",
-      "variant": []
-    },
-    {
-      "detail": "MENOS DE 60% → cloyster +4 (Carámbano mata a Kabutops y Tyranitar",
-      "variant": []
-    },
-    {
-      "detail": "MÁS DEL 60% → Excadrill entra y pone Trampa Rocas, Cloyster +4",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "MENOS DE 60% → cloyster +4 (Carámbano mata a Kabutops y Tyranitar",
+          "variant": []
+        },
+        {
+          "detail": "MÁS DEL 60% → Excadrill entra y pone Trampa Rocas, Cloyster +4",
+          "variant": []
+        }
+      ]
+    },    
     {
       "detail": "LLAMARADA → chandelure usa truco para cambiar de objeto, Cloyster +4 (Carámbano para matar a Kabutops y Tyranitar)",
       "variant": []

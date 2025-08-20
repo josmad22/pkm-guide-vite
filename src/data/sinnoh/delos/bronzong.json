@@ -10,15 +10,16 @@
     },
     {
       "detail": "HYDREIGON → Cambia a Chandelure y lanza Bola Sombra",
-      "variant": []
-    },
-    {
-      "detail": "Hydreigon no se retira, cambia a Scrafty contra Noctowl, Scrafty +2 / Puño Drenaje + Paliza para eliminar Noctowl",
-      "variant": []
-    },
-    {
-      "detail": "Noctowl directamente, Scrafty +1 con Raíz Energía, luego +1 / Puño Drenaje + Paliza para eliminar Noctowl",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Hydreigon no se retira, cambia a Scrafty contra Noctowl, Scrafty +2 / Puño Drenaje + Paliza para eliminar Noctowl",
+          "variant": []
+        },
+        {
+          "detail": "Noctowl directamente, Scrafty +1 con Raíz Energía, luego +1 / Puño Drenaje + Paliza para eliminar Noctowl",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "GIRO BOLA → Cambia a Chandelure y usa Truco para bloquear Giro Bola, luego Chandelure +2 (ataque especial) y usa Restaurar Todo para recuperar, después +2 (velocidad) // Prioriza ataques de alto daño // Lanzallamas mata a Noctowl",

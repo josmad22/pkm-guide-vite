@@ -6,15 +6,16 @@
   "tricks": [
     {
       "detail": "Si inesperadamente bloquea Golem → Verifica la opción de Baya",
-      "variant": []
-    },
-    {
-      "detail": "RHYPERIOR + RESTOS → Excadrill 4+2 // Terremoto para eliminar Donphan",
-      "variant": []
-    },
-    {
-      "detail": "RHYPERIOR + BAYA → Excadrill coloca Trampa Rocas, luego entra Cloyster +4",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "RHYPERIOR + RESTOS → Excadrill 4+2 // Terremoto para eliminar Donphan",
+          "variant": []
+        },
+        {
+          "detail": "RHYPERIOR + BAYA → Excadrill coloca Trampa Rocas, luego entra Cloyster +4",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

@@ -10,11 +10,12 @@
     },
     {
       "detail": "FLYGON / GASTRODON → Cloyster +6 (Matar todo con Carámbano).",
-      "variant": []
-    },
-    {
-      "detail": "Si Cloyster recibe Llamarada por Sorpresa, Chandelure usa Truco para cambiar objeto, Excadrill pone Trampa Rocas+4+2",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si Cloyster recibe Llamarada por Sorpresa, Chandelure usa Truco para cambiar objeto, Excadrill pone Trampa Rocas+4+2",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "FERROTHORN → Chandelure, contra Flygon usa Truco para encerrar en Terremoto, Cloyster +6 (Mata todo con Carámbano)",

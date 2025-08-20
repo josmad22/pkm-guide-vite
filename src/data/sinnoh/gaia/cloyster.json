@@ -10,15 +10,16 @@
     },
     {
       "detail": "RHYPERIOR → depende del objeto:",
-      "variant": []
-    },
-    {
-      "detail": "Restos → Excadrill coloca Trampa Rocas, Cloyster +2. / Surf derrota a Rhyperior.",
-      "variant": []
-    },
-    {
-      "detail": "Baya Pasio → Excadrill coloca Trampa Rocas, Cloyster +4 / Surf derrota a Rhyperior.",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Restos → Excadrill coloca Trampa Rocas, Cloyster +2. / Surf derrota a Rhyperior.",
+          "variant": []
+        },
+        {
+          "detail": "Baya Pasio → Excadrill coloca Trampa Rocas, Cloyster +4 / Surf derrota a Rhyperior.",
+          "variant": []
+        }
+      ]
     }
   ]
 }

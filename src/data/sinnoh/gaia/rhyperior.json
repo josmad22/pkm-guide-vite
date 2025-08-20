@@ -10,31 +10,33 @@
     },
     {
       "detail": "Restos → Depende del daño recibido:",
-      "variant": []
-    },
-    {
-      "detail": "64%-75% → Excadrill Trampa Rocas, Cloyster +2. // Surf para matar a Rhyperior.",
-      "variant": []
-    },
-    {
-      "detail": "85% o más → Excadrill 6+2 / Gengar CabezaHierro",
-      "variant": []
-    },
-    {
-      "detail": "Golpe crítico y mata a Metagross → Excadrill Trampa Rocas, +6+2",
-      "variant": []
-    },
-    {
-      "detail": "Golpe crítico y deja a Metagross herido → Excadrill Trampa Rocas, Cloyster +2.",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "64%-75% → Excadrill Trampa Rocas, Cloyster +2. // Surf para matar a Rhyperior.",
+          "variant": []
+        },
+        {
+          "detail": "85% o más → Excadrill 6+2 / Gengar CabezaHierro",
+          "variant": []
+        },
+        {
+          "detail": "Golpe crítico y mata a Metagross → Excadrill Trampa Rocas, +6+2",
+          "variant": []
+        },
+        {
+          "detail": "Golpe crítico y deja a Metagross herido → Excadrill Trampa Rocas, Cloyster +2.",
+          "variant": []
+        }
+      ]
+    },    
     {
       "detail": "Vidasfera → Excadrill +6+2 +Trampa Rocas",
-      "variant": []
-    },
-    {
-      "detail": "Si Excadrill muere por Tangrowth→ Entra Chandelure, revive a Excadrill y lo cura por encima del 80%. // Luego sacrifica a Metagross, Excadrill +2 +0. // Prioriza movimientos fuertes",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si Excadrill muere por Tangrowth→ Entra Chandelure, revive a Excadrill y lo cura por encima del 80%. // Luego sacrifica a Metagross, Excadrill +2 +0. // Prioriza movimientos fuertes",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Banda Focus → Cloyster +6",

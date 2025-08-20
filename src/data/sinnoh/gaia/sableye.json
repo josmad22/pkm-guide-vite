@@ -14,15 +14,16 @@
     },
     {
       "detail": "Tinieblas → Cambia a Excadrill",
-      "variant": []
-    },
-    {
-      "detail": "Sableye no se retira → Excadrill +6+0 // Tinieblas hace daño fijo de 100 PS; si queda con menos de 100 PS, usa Raíz Energía y vuelve a boostear",
-      "variant": []
-    },
-    {
-      "detail": "Rhyperior → Cambia a Chandelure y usa Truco para bloquearlo con Terremoto, luego Excadrill +6+0 // Si Chandelure entra y es congelado, cambia a Cloyster para descongelarlo (se sacrifica), luego vuelve a entrar Chandelure para usar Truco",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Sableye no se retira → Excadrill +6+0 // Tinieblas hace daño fijo de 100 PS; si queda con menos de 100 PS, usa Raíz Energía y vuelve a boostear",
+          "variant": []
+        },
+        {
+          "detail": "Rhyperior → Cambia a Chandelure y usa Truco para bloquearlo con Terremoto, luego Excadrill +6+0 // Si Chandelure entra y es congelado, cambia a Cloyster para descongelarlo (se sacrifica), luego vuelve a entrar Chandelure para usar Truco",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

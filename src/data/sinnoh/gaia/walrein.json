@@ -6,20 +6,22 @@
   "tricks": [
     {
       "detail": "Si cambia a Rhyperior, revisar el objeto",
-      "variant": []
-    },
-    {
-      "detail": "Si tiene Banda Focus, cambiar a Cloyster +6 + Evs en Defensa",
-      "variant": []
-    },
-    {
-      "detail": "Si tiene Casco Dentado, cambiar a Excadrill 6+2",
-      "variant": []
-    },
-    {
-      "detail": "Otra versión: Cambiar a Excadrill y utilizar Trampa Rocas, luego Cloyster +6",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "Si tiene Banda Focus, cambiar a Cloyster +6 + Evs en Defensa",
+          "variant": []
+        },
+        {
+          "detail": "Si tiene Casco Dentado, cambiar a Excadrill 6+2",
+          "variant": [
+            {
+              "detail": "Otra versión: Cambiar a Excadrill y utilizar Trampa Rocas, luego Cloyster +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }, 
     {
       "detail": "NIDOKING , cambiar a Cloyster +6 // Carámbano para matar a Rhyperior",
       "variant": []

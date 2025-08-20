@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "Si entra Garchomp, cambia a Chandelure y dejarlo morir, luego saca a Metagross y usa Truco para bloquear Terremoto, cambia a Excadrill 4+2 (Terremoto mata a Bastiodon)",
-      "variant": [
-        {
-          "detail": "Si Braviary no cambia, seguir usando Puño Trueno",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Si Braviary no cambia, seguir usando Puño Trueno",
+      "variant": []
     }
   ]
 }

@@ -18,12 +18,12 @@
         {
           "detail": "Si utiliza PULSO UMBRÍO, cambiar a Scrafty +3 / Bronzong necesita 2 Paliza",
           "variant": []
-        },
-        {
-          "detail": "Si cambia a GARCHOMP, utilizar Truco para bloquearlo en Terremoto, luego cambiar a Cloyster 6 + Crítico / Carámbano mata a Lucario / Poder Oculto mata a Lapras. Si cambia a Lapras mientras te boosteas, cambiar a Poliwrath con Tambor.",
-          "variant": []
         }
       ]
+    },    
+    {
+      "detail": "Si cambia a GARCHOMP, utilizar Truco para bloquearlo en Terremoto, luego cambiar a Cloyster 6 + Crítico / Carámbano mata a Lucario / Poder Oculto mata a Lapras. Si cambia a Lapras mientras te boosteas, cambiar a Poliwrath con Tambor.",
+      "variant": []
     }
   ]
 }

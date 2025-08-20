@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "Si utiliza ESTALLIDO, utilizar Poder Oculto para bajar vida, luego cambiar a Metagross para enfrentar a Steelix, luego utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
-      "variant": [
-        {
-          "detail": "Si cambia a STEELIX, utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmar",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a STEELIX, utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmar",
+      "variant": []
     }
   ]
 }

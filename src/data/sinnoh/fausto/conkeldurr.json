@@ -10,12 +10,11 @@
     },
     {
       "detail": "Si utiliza Desquite, cambiar a Scrafty 2 / Paliza + Puño Drenaje para matar a Steelix ( A prueba)",
-      "variant": [
-        {
-          "detail": "Si cambia a Steelix, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a Steelix, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
+      "variant": []
     }
   ]
 }

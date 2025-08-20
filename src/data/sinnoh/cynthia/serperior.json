@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "Si utiliza Poder Oculto, utilizar Trampa Rocas, luego cambiar a Scrafty 2. Si sale Arcanine, seguir boosteando, luego cambia a Scrafty 3. Al terminar de boostear, utilizar Raíz Grande para curarse, por si usa Velocidad Extrema.",
-      "variant": [
-        {
-          "detail": "Si cambia a Garchomp, cambiar a Excadrill 4+2 / Terremoto mata a Bastiodon",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a Garchomp, cambiar a Excadrill 4+2 / Terremoto mata a Bastiodon",
+      "variant": []
     }
   ]
 }

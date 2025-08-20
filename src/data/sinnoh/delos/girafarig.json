@@ -6,11 +6,11 @@
   "tricks": [
     {
       "detail": "Si cambia a Dragonite, cambiar a Chandelure 4+0 / Lanzallamas para matar a todos.",
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a Metagross, utilizar Trampa Rocas, luego cambiar a Chandelure 4+0 / Lanzallamas para matar a todos. Luego de boostear, cura. Si Dragonite hace crítico, revisa abajo:",
       "variant": [
-        {
-          "detail": "Si cambia a Metagross, utilizar Trampa Rocas, luego cambiar a Chandelure 4+0 / Lanzallamas para matar a todos. Luego de boostear, cura. Si Dragonite hace crítico, revisa abajo:",
-          "variant": []
-        },
         {
           "detail": "Si cambia a Chandelure, cambiar a Metagross para revivir a Chandelure (Dragonite muere por rebote), entra Ninetales, cambiar a Chandelure y usar Truco para bloquear en Poder Oculto, luego cambiar a Scrafty 2",
           "variant": []

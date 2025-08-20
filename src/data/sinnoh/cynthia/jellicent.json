@@ -10,16 +10,16 @@
         {
           "detail": "Si Poliwrath es obligado a cambiar por Bastiodon o lo mata, cambiar a Chandelure y usar Lanzallamas para debilitar, si entra Garchomp, cambiar a Metagross para sacrificar, luego cambiar a Chandelure y utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster +4. // Si entra Braviary, seguir con Lanzallamas hasta que vuelva Garchomp.",
           "variant": []
-        },
-        {
-          "detail": "Si cambia a Garchomp, cambiar a Excadrill +4 Danza Espada +Velocidad X +Trampa Rocas/// Terremoto para matar a Bastiodon",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Excadrill, cambiar a Cloyster 6 / Carámbano para matar a Snorlax",
-          "variant": []
-        }
+        }        
       ]
+    },
+    {
+      "detail": "Si cambia a Garchomp, cambiar a Excadrill +4 Danza Espada +Velocidad X +Trampa Rocas/// Terremoto para matar a Bastiodon",
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a Excadrill, cambiar a Cloyster 6 / Carámbano para matar a Snorlax",
+      "variant": []
     }
   ]
 }

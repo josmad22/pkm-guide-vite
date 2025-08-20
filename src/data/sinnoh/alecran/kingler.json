@@ -10,16 +10,17 @@
     },
     {
       "detail": "FLYGON → Cambia a Chandelure para ver qué movimiento usa",
-      "variant": []
-    },
-    {
-      "detail": "LLAMARADA → truco para cambiar de objeto, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "TERREMOTO → Cloyster +4 (Carámbano para matar a Tyranitar)",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "LLAMARADA → truco para cambiar de objeto, Cloyster +4",
+          "variant": []
+        },
+        {
+          "detail": "TERREMOTO → Cloyster +4 (Carámbano para matar a Tyranitar)",
+          "variant": []
+        }
+      ]
+    },   
     {
       "detail": "STEELIX → Cloyster +6 (Carámbano para matar a Omastar)",
       "variant": []

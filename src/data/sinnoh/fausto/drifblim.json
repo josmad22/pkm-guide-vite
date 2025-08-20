@@ -9,28 +9,30 @@
       "variant": [
         {
           "detail": "Si cambia a Rotom, cambiar a Chandelure +4 / Lanzallamas para matar a todo el equipo",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Rotom pero Metagross tiene menos del 30% de vida, cambiar a Excadrill 4+2",
-          "variant": []
-        },
+          "variant": [
+            {
+              "detail": "Si cambia a Rotom pero Metagross tiene menos del 30% de vida, cambiar a Excadrill 4+2",
+              "variant": []
+            }
+          ]
+        },       
         {
           "detail": "Si cambia a Bronzong, cambiar a Chandelure frente a Rotom, luego cambiar a Excadrill 4+2",
           "variant": []
         },
         {
           "detail": "Si cambia a Cacturne, cambiar a Chandelure y utilizar Lanzallamas para matarlo, luego ver qué sale:",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Rotom, cambiar a Excadrill 4+2",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Magmortar, cambiar a Excadrill, luego cambiar a Chandelure y utilizar Truco para bloquear en Rayo, luego cambiar a Excadrill 4+2",
-          "variant": []
-        }
+          "variant": [
+            {
+              "detail": "Si entra Rotom, cambiar a Excadrill 4+2",
+              "variant": []
+            },
+            {
+              "detail": "Si entra Magmortar, cambiar a Excadrill, luego cambiar a Chandelure y utilizar Truco para bloquear en Rayo, luego cambiar a Excadrill 4+2",
+              "variant": []
+            }
+          ]
+        }       
       ]
     }
   ]

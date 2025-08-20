@@ -6,11 +6,11 @@
   "tricks": [
     {
       "detail": "Si cambia a Hydreigon, cambiar a Chandelure y utilizar Truco",
-      "variant": []
-    },
-    {
-      "detail": "Si Hydreigon se queda, cambiar a Scrafty 2",
       "variant": [
+        {
+          "detail": "Si Hydreigon se queda, cambiar a Scrafty 2",
+          "variant": []
+        },
         {
           "detail": "Si cambia a Empoleon, cambiar a Poliwrath 6+4",
           "variant": []
