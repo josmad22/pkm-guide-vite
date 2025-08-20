@@ -1,0 +1,16 @@
+{
+  "id": "steelix",
+  "name": "Steelix",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Casco Dentado → Cloyster 6.",
+      "variant": []
+    },
+    {
+      "detail": "Cinta Elegida → Cloyster 4 + medicina de Ataque Especial. Si no usas la medicina de Sp. Atk, hay 12.5% de probabilidad de que Slowbro te reviente.",
+      "variant": []
+    }
+  ]
+}

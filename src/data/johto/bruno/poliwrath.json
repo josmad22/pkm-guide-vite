@@ -1,0 +1,12 @@
+{
+  "id": "poliwrath",
+  "name": "Poliwrath",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "USA PUÑO TRUENO",
+  "tricks": [
+    {
+      "detail": "Entra Krookodile: Cambia a Cloyster y Rompecoraza a +6. /Usa Carámbano para Debilitar a Lucario, Metagross.",
+      "variant": []
+    }
+  ]
+}

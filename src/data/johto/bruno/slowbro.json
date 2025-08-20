@@ -1,0 +1,70 @@
+{
+  "id": "slowbro",
+  "name": "Slowbro",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Steelix → revisa el objeto.",
+      "variant": []
+    },
+    {
+      "detail": "Casco Dentado → Cloister 6.",
+      "variant": []
+    },
+    {
+      "detail": "CINTA ELEGIDA → Cloyster +4 + Especial X / Si no usas la medicina, hay un 12.5% de probabilidad de que sea debilitado de un solo golpe",
+      "variant": []
+    },
+    {
+      "detail": "Aggron → Cloister 4+ con Especial X. Usa Surf para matar a Conkeldurr.",
+      "variant": []
+    },
+    {
+      "detail": "Escaldar → revisa el daño del ataque.",
+      "variant": []
+    },
+    {
+      "detail": "24.7%-29.1%【con alrededor de 40% de chance de quemar】 → revisa si Metagross queda quemado.",
+      "variant": [
+        {
+          "detail": "Si está quemado → Poliwrath 6+2. Usa Puño Hielo para matar a Salamence.",
+          "variant": []
+        },
+        {
+          "detail": "Si no está quemado → cambia a Chandelure :",
+          "variant": []
+        },
+        {
+          "detail": "Si Slowbro no se va → Poliwrath 6+2. Usa Puño Hielo para matar a Salamence.",
+          "variant": []
+        },
+        {
+          "detail": "Contra Steelix → Truco para bloquear Terremoto, luego Ferrothorn 6.",
+          "variant": []
+        },
+        {
+          "detail": "Contra Salamence/Hitmontop → Truco para bloquear Terremoto, luego Cloister 6+ con crítico. Usa Carámbano para matar a Steelix.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Alrededor de 36%【con cerca de 54% de chance de crítico】 → pon Trampa Rocas :",
+      "variant": [
+        {
+          "detail": "Si no se va → Poliwrath 6+2. // Si cambia a Staraptor , sacrifica a Poliwrath, Chandelure usa Poder oculto para debilitar rápido, entra Steelix, luego Cloister 4.",
+          "variant": []
+        },
+        {
+          "detail": "Si sale Steelix → Cloister 4.",
+          "variant": []
+        },
+        {
+          "detail": "Si sale Heracross → cambia a Chandelure y usa Truco para bloquear Roca Afilada, luego Excadrill 4+2+2 (con Defensa). Primero usa Defensa X para subir defensa.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

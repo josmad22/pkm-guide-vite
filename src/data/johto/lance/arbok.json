@@ -1,0 +1,12 @@
+{
+  "id": "arbok",
+  "name": "Arbok",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO PARA ENCERRAR A GARCHOMP/ FLYGON TERREMOTO",
+  "tricks": [
+    {
+      "detail": "Cloyster +4",
+      "variant": []
+    }
+  ]
+}

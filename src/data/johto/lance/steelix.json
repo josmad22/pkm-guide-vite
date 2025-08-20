@@ -1,0 +1,16 @@
+{
+  "id": "steelix",
+  "name": "Steelix",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO Y MIRA EL OBJETO",
+  "tricks": [
+    {
+      "detail": "BAYA LICHI / CASCO DENTADO → entra Cloyster +4.// Carámbano mata a Lucario",
+      "variant": []
+    },
+    {
+      "detail": "BAYA CHIRI → Metagross pone Trampa Rocas, luego Excadrill 2+0. Si sale Lapras, ignóralo, sigue barriendo.",
+      "variant": []
+    }
+  ]
+}

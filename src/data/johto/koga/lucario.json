@@ -1,0 +1,12 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Truco, para encerrar en Triturar, Scrafty +2. Dos Palizas seguidas para matar a Gliscor.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "luxray",
+  "name": "Luxray",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear a Steelix, luego Cloister 6.",
+      "variant": []
+    }
+  ]
+}

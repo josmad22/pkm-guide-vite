@@ -1,0 +1,20 @@
+{
+  "id": "eelektros",
+  "name": "Eelektros",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Chandelure.",
+  "tricks": [
+    {
+      "detail": "NO CAMBIA → Truco para bloquear Rayo, Excadrill 4+2",
+      "variant": []
+    },
+    {
+      "detail": "MACHAMP → Truco para bloquear Roca afilada, Scrafty +5 / usa Raíz Energía para curar si tienes muy poca vida (cuidado Hitmonchan puede tener ultrapuño)",
+      "variant": []
+    },
+    {
+      "detail": "TORTERRA / SWAMPERT / METAGROSS → Truco para bloquear Terremoto, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "muk",
+  "name": "Muk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Puño Fuego → Truco para encerrar Puya Nociva / Sombra Vil, Excadrill 4+2.",
+      "variant": [
+        {
+          "detail": "Contra Rhydon o Rhyperior → Truco para encerrar Terremoto, Excadrill 4+2.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

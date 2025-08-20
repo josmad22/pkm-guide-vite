@@ -1,0 +1,12 @@
+{
+  "id": "golem",
+  "name": "Golem",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "bloquear Terremoto, luego Cloyster +4. // Carámbano para Machamp",
+      "variant": []
+    }
+  ]
+}

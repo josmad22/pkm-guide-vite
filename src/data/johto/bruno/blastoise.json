@@ -1,0 +1,17 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A POLIWRATH",
+  "tricks": [
+    {
+      "detail": "Hidro Bomba → Poliwrath 6+2.",
+      "variant": [
+        {
+          "detail": "Contra Machamp → Chandelure usa Truco y lo bloquea en Roca Afilada. Luego entra Scrafty 2+ y usa Raíz Energía, después sube +1 más. Si Chandelure muere, haz un Danza Dragón extra.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

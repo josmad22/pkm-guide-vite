@@ -1,0 +1,12 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE Y USA TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear Rayo, luego entra Excadrill con +6 +2.",
+      "variant": []
+    }
+  ]
+}

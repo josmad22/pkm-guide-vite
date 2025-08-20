@@ -1,0 +1,12 @@
+{
+  "id": "garchomp",
+  "name": "Garchomp",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear Terremoto, Cloyster +6 + Píldora para aumentar Críticos.Todo con ataques de Carámbano. Puede salir un Feraligatr, sin peligro.",
+      "variant": []
+    }
+  ]
+}

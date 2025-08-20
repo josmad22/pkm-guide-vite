@@ -1,0 +1,12 @@
+{
+  "id": "nidoking",
+  "name": "Nidoking",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Encerrar Tierra Viva, Cloyster +4. / Último Ditto, cambia a Poliwrath y usa A Bocajarro para rematar.",
+      "variant": []
+    }
+  ]
+}

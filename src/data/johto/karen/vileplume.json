@@ -1,0 +1,16 @@
+{
+  "id": "vileplume",
+  "name": "Vileplume",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Rhyperior / Excadrill → Cloyster +4. // Carámbano mata a Houndoom",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto → Chandelure usa Lanzallamas para rematar, entra Slowbro, Poliwrath +2+6",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "krookodile",
+  "name": "Krookodile",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CLOISTER",
+  "tricks": [
+    {
+      "detail": "Cloister + 4 + Especial X. Usa Carámbano para matar a Lucario.",
+      "variant": []
+    }
+  ]
+}

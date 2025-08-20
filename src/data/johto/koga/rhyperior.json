@@ -1,0 +1,16 @@
+{
+  "id": "rhyperior",
+  "name": "Rhyperior",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Restos → Excadrill 6+2 y luego pone Trampa Rocas. / Terremoto para matar a Gengar",
+      "variant": []
+    },
+    {
+      "detail": "Chaleco Asalto → Cloyster +4. // Usa carámbano para matar // Sharpedo Banda Focus",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "slowbro",
+  "name": "Slowbro",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "EXCADRILL SIN GLOBO → Cloyster 4+. Usa Carámbano para matar a Houndoom.",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill con globo → Usa Truco para recuperarlo, luego otro Truco para bloquear con Terremoto. Cloyster 6+. Usa Carámbano para matar a Houndoom.",
+      "variant": []
+    },
+    {
+      "detail": "CASCADA → Haz Truco otra vez para bloquear a Excadrill, Cloyster 4+. Usa Carámbano para matar a Houndoom.",
+      "variant": []
+    },
+    {
+      "detail": "LANZALLAMAS → Revisa si Metagross se quema o no.",
+      "variant": []
+    },
+    {
+      "detail": "No se quemó → Scrafty +2 + Raíz Energía +1. Usa Paliza para matar a Houndoom.",
+      "variant": []
+    },
+    {
+      "detail": "Se quemó → Cambia a Chandelure y usa Truco para bloquear a Tyranitar. Excadrill entra y pone Trampa Rocas con 4+2.",
+      "variant": []
+    }
+  ]
+}

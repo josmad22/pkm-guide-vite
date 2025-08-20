@@ -1,0 +1,12 @@
+{
+  "id": "gliscor",
+  "name": "Gliscor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Encerrar en Terremoto, Cloyster +6. Mátalos a todos con Carámbano",
+      "variant": []
+    }
+  ]
+}

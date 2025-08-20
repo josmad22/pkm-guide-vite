@@ -1,0 +1,12 @@
+{
+  "id": "rhyperior",
+  "name": "Rhyperior",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquea Terremoto, Cloyster +4. Usa Carámbano para matar a Houndoom y Gallade",
+      "variant": []
+    }
+  ]
+}

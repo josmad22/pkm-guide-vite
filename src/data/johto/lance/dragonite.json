@@ -1,0 +1,167 @@
+{
+  "id": "dragonite",
+  "name": "Dragonite",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Gema Dragón + Puño Fuego → Cambiar a Chandelure y usar Truco para bloquear a Feraligatr. Poliwrath 6+2+2 (Defensa Especial). Necesita Puño Hielo. Si Poliwrath recibe un golpe crítico, usar Raíz Grande para curarse y continuar barriendo.",
+      "variant": []
+    },
+    {
+      "detail": "Restos + Puño Fuego → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco.",
+      "variant": []
+    },
+    {
+      "detail": "Kingdra/Feraligatr → Poliwrath 6+2, no necesita Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "Arcanine → Excadrill 4+2. En prueba, revisar el registro de combate.",
+      "variant": []
+    },
+    {
+      "detail": "Gyarados → Cloyster +4 + Medicina de Defensa. Usar primero la medicina.",
+      "variant": []
+    },
+    {
+      "detail": "Llamarada → Cambiar a Chandelure y usar Poder Oculto. Si Dragonite no se retira, seguir atacando.",
+      "variant": []
+    },
+    {
+      "detail": "Sale Scrafty → Cambiar a Metagross para colocar Trampa Rocas. // Si Metagross falla al colocar Trampa Rocas, usar Excadrill para hacerlo. // Si Scrafty no se va o si entra Infernape, cambiar a Chandelure y usar Truco. 👇🏻",
+      "variant": []
+    },
+    {
+      "detail": "Triturar → Evaluar los PS de Dragonite:",
+      "variant": [
+        {
+          "detail": "Si no está a PS completo → Scrafty +3.",
+          "variant": []
+        },
+        {
+          "detail": "Si está a PS completo → usar Protec. Esp (Esto ayuda a que no bajen las estadísticas de tu equipo) y sacrificar, luego Poliwrath 2+2. / Priorizar ataques de alta potencia y eficaces.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Puño Trueno → Excadrill 4+2.",
+      "variant": []
+    },
+    {
+      "detail": "Sale Feraligatr → Cambiar a Metagross para colocar Trampa Rocas y sacrificarlo. Luego entra Chandelure con Truco, bloquear Cascada, y Poliwrath 6+2. // Si no se pudo colocar Trampa Rocas, no importa. Usar medicina de Defensa Especial. // Si recibe un golpe crítico significativo usar Raíz Energía.",
+      "variant": []
+    },
+    {
+      "detail": "TRUENO → Cambiar a Excadrill",
+      "variant": [
+        {
+          "detail": "Si Dragonite no se va → Excadrill coloca Trampa Rocas, entra Lapras, Poliwrath 6+2.",
+          "variant": []
+        },
+        {
+          "detail": "Contra Steelix → Cambiar a Chandelure y usar Truco para bloquear Terremoto. Luego Excadrill coloca Trampa Rocas + 2+2. // Si cambia a Lapras, Poliwrath 6+2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Fuerza Bruta → Revisar el objeto.",
+      "variant": [
+        {
+          "detail": "Si tiene Restos → Cambiar a Chandelure:",
+          "variant": []
+        },
+        {
+          "detail": "Si Dragonite no se va → Bola Sombra para revelar a Kangaskhan, Cloyster +4.",
+          "variant": []
+        },
+        {
+          "detail": "Contra Kangaskhan → Cloyster +4.",
+          "variant": []
+        },
+        {
+          "detail": "Contra Haxorus o Metagross → Truco para bloquear Terremoto, Cloyster +4.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Cinta Elegida → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco.",
+      "variant": [
+        {
+          "detail": "Si entra Aerodactyl → Excadrill + Defensa X + 4 + 2.",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Feraligatr → Poliwrath 6+2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Garchomp / Steelix / Kangaskhan → Cloyster +4.",
+      "variant": []
+    },
+    {
+      "detail": "Metagross → Revisar el objeto.",
+      "variant": [
+        {
+          "detail": "Si lleva Gema Acero → Cloyster +4.",
+          "variant": []
+        },
+        {
+          "detail": "Si lleva Vidasfera → Chandelure usa Lanzallamas para debilitar. Entra Tyranitar, cambiar a Scrafty y observar el movimiento:",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Triturar → Scrafty 3.",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Terremoto → Excadrill 6+2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Ampharos → Cambiar a Excadrill.",
+      "variant": [
+        {
+          "detail": "Si Ampharos no se retira → Excadrill 4+2. / Usar Terremoto para derrotar a Arcanine.",
+          "variant": []
+        },
+        {
+          "detail": "Contra Dragonite → Un solo Cabeza Hierro para romper la habilidad, luego cambiar a Chandelure y usar Poder Oculto para rematar. Evaluar quién entra después:",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Arcanine → Excadrill 4+2 + usar medicina fuerte para curarse.",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Feraligatr → Cambiar a Metagross para colocar Trampa Rocas y sacrificarlo. Chandelure usa Truco para bloquear Cascada, Poliwrath 6+2. // Si entra Ampharos, salir con Excadrill 4+2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Hydreigon → Cambiar a Chandelure y usar Truco.",
+      "variant": [
+        {
+          "detail": "Si Hydreigon no se va → Scrafty usa medicina de Defensa Especial +3. / Usar Puño Drenaje para derrotar a Lucario. // Scrafty es derrotado por crítico de Lucario → Chandelure usa Truco para bloquear Pulso Umbrío, revivir a Scrafty, Scrafty 3.",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Feraligatr → Poliwrath 6+2+2 (Defensa Especial). Necesita Puño Hielo. Si recibe golpe crítico de Lucha Especial, usar Raíz Energía para curarse y continuar barriendo.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Tyranitar → Excadrill 6+2.",
+      "variant": []
+    }
+  ]
+}

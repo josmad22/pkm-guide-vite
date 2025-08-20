@@ -1,0 +1,16 @@
+{
+  "id": "ninetales",
+  "name": "Ninetales",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "LLAMARADA → Cambia a Chandelure y usa Truco para bloquear Rhyperior, Cloyster +4 // Elimina todo con Carámbano",
+      "variant": []
+    },
+    {
+      "detail": "RHYPERIOR → Cloyster +4. / Elimina todo con Carámbano",
+      "variant": []
+    }
+  ]
+}

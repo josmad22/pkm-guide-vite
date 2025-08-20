@@ -1,0 +1,12 @@
+{
+  "id": "charizard",
+  "name": "Charizard",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO PARA ENCERRAR EN LLAMARADA",
+  "tricks": [
+    {
+      "detail": "Cambia a Chandelure y luego a Scrafty, frente a Tyranitar, Excadrill 6 + 2",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "feraligatr",
+  "name": "Feraligatr",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Garchomp → Cloister +6 con crítico. Si no, todo con ataques de Hielo. Puede salir un Feraligatr, pero no hay peligro.",
+      "variant": []
+    },
+    {
+      "detail": "Rhydon →Cloister 4. Usa Carámbano para matar a Houndoom.",
+      "variant": []
+    },
+    {
+      "detail": "Cascada → Cloister sube defensa +4 Especial X Si no temes al crítico, puedes no usar Especial X",
+      "variant": []
+    }
+  ]
+}

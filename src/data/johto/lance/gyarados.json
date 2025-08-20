@@ -1,0 +1,20 @@
+{
+  "id": "gyarados",
+  "name": "Gyarados",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Puño Trueno derrota, espera a ver qué entra 👇🏻",
+  "tricks": [
+    {
+      "detail": "Garchomp → Cambia a Chandelure para sacrificarlo, entra Metagross con Truco, bloquea con Terremoto, Cloyster +6 // Surf para debilitar a Metagross.",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross → Cambia a Chandelure y usa Truco para bloquear con Rayo, Excadrill +4+2",
+      "variant": []
+    },
+    {
+      "detail": "Tyranitar → Cambia a Cloyster +6 // Surf para debilitar a Metagross.",
+      "variant": []
+    }
+  ]
+}

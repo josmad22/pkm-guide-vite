@@ -1,0 +1,12 @@
+{
+  "id": "ariados",
+  "name": "Ariados",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear Rhyperior, Cloyster +4. / Carámbano para todo",
+      "variant": []
+    }
+  ]
+}

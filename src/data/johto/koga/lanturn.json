@@ -1,0 +1,20 @@
+{
+  "id": "lanturn",
+  "name": "Lanturn",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Escaldar → pon Trampa Rocas, Poliwrath 6+2",
+      "variant": []
+    },
+    {
+      "detail": "Rayo → Excadrill pone Trampa Rocas 4+2.",
+      "variant": []
+    },
+    {
+      "detail": "Gliscor → Cloyster 6. / Mátalos a todos con Carámbano.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hitmonlee",
+  "name": "Hitmonlee",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Steelix, luego Cloyster +6.",
+      "variant": []
+    }
+  ]
+}

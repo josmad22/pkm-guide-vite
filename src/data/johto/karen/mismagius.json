@@ -1,0 +1,28 @@
+{
+  "id": "mismagius",
+  "name": "Mismagius",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Garchomp, Cloyster con +6 y se fortalece con golpe crítico. / Todo muere con Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill entra, Cloister con 4. / Usa Carámbano para matar a Houndoom.",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon entra, cambio a Chandelure y uso Truco, Hydreigon no se va. queda bloqueado en pulso umbrío, saque a Scrafty 3 / Lo encierro y mató a Infernape con Paliza.",
+      "variant": []
+    },
+    {
+      "detail": "Bola Sombra deja entrar a Scrafty +3 / Lo encierro y mató a Infernape con Paliza.",
+      "variant": []
+    },
+    {
+      "detail": "Rayo, entra Excadrill +4 +2 y pone Trampa Rocas",
+      "variant": []
+    }
+  ]
+}

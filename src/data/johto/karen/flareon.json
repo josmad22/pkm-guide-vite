@@ -1,0 +1,12 @@
+{
+  "id": "flareon",
+  "name": "Flareon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Cambiar a Chandelure y usar Bola Sombra; si entra Hydreigon, entrar con Scrafty +3. // Paliza para matar a Primeape (Banda Focus)",
+      "variant": []
+    }
+  ]
+}

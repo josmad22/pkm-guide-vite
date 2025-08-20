@@ -1,0 +1,12 @@
+{
+  "id": "tangrowth",
+  "name": "Tangrowth",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Terremoto, cambia a Cloyster +4 (Sharpedo muere con Carámbano)",
+      "variant": []
+    }
+  ]
+}

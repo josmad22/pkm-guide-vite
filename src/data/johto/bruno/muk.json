@@ -1,0 +1,12 @@
+{
+  "id": "muk",
+  "name": "Muk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "Entra Chandelure +4, Vel +0. Usa Lanzallamas para barrer todo el equipo.",
+      "variant": []
+    }
+  ]
+}

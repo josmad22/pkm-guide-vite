@@ -1,0 +1,21 @@
+{
+  "id": "skarmory",
+  "name": "Skarmory",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "NIDOQUEEN → Cloyster +6 // Elimina todo con Carámbano",
+      "variant": [
+        {
+          "detail": "Si inesperadamente recibe Lanzallamas → Confirma que es Zoroark así que revisa la Estrategia de abajo.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "LANZALLAMAS (Zoroark Disfraz) → Chandelure usa Truco para intercambiar objeto, Scrafty +3 // Puño Drenaje + A Bocajarro para eliminar Skarmory",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sharpedo",
+  "name": "Sharpedo",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear Terremoto/Rhyperior, Cloyster +4. // Usa Carámbano para barrer TODO",
+      "variant": []
+    }
+  ]
+}

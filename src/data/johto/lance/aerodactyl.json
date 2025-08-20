@@ -1,0 +1,20 @@
+{
+  "id": "aerodactyl",
+  "name": "Aerodactyl",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "STEELIX → Cloyster +4 / Poder Oculto Feraligatr",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto → Excadrill +4+2 // Si ocurre una situación inesperada, ver más abajo:",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill frente a Steelix → Cambia a Chandelure y usa Truco para encerrarlo en Terremoto, luego Cloyster +4.",
+      "variant": []
+    }
+  ]
+}

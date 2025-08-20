@@ -1,0 +1,20 @@
+{
+  "id": "weezing",
+  "name": "Weezing",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "TRUCO, para bloquear Rayo, Excadrill pone Trampa Rocas.",
+      "variant": []
+    },
+    {
+      "detail": "NO CAMBIA : Excadrill 6+2. / Terremoto para matar a Gengar.",
+      "variant": []
+    },
+    {
+      "detail": "SALE LAPRAS : Poliwrath 6+2. / Terremoto para matar a Gengar.",
+      "variant": []
+    }
+  ]
+}

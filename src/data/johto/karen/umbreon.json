@@ -1,0 +1,12 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Scrafty +3 // 2 Paliza derrotan a Garchomp (Si usas Puño Drenaje te harás daño)",
+      "variant": []
+    }
+  ]
+}

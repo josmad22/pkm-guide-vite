@@ -1,0 +1,29 @@
+{
+  "id": "parasect",
+  "name": "Parasect",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Chupa vidas → Lanzallamas para rematar, observa quién entra 👇🏻",
+      "variant": []
+    },
+    {
+      "detail": "Sale Rotom → Cambia a Poliwrath y luego a Chandelure, espera que cambie Voltiocambio, observa quién entra",
+      "variant": []
+    },
+    {
+      "detail": "Skuntank, Scrafty usa + Defensa X +3",
+      "variant": []
+    },
+    {
+      "detail": "Crobat, Truco para bloquear Veneno, Excadrill 6+2.",
+      "variant": [
+        {
+          "detail": "Contra Gliscor → Truco para bloquear Terremoto, Cloyster 6. / Usa carámbano para matar. Ahorrar: sin Truco, Excadrill pone Trampa Rocas 4+2.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

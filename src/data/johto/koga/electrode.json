@@ -1,0 +1,24 @@
+{
+  "id": "electrode",
+  "name": "Electrode",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Después de Nidoking → Cloyster 6. / Mátalos a todos con Carambano. Si Cloyster recibe Fuego por error, confirma que es Zoroark y sigue la segunda línea.",
+      "variant": []
+    },
+    {
+      "detail": "Lanzallamas [Zoroark disfraz] → Chandelure usa Truco para cambiar objeto, Scrafty 3. / Usa Puño Drenaje + A Bocajarro para matar a Skarmory.",
+      "variant": []
+    },
+    {
+      "detail": "Rayo → Excadrill 6+2 / para huir de Nidoking, mira abajo 👇🏻",
+      "variant": []
+    },
+    {
+      "detail": "Cambia a Excadrill contra Nidoking → cambia a Chandelure para usar Truco y mira el movimiento: ① si usa Tierra Viva, Cloyster 6 / mátalos a todos con Carambano ② si usa Onda Tóxica, Scrafty 3 / usa Puño Drenaje + A Bocajarro para matar a Skarmory.",
+      "variant": []
+    }
+  ]
+}

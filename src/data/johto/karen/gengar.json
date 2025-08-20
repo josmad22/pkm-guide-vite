@@ -1,0 +1,12 @@
+{
+  "id": "gengar",
+  "name": "Gengar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear a Quagsire, luego Cloyster +4. // Se necesita 2 Poder Oculto para matar a Quagsire",
+      "variant": []
+    }
+  ]
+}

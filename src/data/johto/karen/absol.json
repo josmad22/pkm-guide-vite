@@ -1,0 +1,12 @@
+{
+  "id": "absol",
+  "name": "Absol",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear a Seismitoad / Quagsire, luego Cloyster +4. // Surf contra Gengar",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "darmanitan",
+  "name": "Darmanitan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Chandelure +4 Atq. Especial , Usa Lanzallamas para limpiar equipo.",
+      "variant": [
+        {
+          "detail": "Si cambia a Seismitoad → Truco para bloquear Terremoto, luego Cloister 4.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

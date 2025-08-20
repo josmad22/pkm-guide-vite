@@ -1,0 +1,12 @@
+{
+  "id": "luxray",
+  "name": "Luxray",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloqueado en Rayo. Excadrill entra, pone Trampa Rocas con 4+2.",
+      "variant": []
+    }
+  ]
+}

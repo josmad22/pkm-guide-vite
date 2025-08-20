@@ -1,0 +1,40 @@
+{
+  "id": "metagross",
+  "name": "Metagross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Poder Oculto → Chandelure usa Lanzallamas para debilitar, entra Tyranitar, cambia a Scrafty para ver movimiento:",
+      "variant": []
+    },
+    {
+      "detail": "Triturar → Scrafty +3",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto → Excadrill +6+2",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto → Observa objeto Rival:",
+      "variant": []
+    },
+    {
+      "detail": "Gema Acero → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Casco Dentado → Excadrill +4+0",
+      "variant": []
+    },
+    {
+      "detail": "Restos → Excadrill +6+2",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp → Cloyster +4l:",
+      "variant": []
+    }
+  ]
+}

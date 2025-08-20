@@ -1,0 +1,20 @@
+{
+  "id": "haxorus",
+  "name": "Haxorus",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "METAGROSS / KANGASKHAN → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Dragonite → Chandelure usa Bola Sombra, entra Kangaskhan, Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "TERREMOTO → Cloyster +4",
+      "variant": []
+    }
+  ]
+}

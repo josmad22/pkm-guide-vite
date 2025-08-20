@@ -1,0 +1,16 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Quagsire, Cloister +4",
+      "variant": []
+    },
+    {
+      "detail": "Gran Llamarada (muy poca probabilidad) → Chandelure con Poder Oculto entra Houndoom, Scrafty +3. Swampert es firme, hay que pegarle varias veces para acabar.",
+      "variant": []
+    }
+  ]
+}

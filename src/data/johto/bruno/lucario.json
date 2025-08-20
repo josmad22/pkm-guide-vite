@@ -1,0 +1,16 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "NO SE VA → Usar Truco para bloquear Pulso Umbrío o Bola Sombra, luego entra Scrafty con +4; también puedes usar A Bocajarro para eliminar a Poliwrath o Metagross",
+      "variant": []
+    },
+    {
+      "detail": "KROOKODILE→ Cloyster entra con +4 y usa Medicina Especial X para potenciar el ataque, también puedes usar Carámbano para eliminar a Lucario si entra en relevo",
+      "variant": []
+    }
+  ]
+}

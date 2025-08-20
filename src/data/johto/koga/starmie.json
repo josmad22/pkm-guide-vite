@@ -1,0 +1,12 @@
+{
+  "id": "starmie",
+  "name": "Starmie",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Flygon, usa Truco para bloquear Terremoto, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

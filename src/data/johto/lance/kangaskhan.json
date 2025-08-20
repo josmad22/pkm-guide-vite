@@ -1,0 +1,7 @@
+{
+  "id": "kangaskhan",
+  "name": "Kangaskhan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia directamente a Cloyster con +6. // Si el rival cambia a Metagross, cambiar a Metagross propio y usar Truco para bloquear en Terremoto, luego volver a usar Cloyster con +4.",
+  "tricks": []
+}

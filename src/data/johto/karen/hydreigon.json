@@ -1,0 +1,12 @@
+{
+  "id": "hydreigon",
+  "name": "Hydreigon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Truco, si no se retira / encierra a Hydreigon, Scrafty 3. Usa paliza para matar a primeape",
+      "variant": []
+    }
+  ]
+}

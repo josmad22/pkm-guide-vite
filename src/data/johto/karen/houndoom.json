@@ -1,0 +1,92 @@
+{
+  "id": "houndoom",
+  "name": "Houndoom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO / Si Houndoom ataca primero es Pañuelo Elegido",
+  "tricks": [
+    {
+      "detail": "Lanzallamas → revisar objeto",
+      "variant": []
+    },
+    {
+      "detail": "Cinta Xperto → cambiar a Chandelure, ayudar a Metagross con Revivir o Cura Quemadura / usar Bola Sombra.",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon → Scrafty +3. / Paliza para Primeape",
+      "variant": []
+    },
+    {
+      "detail": "Banda Focus / Vidasfera → cambiar a Chandelure y usar Truco.",
+      "variant": []
+    },
+    {
+      "detail": "Houndoom se queda → Scrafty +4 o +2 con X Ataque. / Paliza mata a Vileplume en 2 turnos",
+      "variant": []
+    },
+    {
+      "detail": "Feraligatr → Cloyster +4 + Defensa X (Primero la medicina)",
+      "variant": []
+    },
+    {
+      "detail": "Tyranitar → Scrafty +3. / Si Scrafty recibe Terremoto, cambiar a Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "Rhyperior / Quagsire → Cloyster +4 / Si Cloyster se encuentra inesperadamente contra Gyarados → cambiar a Scrafty, usar Medicina Defensa X +3 / Cuidado con tu vida",
+      "variant": []
+    },
+    {
+      "detail": "Gyarados (Pañuelo Elegido) → cambiar a Poliwrath, luego cambiar a Scrafty. // Si Metagross está quemado, usar a Poliwrath para ayudar a quitar la quemadura (contra Slowbro), luego Scrafty +3",
+      "variant": []
+    },
+    {
+      "detail": "Slowbro → Scrafty +3 / / Si tienes bajos PS usar Raíz Energía",
+      "variant": []
+    },
+    {
+      "detail": "Gyarados (Restos) → Cloyster +4 con Medicina Defensa X. / / Primero usar medicina",
+      "variant": []
+    },
+    {
+      "detail": "Llamarada (Pañuelo Elegido) → cambiar a Chandelure; ver qué movimiento usa Houndoom después. // Si Metagross falla Truco, no hay problema. ¡Chandelure no debe usar ningún movimiento!",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto → Excadrill coloca Trampa Rocas, 4+2+2 (con Defensa Especial X)",
+      "variant": []
+    },
+    {
+      "detail": "Llamarada / Vozarrón → Ayudar a Metagross con Revivir o Raíz Energía // Mirar la situación 👇🏻 ¡Chandelure no debe usar ningún movimiento!",
+      "variant": []
+    },
+    {
+      "detail": "Houndoom no se va → (Ayudar a Metagross a curarse hasta 90% o más) / un Poder Oculto para bajar PS / cambiar a Metagross frente a Gengar / Truco para bloquear a Quagsire / Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Blastoise → (Ayudar a Metagross a curarse hasta 83% o más) / cambiar a Poliwrath / cambiar a Metagross y usar Truco / bloquear a Quagsire / Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Quagsire / Rhyperior → Cloyster +4 / Carámbano mata a Houndoom",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp → Cloyster +6 + Medicina Crítica. / Todo muere con Carámbano",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill → Mira el objeto.",
+      "variant": []
+    },
+    {
+      "detail": "Vidasfera → Cloyster +4. / Carámbano mata a Houndoom.",
+      "variant": []
+    },
+    {
+      "detail": "Globo Helio → Usa Truco para recuperarlo, luego vuelve a usar Truco para bloquear Terremoto, Cloyster +6. / Carámbano mata a Houndoom y Tyranitar.",
+      "variant": []
+    }
+  ]
+}

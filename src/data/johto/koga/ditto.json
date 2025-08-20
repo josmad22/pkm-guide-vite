@@ -1,0 +1,20 @@
+{
+  "id": "ditto",
+  "name": "Ditto",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TRUCO FALLA (parálisis), cambia directo a Excadrill 4+2.",
+      "variant": []
+    },
+    {
+      "detail": "PUÑO TRUENO → Excadrill 4+2, ¡no pongas Trampa Rocas!",
+      "variant": []
+    },
+    {
+      "detail": "NIDOKING → Cloyster 4, último Ditto, cambia a Poliwrath para rematar.",
+      "variant": []
+    }
+  ]
+}

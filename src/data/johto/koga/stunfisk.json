@@ -1,0 +1,12 @@
+{
+  "id": "stunfisk",
+  "name": "Stunfisk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear Tierra Viva, Cloyster 4",
+      "variant": []
+    }
+  ]
+}

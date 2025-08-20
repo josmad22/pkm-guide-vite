@@ -1,0 +1,12 @@
+{
+  "id": "forretress",
+  "name": "Forretress",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco para bloquear a Rhyperior/Nidoking",
+  "tricks": [
+    {
+      "detail": "Excadrill 4 + 2",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ferrothorn",
+  "name": "Ferrothorn",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Nidoking → Cloyster +4, último Ditto, cambia a Poliwrath para rematar.",
+      "variant": []
+    },
+    {
+      "detail": "Swalot → Chandelure usa Truco para cambiar objeto, Excadrill 4+2, Terremoto para matar a Nidoking, si rompe el globo sigue barriendo, cuando salga Ditto cambia a Cloyster para rematar.",
+      "variant": []
+    }
+  ]
+}

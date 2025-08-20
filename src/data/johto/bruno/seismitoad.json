@@ -1,0 +1,12 @@
+{
+  "id": "seismitoad",
+  "name": "Seismitoad",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear Terremoto → luego Cloyster +4.",
+      "variant": []
+    }
+  ]
+}

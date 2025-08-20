@@ -1,0 +1,32 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Aggron o Golem → Cloister 4+, usa Surf para acabar con Metagross y Hitmonp",
+      "variant": []
+    },
+    {
+      "detail": "Lanzallamas → Chandelure usa Truco, luego Excadrill 4+2.",
+      "variant": []
+    },
+    {
+      "detail": "Gigalith → Cloister 4.",
+      "variant": []
+    },
+    {
+      "detail": "Slowbro → elegir según situación.",
+      "variant": []
+    },
+    {
+      "detail": "Para quitar velocidad → pon Roca Afilada, entra Aggron, luego Cloister 4+ , usa Surf para matar a Conkeldurr.",
+      "variant": []
+    },
+    {
+      "detail": "Para ahorrar → pon Trampa Rocas, entra Aggron, luego Cloister 4, usa Surf para matar a Conkeldurr.",
+      "variant": []
+    }
+  ]
+}

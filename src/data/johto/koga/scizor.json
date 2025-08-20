@@ -1,0 +1,16 @@
+{
+  "id": "scizor",
+  "name": "Scizor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Contra Stunfisk → Truco para bloquear Terremoto o Tierra Viva, Cloyster +4.",
+      "variant": []
+    },
+    {
+      "detail": "No cambia → Truco para bloquear Puño Bala, luego cambia a Metagross, Truco para bloquear a Stunfisk, Cloyster 4.",
+      "variant": []
+    }
+  ]
+}

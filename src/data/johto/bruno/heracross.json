@@ -1,0 +1,16 @@
+{
+  "id": "heracross",
+  "name": "Heracross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "ELEGIR SITUACIÓN",
+  "tricks": [
+    {
+      "detail": "Ejecución Segura→ usa Puño Trueno, entra Steelix, luego Cloister 4+ con Especial X. Si no usas Especial X, hay 12.5% de que Slowbro te contraataque y te mate.",
+      "variant": []
+    },
+    {
+      "detail": "Ahorrar Recursos → Trampa Rocas y entra Steelix, luego Cloyster +4.",
+      "variant": []
+    }
+  ]
+}

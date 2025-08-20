@@ -1,0 +1,12 @@
+{
+  "id": "kangaskhan",
+  "name": "Kangaskhan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si cambia a Steelix, saca a Cloyster +4 + Especial X",
+      "variant": []
+    }
+  ]
+}

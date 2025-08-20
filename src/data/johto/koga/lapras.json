@@ -1,0 +1,12 @@
+{
+  "id": "lapras",
+  "name": "Lapras",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Encerrar a Rhyperior, Excadrill 6+2 y luego poner Trampa Rocas. / Terremoto para matar a Gengar.",
+      "variant": []
+    }
+  ]
+}

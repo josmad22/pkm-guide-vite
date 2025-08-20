@@ -1,0 +1,16 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear a SEISMITOAD, luego Cloyster +4. Dos Poder Oculto para matar a Seismitoad. / Metagross Surf",
+      "variant": []
+    },
+    {
+      "detail": "Bloquear a QUAGSIRE, luego Cloyster +6. / Carámbano para Houndoom y Absol / Surf para Gengar",
+      "variant": []
+    }
+  ]
+}

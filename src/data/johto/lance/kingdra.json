@@ -1,0 +1,17 @@
+{
+  "id": "kingdra",
+  "name": "Kingdra",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si usa Surf coloca Trampa Rocas, Luego cambia a Poliwrath 2 Tambores, 1 Velocidad X.(Si no Lograste Poner Trampa Rocas + Defensa X a Poliwrath).",
+      "variant": [
+        {
+          "detail": "Si cambia a Steelix Cambia a Cloyster +4",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}
