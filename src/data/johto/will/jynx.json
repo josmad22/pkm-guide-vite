@@ -1,0 +1,12 @@
+{
+  "id": "jynx",
+  "name": "Jynx",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Entra Chansey, Scrafty +1, A bocajarro para matar a Blissey // Luego Puño Drenaje para recuperar vida",
+      "variant": []
+    }
+  ]
+}

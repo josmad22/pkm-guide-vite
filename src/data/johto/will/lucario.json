@@ -1,0 +1,12 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Chandelure y Truco",
+  "tricks": [
+    {
+      "detail": "Si Lucario no cambia y utiliza Triturar / Roca Afilada / Otro movimiento al que Scrafty sea resistente cambia a Scrafty +2",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "xatu",
+  "name": "Xatu",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "CLAYDOL CON PSÍQUICO → Excadrill coloca Trampa Rocas, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath +6+2",
+      "variant": []
+    },
+    {
+      "detail": "GOLURK→ Revisa el objeto",
+      "variant": [
+        {
+          "detail": "RESTOS → Excadrill 4+2 / Terremoto para matar a Hypno",
+          "variant": []
+        },
+        {
+          "detail": "CINTA XPERTO → Excadrill +4+2 y vuelve a poner Trampa Rocas, Si cambia a Slowbro mientras te boosteas, entra Poliwrath, luego cambia a Scrafty con +2 en Defensa Especial.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "MAGNEZONE → Excadrill lo derrota, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2.",
+      "variant": []
+    },
+    {
+      "detail": "BRONZONG → Cambia a Chandelure",
+      "variant": [
+        {
+          "detail": "Contra Empoleon → Truco para bloquear Escaldar, Poliwrath 6+2,",
+          "variant": []
+        },
+        {
+          "detail": "Contra Tropius → Truco para bloquear Poder Oculto, Scrafty +2 (Bronzong necesita dos golpes)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "UMBREON → Lanza Trampa Rocas, Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "CLEFABLE → Cambia a Chandelure, según la situación 👇🏻",
+      "variant": [
+        {
+          "detail": "Mov. sísmico → Scrafty +1, cura con Raíz Energía y sube otro +1",
+          "variant": []
+        },
+        {
+          "detail": "Lanzallamas [Zoroark disfrazado] → Truco para cambiar objeto, Scrafty +2",
+          "variant": []
+        },
+        {
+          "detail": "Contra LUCARIO / GARDEVOIR → Truco para bloquear Triturar/Pulso Umbrío, Scrafty +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "BLISSEY O CHANSEY → Scrafty +1 / A bocajarro para matar a Blissey o Chansey // Luego cura con Puño Drenaje",
+      "variant": []
+    },
+    {
+      "detail": "VIDASFERA + ONDA ÍGNEA → Chandelure usa Bola Sombra para debilitar",
+      "variant": [
+        {
+          "detail": "Si sale Umbreon → Cambia a Metagross y lanza Trampa Rocas, Scrafty +2, Si no puede poner Trampa Rocas con Metagross, usa Excadrill para ponerlas",
+          "variant": []
+        },
+        {
+          "detail": "Si sale Lucario → Cambia a Scrafty, luego a Chandelure con Truco para bloquear Triturar, Scrafty +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "RESTOS + ONDA ÍGNEA → Scrafty +2 / 2 puño drenaje para matar a Kecleon / Clefeable",
+      "variant": []
+    },
+    {
+      "detail": "GAFAS ELEGIDAS + ONDA ÍGNEA → Cambia a Chandelure",
+      "variant": [
+        {
+          "detail": "Si no cambia → Bola Sombra para debilitar o matar, entra Hydreigon, Scrafty +2 // (Bronzong necesita dos golpes)",
+          "variant": []
+        },
+        {
+          "detail": "Contra Bronzong → lanzallamas para debilitar o matar:",
+          "variant": [
+            {
+              "detail": "Si sale Hydreigon, Scrafty +3",
+              "variant": []
+            },
+            {
+              "detail": "Si sale Empoleon, Poliwrath 6+2",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "CHALECO ASALTO + ONDA ÍGNEA → Cambia a Scrafty",
+      "variant": [
+        {
+          "detail": "No se retira → Scrafty usa Defensa Especial X luego +4 / Usa Puño Drenaje para eliminar Magnezone / Si Metagross está quemado, ayudar a eliminar la quemadura / Si Onda Ígnea baja mucha vida curar con Raíz Energía",
+          "variant": []
+        },
+        {
+          "detail": "Magnezone → Excadrill usa Terremoto para eliminarlo, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath +6+4",
+          "variant": []
+        },
+        {
+          "detail": "Claydol → Excadrill coloca Trampa Rocas, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath +6+4 // Si claydol no se retira, Scrafty +3",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "LANZALLAMAS [disfraz de Zoroark] → Chandelure usa Truco para intercambiar objeto, Scrafty +2 (requiere pruebas)",
+      "variant": []
+    }
+  ]
+}

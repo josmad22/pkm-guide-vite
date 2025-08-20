@@ -1,0 +1,12 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "Sale Scrafty +2",
+      "variant": []
+    }
+  ]
+}

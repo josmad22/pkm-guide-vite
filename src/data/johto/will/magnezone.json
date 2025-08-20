@@ -1,0 +1,12 @@
+{
+  "id": "magnezone",
+  "name": "Magnezone",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A EXCADRILL",
+  "tricks": [
+    {
+      "detail": "Excadrill derrota a Magnezone, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "variant": []
+    }
+  ]
+}

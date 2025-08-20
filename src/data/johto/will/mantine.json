@@ -1,0 +1,20 @@
+{
+  "id": "mantine",
+  "name": "Mantine",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "USA TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "NO CAMBIA → Cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "variant": []
+    },
+    {
+      "detail": "MAGNEZONE → Excadrill lo derrota, entra Mantine, cambia a Chandelure y usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "variant": []
+    },
+    {
+      "detail": "GOLURK→ Cambia a Excadrill y luego a Chandelure, contra Mantine usa Truco para bloquear Escaldar, Poliwrath 6+2",
+      "variant": []
+    }
+  ]
+}
