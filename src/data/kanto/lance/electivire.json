@@ -1,0 +1,12 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE Y TRUCO",
+  "tricks": [
+    {
+      "detail": "Luego enviar a Excadrill con Trampa Rocas +4 +2",
+      "variant": []
+    }
+  ]
+}

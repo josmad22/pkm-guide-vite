@@ -1,0 +1,16 @@
+{
+  "id": "tyranitar",
+  "name": "Tyranitar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "PONER TRAMPA ROCAS Y OBSERVAR",
+  "tricks": [
+    {
+      "detail": "(Fuerza Bruta) → cambiar a Chandelure y usar Truco, bloquear a Feraligatr o Dragonite, entra Poliwrath con 6 + 2. Si Feraligatr usa Triturar inesperadamente, entra Scrafty con +2..",
+      "variant": []
+    },
+    {
+      "detail": "(Triturar) → entra Scrafty con +2.",
+      "variant": []
+    }
+  ]
+}

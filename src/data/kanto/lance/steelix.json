@@ -1,0 +1,16 @@
+{
+  "id": "steelix",
+  "name": "Steelix",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "(Terremoto) → Cloyster con +4 + Defensa X. / Cloyster mata a Lucario con Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "(Colmillo Ígneo) → poner Trampa Rocas, cambiar a Chandelure y usar Truco, bloquear a Lapras, Poliwrath entra con 6 + 2.. /// Si el rival no cambia, usar Truco varias veces hasta que caiga, luego Chandelure con 2 + 2. / Luego barrer con Lanzallamas.",
+      "variant": []
+    }
+  ]
+}

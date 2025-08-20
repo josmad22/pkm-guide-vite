@@ -1,0 +1,70 @@
+{
+  "id": "feraligatr",
+  "name": "Feraligatr",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "METAGROSS → Revisa el objeto:",
+      "variant": [
+        {
+          "detail": "Casco Dentado → Entra Excadrill 2+2, luego coloca Trampa Rocas.",
+          "variant": []
+        },
+        {
+          "detail": "Vidaesfera → Coloca Trampa Rocas, luego entra Poliwrath 6 + raíz energía +2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "TYRANITAR → Coloca Trampa Rocas y observa su movimiento:",
+      "variant": [
+        {
+          "detail": "Fuerza Bruta → Cambia a Chandelure, usa Truco para bloquear a Feraligatr o Dragonite, luego entra Poliwrath 6+2.",
+          "variant": []
+        },
+        {
+          "detail": "Triturar → Entra Scrafty +2. // A Bocajarro contra Metagross",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Eelektross → vuelve a usar Truco, luego cambia a Chandelure y vuelve a usar Truco para bloquear Rayo → Entra Excadrill 4+0 // Usa Terremoto para matar a Arbok. // Si accidentalmente se bloquea a Tyranitar, entra Scrafty 3 + revive a Metagross.",
+      "variant": []
+    },
+    {
+      "detail": "Steelix → Entra Cloyster +4.",
+      "variant": []
+    },
+    {
+      "detail": "GARCHOMP → cambia a Chandelure, usa Truco, intercambia objeto → Cloyster mata con Carámbano, entra Lapras → entra Excadrill 2 + 0 + Trampa Rocas y usa Terremoto para matar a Lapras",
+      "variant": []
+    },
+    {
+      "detail": "DRAGONITE CON CINTA XPERTO → cambia a Chandelure, usa Truco para bloquear a Scrafty o Feraligatr, luego entra Cloyster 1 Defensa X + 4 / usa Carámbano para matar a Lucario / si Scrafty usa Triturar y baja la defensa, usa Mejora de Defensa antes de fortalecer a Cloyster",
+      "variant": []
+    },
+    {
+      "detail": "DRAGONITE CON RESTOS→ cambia a Chandelure, usa Truco para bloquear a Feraligatr → entra Poliwrath 6+2+Defensa x curándose con Absorbe Agua / cuidado con Haxorus con Banda Focus (No es problema)",
+      "variant": []
+    },
+    {
+      "detail": "Scrafty → usa un Puño Trueno para debilitar a Dragonite, luego Chandelure usa Truco → entra Cloyster Defensa X + 4 / usa Carámbano para matar a Lucario",
+      "variant": []
+    },
+    {
+      "detail": "Cascada → entra Cloyster Defensa X + 4 / usa Carámbano para matar a Lucario / aún en prueba",
+      "variant": []
+    },
+    {
+      "detail": "Escaldar → entra Poliwrath 6+2+Defensa X curándose con Absorbe Agua / usa A Bocajarro para matar a Lapras / cuidado con Metagross con Banda Focus",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto → entra Excadrill 4 + 2",
+      "variant": []
+    }
+  ]
+}

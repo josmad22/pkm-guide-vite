@@ -1,0 +1,12 @@
+{
+  "id": "infernape",
+  "name": "Infernape",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambio a Chandelure con Truco",
+  "tricks": [
+    {
+      "detail": "Bloquea Puño Trueno, Excadrill entra con 2 + 0",
+      "variant": []
+    }
+  ]
+}

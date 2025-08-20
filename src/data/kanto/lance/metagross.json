@@ -1,0 +1,63 @@
+{
+  "id": "metagross",
+  "name": "Metagross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "(Terremoto) → revisa el objeto",
+      "variant": [
+        {
+          "detail": "Vidasfera → Excadrill 4 + 2 y luego coloca Trampa Rocas",
+          "variant": []
+        },
+        {
+          "detail": "Casco Dentado → Excadrill 2 + 2 y luego coloca Trampa Rocas",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "PODER OCULTO → coloca Trampa Rocas",
+      "variant": [
+        {
+          "detail": "NO CAMBIA → Poliwrath 6 + Raíz Energía + 2 / Abocajarro Eelektross / Si tu vida está amarilla cuando salga dragonite cambia a chandelure y poder oculto",
+          "variant": []
+        },
+        {
+          "detail": "Entra Tyranitar → cambia a Chandelure y observa el movimiento",
+          "variant": [
+            {
+              "detail": "Triturar → Scrafty +2",
+              "variant": []
+            },
+            {
+              "detail": "Fuerza Bruta → usa Truco para bloquear a Feraligatr/Dragonite, Poliwrath 6 + 2. Si Feraligatr usa Triturar, entra Scrafty +2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "(Machada) → Chandelure usa Lanzallamas para matar",
+          "variant": []
+        },
+        {
+          "detail": "Entra Lapras → Poliwrath 6 + 2",
+          "variant": []
+        },
+        {
+          "detail": "Entra Flygon → cambia a Excadrill y luego a Chandelure, usa Truco para bloquear Terremoto, Cloyster mata con Carámbano, entra Lapras, Excadrill entra 2 + 0, usa Terremoto para matar a Lapras",
+          "variant": []
+        },
+        {
+          "detail": "Entra Feraligatr → Poliwrath 6 + Raíz + 2 / usa A Bocajarro para matar a Lapras",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "(Flygon) → cambia a Chandelure, usa Truco, intercambia objeto → Cloyster mata con Carámbano, entra Lapras → entra Excadrill 2 + Trampa Rocas y usa Terremoto para matar a Lapras",
+      "variant": []
+    }
+  ]
+}

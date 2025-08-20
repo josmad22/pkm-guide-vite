@@ -1,0 +1,37 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "(A Bocajarro) → usa Truco para bloquear Puño Hielo, Cloyster +4.",
+      "variant": []
+    },
+    {
+      "detail": "(Esfera Aural) → usa Truco y revisa el objeto",
+      "variant": [
+        {
+          "detail": "Banda Focus → entra Scrafty 3 / usa Paliza + Puño Drenaje para matar a Steelix",
+          "variant": []
+        },
+        {
+          "detail": "Vidasfera → entra Scrafty +4 o +2 + medicina de ataque",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "(Contra Dragonite → usa Truco para bloquear Cola Dragón, Cloyster entra con + Defensa X + 4 / Carambano mata a Lucario. Si accidentalmente se bloquea a Scrafty, usa medicina de defensa para aguantar, luego entra Cloyster para fortalecerse (Eso último de bloquear a Scrafty falta testear)",
+      "variant": []
+    },
+    {
+      "detail": "(Contra Steelix) → Truco para bloquear Terremoto, Cloyster entra con+ 4 / Carambano mata a Lucario",
+      "variant": []
+    },
+    {
+      "detail": "(Contra Scrafty) → Truco para bloquear Triturar, usa medicina de defensa (creo que es para tentar a que Scrafty se quede, Cloyster entra con Defensa X + 4 / Carambano mata a Lucario",
+      "variant": []
+    }
+  ]
+}
