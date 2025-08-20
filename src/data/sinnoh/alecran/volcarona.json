@@ -1,0 +1,16 @@
+{
+  "id": "volcarona",
+  "name": "Volcarona",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE Y LUEGO A METAGROSS, SI VOLCARONA NO SE VA, REPITE REPITE LA JUGADA Y SE IRÁ",
+  "tricks": [
+    {
+      "detail": "TYRANITAR → Truco para encerrarlo en Terremoto, Excadril entra y pone Trampa Rocas +6+2",
+      "variant": []
+    },
+    {
+      "detail": "GASTRODON → Truco para encerrarlo en Terremoto, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "druddigon",
+  "name": "Druddigon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Puño Fuego → Se colocan Trampa Rocas, Poliwrath +6 con Raíz Energía +2. / A Bocajarro derrota a Seismitoad.",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto → Se colocan Trampa Rocas, Cloyster +2. / Surf derrota a Rhydon.",
+      "variant": []
+    },
+    {
+      "detail": "Rhydon → Se colocan Trampa Rocas, Si Metagross no puede Excadrill coloca Trampa Rocas, Cloyster +2. / Surf derrota a Rhydon.",
+      "variant": []
+    }
+  ]
+}

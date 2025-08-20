@@ -1,0 +1,12 @@
+{
+  "id": "excadrill",
+  "name": "Excadrill",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Truco para bloquear Terremoto, cambiar a Cloyster 6 / Hielo para matar a Blissey / Snorlax / Poder Oculto para Jellicent",
+      "variant": []
+    }
+  ]
+}

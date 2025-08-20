@@ -22,15 +22,16 @@
     },
     {
       "detail": "SURF → Revisa el objeto",
-      "variant": []
-    },
-    {
-      "detail": "BAYA ATANIA → Poliwrath 6+2",
-      "variant": []
-    },
-    {
-      "detail": "GAFAS ELEGID. → Pone Trampa Rocas, Poliwrath 6+2",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "BAYA ATANIA → Poliwrath 6+2",
+          "variant": []
+        },
+        {
+          "detail": "GAFAS ELEGID. → Pone Trampa Rocas, Poliwrath 6+2",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

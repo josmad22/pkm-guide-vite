@@ -1,0 +1,12 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Utilizar Truco para bloquear en Bola Sombra, luego cambiar a Scrafty +2 / Paliza para matar a Haxorus y Magmortar",
+      "variant": []
+    }
+  ]
+}

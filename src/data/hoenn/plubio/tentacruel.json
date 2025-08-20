@@ -1,0 +1,12 @@
+{
+  "id": "tentacruel",
+  "name": "Tentacruel",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco para bloquear a Registeel,",
+  "tricks": [
+    {
+      "detail": "Entra Excadrill +2 +2 + Trampa Rocas",
+      "variant": []
+    }
+  ]
+}

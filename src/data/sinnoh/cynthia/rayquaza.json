@@ -1,0 +1,21 @@
+{
+  "id": "rayquaza",
+  "name": "Rayquaza",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE Y USAR PODER OCULTO",
+  "tricks": [
+    {
+      "detail": "Si cambia a Mismagius, dejar que Chandelure muera, entra Metagross y utiliza Truco para bloquear a Garchomp, luego utiliza Trampa Rocas, luego cambia a Cloyster +6. Si falla Trampa Rocas, cambiar a Cloyster 6 + Crítico // Carámbano para matar a Lucario",
+      "variant": [
+        {
+          "detail": "Si cambia a Lucario, cambiar a Poliwrath y luego a Chandelure y utilizar Truco, luego cambiar a Scrafty 4 o 2 + Ataque X",
+          "variant": []
+        },
+        {
+          "detail": "Si no muere y ambos mueren o sobreviven, cambiar a Metagross contra Arcanine o Lapras, utilizar Truco para bloquear a Garchomp, luego utilizar Trampa Rocas, luego cambiar a Cloyster 6. Si falla Trampa Rocas, cambiar a Cloyster 6 + Crítico / Carámbano para matar a Lucario",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nidoking",
+  "name": "Nidoking",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquea en Tierra Viva, luego entra Cloyster +6 // Usa Surf para derrotar a Regirock.",
+      "variant": []
+    }
+  ]
+}

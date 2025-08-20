@@ -1,0 +1,33 @@
+{
+  "id": "drifblim",
+  "name": "Drifblim",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Ataca con Puño Trueno.",
+  "tricks": [
+    {
+      "detail": "Si Drifblim no se retira, sigue atacando.",
+      "variant": []
+    },
+    {
+      "detail": "UMBREON - Cambia Scrafty Danza Dragón +2 barre todo el equipo.",
+      "variant": []
+    },
+    {
+      "detail": "JOLTEON - Cambia a Excadrill, luego a Chandelure y usa Truco para bloquear con movimiento eléctrico. Cambio a Excadrill Danza Espada 4+2 - Si el Truco de Chandelure falla(Se debilitó), entra con Metagross y repite Truco.",
+      "variant": [
+        {
+          "detail": "SI SALE OTRO CHANDELURE Cambia a tu Chandelure y observa qué movimiento usa:",
+          "variant": []
+        },
+        {
+          "detail": "Si usa LLAMARADA, Usa Truco para cambiar objetos, luego entra con Scrafty Usa Danza Dragón +3.",
+          "variant": []
+        },
+        {
+          "detail": "Si usa BOLA SOMBRA cambia a Scrafty Danza Dragón +2.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

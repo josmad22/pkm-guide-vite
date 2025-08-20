@@ -1,0 +1,20 @@
+{
+  "id": "raichu",
+  "name": "Raichu",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "METAGROSS → Chandelure usa Truco para bloquear Snorlax, Scrafty +2/ Paliza para eliminar Raichu, A Bocajarro para eliminar Snorlax",
+      "variant": []
+    },
+    {
+      "detail": "SNORLAX → Cambia a Chandelure contra Metagross, Bola Sombra para presionar, si entra Snorlax Scrafty +2 / Paliza para eliminar Raichu, A Bocajarro para eliminar Snorlax",
+      "variant": []
+    },
+    {
+      "detail": "TRUENO → Excadrill +4+2",
+      "variant": []
+    }
+  ]
+}

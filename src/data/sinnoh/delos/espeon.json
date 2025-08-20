@@ -1,0 +1,12 @@
+{
+  "id": "espeon",
+  "name": "Espeon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Si Espeon no cambia o entra Hydreigon, utilizar Truco para bloquear Psicocarga o Pulso Umbrío, luego cambiar a Scrafty +2",
+      "variant": []
+    }
+  ]
+}

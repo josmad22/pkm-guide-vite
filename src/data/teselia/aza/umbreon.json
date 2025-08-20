@@ -1,0 +1,24 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Opción 1: Scrafty usa Medicina Defensa X y luego +4. / A Bocajarro mata a Metagross.",
+  "tricks": [
+    {
+      "detail": "Opción 2: Scrafty usa Danza Dragón una vez, luego con Puño Drenaje remata y se ve a quién sacan 👇🏻",
+      "variant": []
+    },
+    {
+      "detail": "Staraptor → Chandelure usa Llamarada, sale Milotic, cambio a Poliwrath, luego a Metagross, frente a Gothitelle usa Truco y bloquea a Nidoking, Excadrill coloca Trampa Rocas, Cloyster +6 // Si Metagross entra inesperadamente frente a Staraptor, continuar con Chandelure usando Lanzallamas.",
+      "variant": []
+    },
+    {
+      "detail": "Metagross → cambiar a Chandelure y usar Truco, bloquear con Avalancha, Excadrill +4+2. // Terremoto mata a Gothitelle (por confirmar)",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao → cambiar a Chandelure y usar Truco para bloquear en Roca Afilada, Excadrill +4+2. / Terremoto mata a Musharna.",
+      "variant": []
+    }
+  ]
+}

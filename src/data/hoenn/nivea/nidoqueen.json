@@ -1,0 +1,12 @@
+{
+  "id": "nidoqueen",
+  "name": "Nidoqueen",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "bloquear Terremoto o tierra viva, Excadrill pone Trampa Rocas 6+2. Si sale Skarmory, Usa defensa X y sigue barriendo / Si tienes la vida amarilla y sale Beartic cambia a Poliwrath y A Bocajarro (Experimental)",
+      "variant": []
+    }
+  ]
+}

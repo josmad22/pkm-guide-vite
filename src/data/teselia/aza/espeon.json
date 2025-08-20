@@ -1,0 +1,52 @@
+{
+  "id": "espeon",
+  "name": "Espeon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "PODER OCULTO → Chandelure usa Truco para intercambiar objeto, Scrafty +3",
+      "variant": []
+    },
+    {
+      "detail": "SCRAFTY → Cambia a Chandelure",
+      "variant": []
+    },
+    {
+      "detail": "Patada Salto Alta → Lanzallamas para eliminar, entra Chandelure → Scrafty +2 → Paliza para eliminar Haxorus",
+      "variant": []
+    },
+    {
+      "detail": "Juego Sucio → Scrafty +2, Paliza para eliminar Haxorus",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus / Bisharp → Truco",
+      "variant": []
+    },
+    {
+      "detail": "Cola Agua, Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Persecución, Scrafty +3",
+      "variant": []
+    },
+    {
+      "detail": "BISHARP→ Coloca Trampa Rocas y evalúa la situación",
+      "variant": []
+    },
+    {
+      "detail": "Persecución → Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "Cabeza de Hierro o entra Scrafty → Chandelure usa Lanzallamas para eliminar, entra Chandelure → Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "GARCHOMP → Cloyster +6 → Carámbano para eliminar todos los objetivos",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "empoleon",
+  "name": "Empoleon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza Cascada o Hidrobomba, cambiar a Poliwrath 6+2 // Guardar Puño Hielo para Mismagius",
+      "variant": [
+        {
+          "detail": "Si cambia a Dragonite, cambiar a Chandelure y utilizar Truco par bloquear a Empoleon, luego cambiar a Poliwrath 6+2",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Mismagius, cambiar a Excadrill 4+2, forzar cambio de Hydreigon, luego cambiar a Chandelure y utilizar Truco para bloquear en Pulso Umbrío, luego cambiar a Scrafty 2",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Hydreigon, cambiar a Chandelure y utilizar Truco, luego cambiar a Scrafty 2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

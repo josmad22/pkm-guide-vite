@@ -1,0 +1,16 @@
+{
+  "id": "spiritomb",
+  "name": "Spiritomb",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "JUEGO SUCIO → Usa Truco nuevamente para bloquear Garchomp, Cloyster +4 // Carámbano para eliminar Sharpedo",
+      "variant": []
+    },
+    {
+      "detail": "KROOKODILE → Excadrill coloca Trampa Rocas 2+0",
+      "variant": []
+    }
+  ]
+}

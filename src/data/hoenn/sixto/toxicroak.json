@@ -1,0 +1,20 @@
+{
+  "id": "toxicroak",
+  "name": "Toxicroak",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Toxicroak no cambia → usa Truco para bloquear Puño Hielo, entra Cloyster 4. / Todo con Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "Cambio a Electivire: Usa truco con chandelure y Cambia a excadrill +4 Danza Espada + Velocidad X. (Trampa Rocas Opcional).",
+      "variant": []
+    },
+    {
+      "detail": "Contra Cradily → cambia a Scrafty y toma una Defensa especial X, luego Poliwrath. Si Cradily no cambia, todos a Chandelure, usa Truco para bloquear Puño Hielo, entra Cloyster 4. / Todo con Carámbano.",
+      "variant": []
+    }
+  ]
+}

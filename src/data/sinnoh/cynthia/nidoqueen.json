@@ -1,0 +1,12 @@
+{
+  "id": "nidoqueen",
+  "name": "Nidoqueen",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Utilizar Truco para bloquear Tierra Viva, luego cambiar a Excadrill 4+2",
+      "variant": []
+    }
+  ]
+}

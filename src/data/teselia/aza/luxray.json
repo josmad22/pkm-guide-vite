@@ -1,0 +1,16 @@
+{
+  "id": "luxray",
+  "name": "Luxray",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "BISHARP→ Truco bloquea Tajo Umbrío, Scrafty +3 Paliza para eliminar Absol / Si Chandelure es derrotado → Usa Danza Dragón una vez",
+      "variant": []
+    },
+    {
+      "detail": "LUXRAY NO SE RETIRA → Excadrill coloca Trampa Rocas 2 +2",
+      "variant": []
+    }
+  ]
+}

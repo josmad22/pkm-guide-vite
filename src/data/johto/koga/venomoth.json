@@ -1,0 +1,12 @@
+{
+  "id": "venomoth",
+  "name": "Venomoth",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Cambia a Cloyster +4. Estando Stunfisk encerrado en tierra viva. (Swalot muere con Carámbano)",
+      "variant": []
+    }
+  ]
+}

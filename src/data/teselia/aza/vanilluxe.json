@@ -1,0 +1,20 @@
+{
+  "id": "vanilluxe",
+  "name": "Vanilluxe",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "PODER OCULTO → Poliwrath 6+2 / A Bocajarro para eliminar Vaporeon",
+      "variant": []
+    },
+    {
+      "detail": "VENTISCA→ Usa Truco para intercambiar objeto, Poliwrath +6+2 / A Bocajarro para eliminar Vaporeon",
+      "variant": []
+    },
+    {
+      "detail": "EXCADRILL → Truco para bloquear Terremoto, Excadrill +4+2",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "garchomp",
+  "name": "Garchomp",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS Y VER QUIEN ACTÚA PRIMERO",
+  "tricks": [
+    {
+      "detail": "Si Metagross actúa primero, utilizar Trampa Rocas o curar a Chandelure hasta +60%, dejarlo morir al Metagross, cambiar a Chandelure, utilizar Truco para bloquearlo en Terremoto, cambiar a Cloyster +6 / Surf para Bastidon / Carámbano para matar a Blissey / Snorlax. // Si algo falla, seguir así:",
+      "variant": [
+        {
+          "detail": "Si Bronzong mata a Cloyster, cambiar a Poliwrath, revivir a Chandelure, luego usar A Bocajarro para matar al Bronzong, entra Heracross, dejarlo morir y ver qué movimiento hace:",
+          "variant": []
+        },
+        {
+          "detail": "Si usa A Bocajarro, cambiar a Chandelure, luego usar Truco dos veces para bloquear Terremoto o Roca Afilada, cambiar a Excadrill 4+2",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Terremoto, cambiar a Excadrill 4+2",
+          "variant": []
+        },
+        {
+          "detail": "Si Garchomp actúa primero (Lleva Pañuelo Elegido), cambiar a Excadrill 4+2. Si no hay Trampa Rocas, utilizar a Excadrill para ponerlas.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

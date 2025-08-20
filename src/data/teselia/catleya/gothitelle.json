@@ -1,0 +1,29 @@
+{
+  "id": "gothitelle",
+  "name": "Gothitelle",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "NIDOKING / NIDOQUEEN → Excadrill coloca Trampa Rocas, luego Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "STARAPTOR → Chandelure usa Lanzallamas para observar el cambio, si Staraptor no se retira, sigue atacando",
+      "variant": [
+        {
+          "detail": "Milotic → Cambia a Poliwrath, luego a Metagross contra Gothitelle, usa Truco para bloquear Nidoking/Nidoqueen, Excadrill coloca Trampa Rocas, Cloyster +6",
+          "variant": []
+        },
+        {
+          "detail": "Umbreon → Scrafty +3 / A Bocajarro contra Metagross, si Milotic entra, sigue fortaleciendo",
+          "variant": []
+        },
+        {
+          "detail": "Si Nidoking/Nidoqueen ingresan después de Danza Dragón → Cambia a Chandelure y usa Truco para bloquear Terremoto, luego Excadrill coloca Trampa Rocas, Cloyster +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "alakazam",
+  "name": "Alakazam",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza Poder Oculto, cambiar a Chandelure +4 / Lanzallamas para matar a todo el equipo",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza Esfera Aura, cambiar a Chandelure y utilizar Lanzallamas para matar al oponente, luego entra Gallade o Kecleon, luego cambiar a Scrafty 2 (A Verificar)",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "donphan",
+  "name": "Donphan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco para bloquear Terremoto, Excadrill 4+2. / Terremoto derrota a Donphan. // Si el rival saca otro Pokémon tras Danza Espada, ver siguientes casos 👇🏻",
+  "tricks": [
+    {
+      "detail": "Si saca Blastoise tras Danza Espada → Poliwrath 6+0. / Terremoto derrota a Donphan, A Bocajarro derrota a Whiscash.",
+      "variant": []
+    },
+    {
+      "detail": "Si saca Parasect tras Danza Espada → Cabeza de Hierro lo derrota, sale Blastoise → Poliwrath 6+0. / Terremoto derrota a Donphan, A Bocajarro derrota a Whiscash.",
+      "variant": []
+    }
+  ]
+}

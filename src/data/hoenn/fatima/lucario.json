@@ -1,0 +1,37 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "LUCARIO NO SE RETIRA → usa Truco y observa movimientos",
+      "variant": [
+        {
+          "detail": "A BOCAJARRO / SACRIFICIO / ESFERA AURAL → usa Truco para cambiar objeto, luego Scrafty +3.",
+          "variant": []
+        },
+        {
+          "detail": "PATADA SALTO ALTA → usa Truco para bloquear Triturar, luego Scrafty Danza Dragón 3 veces. // Paliza para matar a Houndoom, A bocajarro para matar a Meganium.",
+          "variant": []
+        },
+        {
+          "detail": "PULSO UMBRÍO O AVALANCHA → Scrafty +2, Puño Drenaje + A Bocajarro para eliminar a Mandibuzz",
+          "variant": []
+        },
+        {
+          "detail": "TRITURAR → Scrafty +3, Paliza para eliminar a Houndoom, A Bocajarro para eliminar a Meganium",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Contra Hydreigon → Poliwrath 6+2+2 (especial defensa). Si usan Puño Hielo para matar a Hydreigon, Lucario o Mismagius, y recibe un crítico psíquico, usa baya para curar y sigue presionando al equipo.",
+      "variant": []
+    },
+    {
+      "detail": "Contra Dusknoir → cambia a Metagross para poner Trampa Rocas, luego Scrafty+2",
+      "variant": []
+    }
+  ]
+}

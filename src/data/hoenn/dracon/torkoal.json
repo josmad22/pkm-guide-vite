@@ -1,0 +1,12 @@
+{
+  "id": "torkoal",
+  "name": "Torkoal",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Chandelure Especial X + Velocidad X. // Usa Lanzallamas para barrer al equipo.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "drapion",
+  "name": "Drapion",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TERREMOTO → Revisa su objeto:",
+      "variant": []
+    },
+    {
+      "detail": "Banda focus → Cloyster +6 (Todo muere con Carámbano). Si cambia a Ferrothorn, cambia de Chandelure y usa Truco para encerrar en Triturar, Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "Vidasfera → Excadrill pon Trampa Rocas +4+2",
+      "variant": []
+    },
+    {
+      "detail": "PAÑ. ELEGIDO → Cloyster +4 (Carámbano para matar a Kabutops Y Dustox)",
+      "variant": []
+    },
+    {
+      "detail": "TRITURAR → Revisa su objeto:",
+      "variant": []
+    },
+    {
+      "detail": "LODO NEGRO → Pon Trampa Rocas, Scrafty +2 (Si sale Steelix, usa a Bocajarro para matarlo). Si sale Vespiquen, ignora y boosteando",
+      "variant": []
+    },
+    {
+      "detail": "BAYA ZIUELA → pon Trampa Rocas, Scrafty +1. Si sale Yanmega, ignaro y barre directo",
+      "variant": []
+    },
+    {
+      "detail": "GASTRODON → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "STEELIX/GLISCOR/FLYGON → Cloyster +6 (Todo muere con Carámbano). Si Cloyster muere por Onda Ígnea, Chandelure usa Truco para intercambiar objeto, Excadrill pone Trampa Rocas +4+2",
+      "variant": []
+    }
+  ]
+}

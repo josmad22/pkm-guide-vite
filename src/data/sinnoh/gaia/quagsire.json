@@ -1,0 +1,24 @@
+{
+  "id": "quagsire",
+  "name": "Quagsire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco bloquea Terremoto, coloca Trampa Rocas, luego entra Cloyster +6 y usa Poder Oculto una vez para comprobar si logra el KO.",
+  "tricks": [
+    {
+      "detail": "No se logra el KO con Poder Oculto Usa un objeto de Defensa X antes de continuar",
+      "variant": []
+    },
+    {
+      "detail": "Si se logra el KO: → Continúa barriendo el equipo rival.",
+      "variant": []
+    },
+    {
+      "detail": "Si el rival cambia a Blastoise, entra Poliwrath 6+2 // Usa A Bocajarro para derrotar a Blastoise o a Pokémon de tipo Bicho/Acero.",
+      "variant": []
+    },
+    {
+      "detail": "Si el rival cambia a Tangrowth, cambia a Chandelure, Lanzallamas para eliminar, saldrá Quagsire y repite la estrategia.",
+      "variant": []
+    }
+  ]
+}

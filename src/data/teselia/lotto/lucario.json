@@ -1,0 +1,12 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Chandelure usa Lanzallamas para eliminar, observa la respuesta",
+  "tricks": [
+    {
+      "detail": "HAXORUS → Cambia a Cloyster, luego a Chandelure y usa Truco para bloquear Terremoto, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

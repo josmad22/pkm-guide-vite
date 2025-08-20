@@ -1,0 +1,16 @@
+{
+  "id": "vanilluxe",
+  "name": "Vanilluxe",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "Nidoqueen, luego entra Excadrill +6 Ataque / 0 Velocidad. // Usa Terremoto para derrotar a Walrein",
+      "variant": []
+    },
+    {
+      "detail": "Si Vanilluxe se queda y no cambia entra con chandelure y lanzallamas hasta que lo derrotes Luego cambia Excadrill Danza espada +6 +Velocidad X.",
+      "variant": []
+    }
+  ]
+}

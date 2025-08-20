@@ -1,0 +1,7 @@
+{
+  "id": "haxorus",
+  "name": "Haxorus",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco para bloquear Terremoto, luego Cloyster +4",
+  "tricks": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "charizard",
+  "name": "Charizard",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS, COMPROBAR SI LLAMARADA ACIERTA",
+  "tricks": [
+    {
+      "detail": "Si acierta y mata a Metagross:",
+      "variant": []
+    },
+    {
+      "detail": "Chandelure utilizar Truco para bloquear a Entei, luego cambiar a Excadrill 4+2",
+      "variant": []
+    },
+    {
+      "detail": "¿Charizard vendrá después? ¿Excadrill ya no tiene PP de Terremoto?",
+      "variant": []
+    },
+    {
+      "detail": "Si falla, cambiar a Chandelure y comprobar si se activa Absorbe Fuego",
+      "variant": []
+    },
+    {
+      "detail": "Si se activa, utilizar Ataque Especial X / Lanzallamas para matar a todo el equipo",
+      "variant": []
+    },
+    {
+      "detail": "No se activa, Truco para bloquear a Entei, luego cambiar a Excadrill 4+2",
+      "variant": []
+    }
+  ]
+}

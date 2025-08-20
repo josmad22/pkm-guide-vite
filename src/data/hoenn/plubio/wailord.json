@@ -1,0 +1,16 @@
+{
+  "id": "wailord",
+  "name": "Wailord",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Registeel, entra Excadrill +4+2.",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto, cambia a Chandelure para enfrentarlo, utiliza Truco para bloquearlo con Terremoto y luego entra Excadrill +4+2.",
+      "variant": []
+    }
+  ]
+}

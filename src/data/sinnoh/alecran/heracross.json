@@ -1,0 +1,12 @@
+{
+  "id": "heracross",
+  "name": "Heracross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "GLISCOR → Cloyster +6 (Mata todo con Carámbano)",
+      "variant": []
+    }
+  ]
+}

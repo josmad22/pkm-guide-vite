@@ -1,0 +1,16 @@
+{
+  "id": "huntail",
+  "name": "Huntail",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Contra Excadrill: usa Truco para bloquear Terremoto, luego Cloister 6+ // Mata todo con Carámbano",
+      "variant": []
+    },
+    {
+      "detail": "Contra Garchomp: usa Truco para bloquear Terremoto, luego Cloyster 6+. Mata a Basculin / Huntail con Carámbano",
+      "variant": []
+    }
+  ]
+}

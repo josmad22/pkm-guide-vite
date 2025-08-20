@@ -1,0 +1,12 @@
+{
+  "id": "crawdaunt",
+  "name": "Crawdaunt",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear a Excadrill, luego a Cloyster +4 / Carámbano para Scolipede",
+      "variant": []
+    }
+  ]
+}

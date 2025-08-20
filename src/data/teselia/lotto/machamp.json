@@ -1,0 +1,28 @@
+{
+  "id": "machamp",
+  "name": "Machamp",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE Y ANALIZA",
+  "tricks": [
+    {
+      "detail": "NO SE RETIRA → Usa Truco para bloquear Vendetta, Scrafty +5 o +3 con objeto de fuerza / Paliza contra Crawdaunt / Si chandelure muere, Scrafty debe revivirlo",
+      "variant": []
+    },
+    {
+      "detail": "METAGROSS → Usa Truco para bloquear Terremoto, luego Excadrill coloca Trampa Rocas 4+2",
+      "variant": []
+    },
+    {
+      "detail": "CONKELDURR → Usa Truco y ajusta según el ataque recibido",
+      "variant": []
+    },
+    {
+      "detail": "Puño Trueno → Excadrill +4+2, luego coloca Trampa Rocas",
+      "variant": []
+    },
+    {
+      "detail": "Vendetta → Scrafty +5 o +3 con objeto de fuerza / Encierro contra Crawdaunt",
+      "variant": []
+    }
+  ]
+}

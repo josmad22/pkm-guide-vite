@@ -1,0 +1,16 @@
+{
+  "id": "breloom",
+  "name": "Breloom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CHANDELURE USA LANZALLAMAS PARA ELIMINAR",
+  "tricks": [
+    {
+      "detail": "GYARADOS→ Cambia a Poliwrath, luego a Chandelure contra Dusknoir, luego a Metagross contra Tyranitar, usa Truco para bloquear Terremoto, Excadrill coloca Trampa Rocas +6+0",
+      "variant": []
+    },
+    {
+      "detail": "TYRANITAR → Metagross usa Truco para bloquear Terremoto, Excadrill coloca Trampa Rocas +6+0",
+      "variant": []
+    }
+  ]
+}

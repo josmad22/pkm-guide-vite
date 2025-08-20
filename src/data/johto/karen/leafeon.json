@@ -13,16 +13,17 @@
         },
         {
           "detail": "Si no se va → usa Lanzallamas para debilitar, mira quién entra abajo:",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Rhydon → cambia a Excadrill, luego Chandelure usa Truco para bloquear Terremoto, luego Cloyster +4.",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Houndoom → cambia a Poliwrath para revivir a Chandelure, usa Truco para bloquear Juego Sucio, luego Scrafty +3.",
-          "variant": []
-        }
+          "variant": [
+            {
+              "detail": "Si entra Rhydon → cambia a Excadrill, luego Chandelure usa Truco para bloquear Terremoto, luego Cloyster +4.",
+              "variant": []
+            },
+            {
+              "detail": "Si entra Houndoom → cambia a Poliwrath para revivir a Chandelure, usa Truco para bloquear Juego Sucio, luego Scrafty +3.",
+              "variant": []
+            }
+          ]
+        }        
       ]
     },
     {

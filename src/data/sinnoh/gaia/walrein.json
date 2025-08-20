@@ -1,0 +1,32 @@
+{
+  "id": "walrein",
+  "name": "Walrein",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si cambia a Rhyperior, revisar el objeto",
+      "variant": []
+    },
+    {
+      "detail": "Si tiene Banda Focus, cambiar a Cloyster +6 + Evs en Defensa",
+      "variant": []
+    },
+    {
+      "detail": "Si tiene Casco Dentado, cambiar a Excadrill 6+2",
+      "variant": []
+    },
+    {
+      "detail": "Otra versión: Cambiar a Excadrill y utilizar Trampa Rocas, luego Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "NIDOKING , cambiar a Cloyster +6 // Carámbano para matar a Rhyperior",
+      "variant": []
+    },
+    {
+      "detail": "SUPERDIENTE, cambiar a Chandelure y utilizar Truco para bloquear a Rhyperior, luego cambiar a Cloyster +6 // Carámbano para matar a Rhyperior",
+      "variant": []
+    }
+  ]
+}

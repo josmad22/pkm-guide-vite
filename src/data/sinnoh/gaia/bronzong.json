@@ -1,0 +1,24 @@
+{
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "RHYPERIOR CON VIDASFERA: entra Excadrill +6+0.",
+      "variant": []
+    },
+    {
+      "detail": "RHYPERIOR CON RESTOS: entra Excadrill +6+2. / Terremoto elimina a Donphan.",
+      "variant": []
+    },
+    {
+      "detail": "BAYA: entra Chandelure frente a Rhyperior, usa Truco para bloquear Terremoto, luego entra Excadrill con Restos +6+0.",
+      "variant": []
+    },
+    {
+      "detail": "REFLELUZ: entra Chandelure frente a Rhyperior, usa Truco para bloquear Terremoto, luego entra Excadrill +6+2.",
+      "variant": []
+    }
+  ]
+}

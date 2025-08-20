@@ -1,0 +1,29 @@
+{
+  "id": "beautifly",
+  "name": "Beautifly",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE USA LANZALLAMAS PARA DEBILITAR, MIRA QUIEN ENTRA",
+  "tricks": [
+    {
+      "detail": "KINGLER → cambia a Poliwrath y luego a Chandelure para usar Truco",
+      "variant": [
+        {
+          "detail": "MARTILLAZO → poliwrath +6+2",
+          "variant": []
+        },
+        {
+          "detail": "GOLPE BAJO O ENTRA TYRANITAR → Scrafty +2 (A Bocajarro para matar a Scyther y Kingler )",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "FLYGON → Excadrill y luego cambia a Chandelure para usar Truco, encierra en Terremoto, Cloyster +4 (Carámbano para matar a Tyranitar)",
+      "variant": []
+    },
+    {
+      "detail": "TYRANITAR → Scrafty +2 (A Bocajarro para matar a Scyther y Kingler) / Si te saca crítico cura con raiz energia",
+      "variant": []
+    }
+  ]
+}

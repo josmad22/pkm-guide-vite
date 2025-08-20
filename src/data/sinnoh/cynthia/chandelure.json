@@ -1,0 +1,17 @@
+{
+  "id": "chandelure",
+  "name": "Chandelure",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza LLAMARADA, cambia a Chandelure y usa Bola Sombra para matar, entra Garchomp, luego Cloyster +6",
+      "variant": [
+        {
+          "detail": "Si cambia a Garchomp o Gastrodon, cambia a Cloyster +6 / Carámbano para matar a Chandelure",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

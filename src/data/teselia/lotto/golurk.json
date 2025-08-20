@@ -1,0 +1,16 @@
+{
+  "id": "golurk",
+  "name": "Golurk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "CINTA XPERTO → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "RESTOS → Cloyster +4 + Defensa X",
+      "variant": []
+    }
+  ]
+}

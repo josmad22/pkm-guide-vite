@@ -1,0 +1,37 @@
+{
+  "id": "ludicolo",
+  "name": "Ludicolo",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza DRENADORAS , cambiar a Chandelure",
+      "variant": []
+    },
+    {
+      "detail": "BRONZONG, utilizar Truco para bloquear en Poder Oculto / Psicocarga, luego Scrafty +2 / Paliza para matar a todo el equipo",
+      "variant": []
+    },
+    {
+      "detail": "STEELIX, utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster 4 / Carámbano para matar a Magmar",
+      "variant": []
+    },
+    {
+      "detail": "MEDICHAM, cambiar a Scrafty 4 o 2 + Ataque X / Paliza para matar a todo el equipo",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza Escaldar, cambiar a Poliwrath 6+2",
+      "variant": [
+        {
+          "detail": "Si cambia a Bronzong, cambiar a Chandelure para enfrentar a Medicham, luego cambiar a Scrafty +4 o también +2 + Ataque X / Paliza para matar a todo el equipo",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Steelix, cambiar a Cloyster +4 / Carámbano para matar a Magmar",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

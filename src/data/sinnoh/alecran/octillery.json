@@ -1,0 +1,16 @@
+{
+  "id": "octillery",
+  "name": "Octillery",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Flygon → Excadrill pone Trampa Rocas (4+2). Si Excadrill cae inesperadamente por un Lanzallamas, Chandelure usa Truco para intercambiar objeto, Cloyster +6. / Se puede eliminar a todo con Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "Lanzallamas → Intenta poner Trampa Rocas, Chandelure entra 4+0. / Usa Lanzallamas para barrer el equipo. // Si no se pueden colocar las trampas, que las ponga Excadrill.",
+      "variant": []
+    }
+  ]
+}

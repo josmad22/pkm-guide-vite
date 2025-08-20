@@ -1,0 +1,32 @@
+{
+  "id": "aggron",
+  "name": "Aggron",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Chandelure usa Lanzallamas y observa la respuesta. (Si Aggron no se retira sigue atacando)",
+  "tricks": [
+    {
+      "detail": "SEISMITOAD → Verifica si está quemado",
+      "variant": []
+    },
+    {
+      "detail": "Si no está quemado o tiene HP completo → Cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Cloyster +4 + Medicina de Crítico (Directo)",
+      "variant": []
+    },
+    {
+      "detail": "Si está quemado → Cambia a Metagross y coloca Trampa Rocas, luego Poliwrath +6 con Raíz Energía para limpiar el equipo (sin usar objeto de velocidad, pendiente de pruebas)",
+      "variant": []
+    },
+    {
+      "detail": "CONKELDURR → Cambia a Metagross",
+      "variant": []
+    },
+    {
+      "detail": "NO SE RETIRA→ Usa Truco para bloquear Puño Drenaje, luego cambia a Chandelure y vuelve a usar Truco para bloquear a Seismitoad, Cloyster +6 con Medicina Defensa X",
+      "variant": []
+    },
+    {
+      "detail": "SEISMITOAD → Usa Truco para bloquear Terremoto, Cloyster +4 con Medicina Poder",
+      "variant": []
+    }
+  ]
+}

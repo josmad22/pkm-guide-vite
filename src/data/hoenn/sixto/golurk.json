@@ -1,0 +1,12 @@
+{
+  "id": "golurk",
+  "name": "Golurk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear Puño Sombra, Scrafty 3. Usa Paliza para matar a Hydreigon.",
+      "variant": []
+    }
+  ]
+}

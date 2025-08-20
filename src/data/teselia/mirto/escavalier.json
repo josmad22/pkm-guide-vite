@@ -1,0 +1,29 @@
+{
+  "id": "escavalier",
+  "name": "Escavalier",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Chandelure y usa Lanzallamas para eliminar, luego:",
+  "tricks": [
+    {
+      "detail": "FERALIGATR O FLOATZEL cambia a Metagross y usa Truco:",
+      "variant": [
+        {
+          "detail": "CONTRA TIPO AGUA, Poliwrath +6+2+6 / Excadrill tiene banda focus, no es peligroso",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "EXCADRILL, Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Si Feraligatr se retira, cambia a Poliwrath contra Excadrill, luego:",
+      "variant": []
+    },
+    {
+      "detail": "Sacrifica Metagross, entra Chandelure y usa Truco para bloquear Terremoto, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

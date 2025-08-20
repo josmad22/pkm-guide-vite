@@ -1,0 +1,16 @@
+{
+  "id": "magnezone",
+  "name": "Magnezone",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "FIJATE SI TIENE GLOBO HELIO",
+  "tricks": [
+    {
+      "detail": "Si tiene Globo Helio → usa Truco para bloquearlo en Rayo, luego lanza Trampa Rocas y deja que muera (no puede escapar por Imán). Luego entra Excadrill 4+2. / Si es Golurk con Casco Dentado y no hay Trampa Rocas, que Excadrill las ponga.",
+      "variant": []
+    },
+    {
+      "detail": "Si no tiene Globo → Excadrill lo mata directo. Si sale Gyarados, entra Cloyster 2. / Todo con Carámbano. Si hay riesgo de retroceso, toma una Velocidad X antes de usar Rompecoraza.",
+      "variant": []
+    }
+  ]
+}

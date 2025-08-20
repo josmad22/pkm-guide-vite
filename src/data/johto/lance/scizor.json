@@ -6,48 +6,51 @@
   "tricks": [
     {
       "detail": "SI NO SE RETIRA → Usar Lanzallamas para matar.",
-      "variant": []
-    },
-    {
-      "detail": "Feraligatr → Seguir usando Lanzallamas y observar el resultado:",
-      "variant": []
-    },
-    {
-      "detail": "Feraligatr ataca primero y deja a Chandelure con poca vida → Cambiar a Metagross para colocar Trampa Rocas, luego entrar con Poliwrath +6 ataque y +2 velocidad.",
-      "variant": []
-    },
-    {
-      "detail": "Feraligatr ataca primero y debilita completamente a Chandelure → Sacar a Metagross y usar Truco:",
       "variant": [
         {
-          "detail": "Si entra Steelix o Metagross, luego Cloyster +4.",
+          "detail": "Feraligatr → Seguir usando Lanzallamas y observar el resultado:",
+          "variant": [
+            {
+              "detail": "Feraligatr ataca primero y deja a Chandelure con poca vida → Cambiar a Metagross para colocar Trampa Rocas, luego entrar con Poliwrath +6 ataque y +2 velocidad.",
+              "variant": []
+            },
+            {
+              "detail": "Feraligatr ataca primero y debilita completamente a Chandelure → Sacar a Metagross y usar Truco:",
+              "variant": [
+                {
+                  "detail": "Si entra Steelix o Metagross, luego Cloyster +4.",
+                  "variant": []
+                },
+                {
+                  "detail": "Si el rival no se cambia, Excadrill +4 ataque y +2 velocidad.",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "Si Feraligatr ataca después y debilita o daña a Chandelure → Cambiar a Metagross y usar Truco:",
+              "variant": [
+                {
+                  "detail": "Si entra Steelix, poner Trampa Rocas y luego Excadrill +2 ataque y sin boost de velocidad.",
+                  "variant": []
+                },
+                {
+                  "detail": "Cascada, poner Trampa Rocas y luego Poliwrath +6 ataque y +2 velocidad. // (Si entra Lapras después, no importa: ya estás completamente potenciado).",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "Haxorus → Cambiar a Cloyster, luego a Chandelure, usar Truco para bloquear con Terremoto, luego Cloyster +4.",
           "variant": []
         },
         {
-          "detail": "Si el rival no se cambia, Excadrill +4 ataque y +2 velocidad.",
-          "variant": []
-        },
-        {
-          "detail": "Si Feraligatr ataca después y debilita o daña a Chandelure → Cambiar a Metagross y usar Truco:",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Steelix, poner Trampa Rocas y luego Excadrill +2 ataque y sin boost de velocidad.",
+          "detail": "Lapras → Cambiar a Metagross para colocar Trampa Rocas, luego Poliwrath +6 ataque y +2 velocidad.",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "Cascada, poner Trampa Rocas y luego Poliwrath +6 ataque y +2 velocidad. // (Si entra Lapras después, no importa: ya estás completamente potenciado).",
-      "variant": []
-    },
-    {
-      "detail": "Haxorus → Cambiar a Cloyster, luego a Chandelure, usar Truco para bloquear con Terremoto, luego Cloyster +4.",
-      "variant": []
-    },
-    {
-      "detail": "Lapras → Cambiar a Metagross para colocar Trampa Rocas, luego Poliwrath +6 ataque y +2 velocidad.",
-      "variant": []
     },
     {
       "detail": "ENTRA FERALIGATR DESPUES DE IDA Y VUELTA → Cambiar a Metagross para colocar Trampa Rocas, luego Poliwrath +6 ataque y +2 velocidad.",
@@ -59,16 +62,17 @@
     },
     {
       "detail": "METAGROSS → Usar Truco y observar el objeto:",
-      "variant": []
-    },
-    {
-      "detail": "Gema Acero → luego Cloyster +4.",
-      "variant": []
-    },
-    {
-      "detail": "Casco Dentado → luego Excadrill +4 ataque sin velocidad.",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "Gema Acero → luego Cloyster +4.",
+          "variant": []
+        },
+        {
+          "detail": "Casco Dentado → luego Excadrill +4 ataque sin velocidad.",
+          "variant": []
+        }
+      ]
+    },   
     {
       "detail": "Kangaskhan → Cloyster +4.",
       "variant": []

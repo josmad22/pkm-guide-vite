@@ -6,39 +6,42 @@
   "tricks": [
     {
       "detail": "Rayo → Observa si el rival tiene Vidasfera:",
-      "variant": []
-    },
-    {
-      "detail": "Con Vidasfera → Usa Truco para encerrarlo en Rayo, luego Excadrill +4+2 + Trampa Rocas // Si Truco falla, Metagross usa Cura Total, Luego vuelve a usar Truco, entra Excadrill 4+2+Trampa Rocas. // Terremoto para Arcanine",
-      "variant": []
-    },
-    {
-      "detail": "Sin Vidasfera → Excadrill entra con +6+2",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "Con Vidasfera → Usa Truco para encerrarlo en Rayo, luego Excadrill +4+2 + Trampa Rocas // Si Truco falla, Metagross usa Cura Total, Luego vuelve a usar Truco, entra Excadrill 4+2+Trampa Rocas. // Terremoto para Arcanine",
+          "variant": []
+        },
+        {
+          "detail": "Sin Vidasfera → Excadrill entra con +6+2",
+          "variant": []
+        }
+      ]
+    },    
     {
       "detail": "Frente a Tyranitar → Cambia a Scrafty y observa el movimiento:",
-      "variant": []
-    },
-    {
-      "detail": "Triturar → Scrafty +3",
-      "variant": []
-    },
-    {
-      "detail": "Terremoto → Excadrill +6+2",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "Triturar → Scrafty +3",
+          "variant": []
+        },
+        {
+          "detail": "Terremoto → Excadrill +6+2",
+          "variant": []
+        }
+      ]
+    },    
     {
       "detail": "Frente a Metagross → Usa Lanzallamas para debilitarlo, Entra Tyranitar, Cambia a Scrafty y observa el movimiento:",
-      "variant": []
-    },
-    {
-      "detail": "Triturar → Scrafty +3",
-      "variant": []
-    },
-    {
-      "detail": "Terremoto → Excadrill +6+2",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Triturar → Scrafty +3",
+          "variant": []
+        },
+        {
+          "detail": "Terremoto → Excadrill +6+2",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

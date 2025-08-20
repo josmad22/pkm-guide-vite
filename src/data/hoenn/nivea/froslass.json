@@ -1,0 +1,25 @@
+{
+  "id": "froslass",
+  "name": "Froslass",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "COLOCA TRAMPA ROCA",
+  "tricks": [
+    {
+      "detail": "Hariyama → Cambia a Chandelure y utiliza Truco para bloquear Avalancha, luego Scrafty con +3. Si se queda, usar A Bocajarro para eliminar a Skarmory. Si entra Electivire, cambiar a Metagross y usar Truco:",
+      "variant": [
+        {
+          "detail": "Si usa Surf, entrar con Poliwrath +6 y +2.",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Rayo, Excadrill +6 y +2.",
+          "variant": []
+        }       
+      ]
+    },
+    {
+      "detail": "Si no se va → Cambiar a Scrafty, luego cambiar a Chandelure y usar Truco para bloquear Bola Sombra, luego Scrafty +3. Si es necesario, usar a Bocajarro para matar a Skarmory. // Si accidentalmente se bloquea Rayo, Excadrill +6 y sin boosts. // Si Gengar bloquea con Cabeza Hierro y entra Skarmory, esperar a que desaparezca Maldición",
+      "variant": []
+    }
+  ]
+}

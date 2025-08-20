@@ -1,0 +1,24 @@
+{
+  "id": "tyranitar",
+  "name": "Tyranitar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TERREMOTO → Excadrill entra y pone Trampa Rocas +6+2",
+      "variant": []
+    },
+    {
+      "detail": "FLYGON → Cambia a Cloyster para ver qué movimiento usa",
+      "variant": []
+    },
+    {
+      "detail": "TERREMOTO → cloyster +4 (Carámbano Para matar a Tyranitar)",
+      "variant": []
+    },
+    {
+      "detail": "LLAMARADA → Chandelure usa Truco para cambiar de objeto, Excadrill +2+2 (Terremoto mata a Drapion)",
+      "variant": []
+    }
+  ]
+}

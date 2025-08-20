@@ -1,0 +1,46 @@
+{
+  "id": "togekiss",
+  "name": "Togekiss",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Restos y Lanzallamas: Puño Trueno, luego entra Chandelure y usa Truco.",
+      "variant": [
+        {
+          "detail": "Milotic, entra Poliwrath +6+2 // Usa A Bocajarro para eliminar a Milotic.",
+          "variant": []
+        },
+        {
+          "detail": "Empoleon o Lanturn, entra Excadrill +4+2. Si Excadrill cae por Escaldar inesperado, entra Poliwrath +6+2 // Usa A Bocajarro para eliminar a Milotic.",
+          "variant": []
+        },
+        {
+          "detail": "Togekiss no se retira, entra Scrafty y usa medicina para aumentar Defensa Especial +3 // Usa A Bocajarro para eliminar a Milotic",
+          "variant": []
+        }
+      ]
+    },   
+    {
+      "detail": "GAFAS ELEGIDAS + LANZALLAMAS: Cambia a Chandelure y usa Truco para bloquear a Milotic, luego entra Poliwrath +6+2. // Togekiss no se retira, cambia a Metagross para sacrificarlo, luego vuelve a sacar a Chandelure y repite Truco.",
+      "variant": []
+    },
+    {
+      "detail": "ESFERA AURAL, cambia a Chandelure y usa Truco:",
+      "variant": [
+        {
+          "detail": "Empoleon con Vidasfera, sigue con Excadrill +4+2",
+          "variant": []
+        },
+        {
+          "detail": "Empoleon con Restos, entra Poliwrath +6+2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "LANTURN O WHISCASH, entra Excadrill +4+2. Si cae por Escaldar inesperado, entra Poliwrath +6+2 // Usa A Bocajarro para eliminar a Milotic.",
+      "variant": []
+    }
+  ]
+}

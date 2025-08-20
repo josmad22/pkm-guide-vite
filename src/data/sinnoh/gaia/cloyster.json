@@ -1,0 +1,24 @@
+{
+  "id": "cloyster",
+  "name": "Cloyster",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "GOLEM → Excadrill coloca Trampa Rocas, Cloyster +4.",
+      "variant": []
+    },
+    {
+      "detail": "RHYPERIOR → depende del objeto:",
+      "variant": []
+    },
+    {
+      "detail": "Restos → Excadrill coloca Trampa Rocas, Cloyster +2. / Surf derrota a Rhyperior.",
+      "variant": []
+    },
+    {
+      "detail": "Baya Pasio → Excadrill coloca Trampa Rocas, Cloyster +4 / Surf derrota a Rhyperior.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "maractus",
+  "name": "Maractus",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO, NO CONFUNDIR CON CACTURNE",
+  "tricks": [
+    {
+      "detail": "Si cambia a Blaziken, cambiar a Chandelure 4 + 0 + curar vida completa / Bola Sombra para matar a todo el equipo",
+      "variant": [
+        {
+          "detail": "Si cambia a STEELIX / BRONZONG, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Bouffalant, cambiar a Cloyster 2 + Velocidad X",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Huir de Steelix (Si cambia a Steelix?), cambiar a Chandelure y utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster 4",
+      "variant": []
+    }
+  ]
+}

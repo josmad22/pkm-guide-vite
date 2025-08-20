@@ -1,0 +1,12 @@
+{
+  "id": "cacturne",
+  "name": "Cacturne",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "contra Magnezone, usa Truco para bloquear Rayo, luego Excadrill pone Trampa Rocas 4+2. Usa Terremoto para matar a Golurk.",
+      "variant": []
+    }
+  ]
+}

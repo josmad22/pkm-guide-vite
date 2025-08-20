@@ -1,0 +1,16 @@
+{
+  "id": "absol",
+  "name": "Absol",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "A BOCAJARRO→ Truco bloquea Rocafilada, Scrafty +2 → Paliza para eliminar Samurott",
+      "variant": []
+    },
+    {
+      "detail": "BISHARP → Truco bloquea Tajo umbrío, Scrafty +3 → Paliza para eliminar Absol → Si Chandelure cae, usar una Danza Dragón extra",
+      "variant": []
+    }
+  ]
+}

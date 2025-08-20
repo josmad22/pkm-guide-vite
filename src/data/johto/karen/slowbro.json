@@ -18,15 +18,16 @@
     },
     {
       "detail": "LANZALLAMAS → Revisa si Metagross se quema o no.",
-      "variant": []
-    },
-    {
-      "detail": "No se quemó → Scrafty +2 + Raíz Energía +1. Usa Paliza para matar a Houndoom.",
-      "variant": []
-    },
-    {
-      "detail": "Se quemó → Cambia a Chandelure y usa Truco para bloquear a Tyranitar. Excadrill entra y pone Trampa Rocas con 4+2.",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "No se quemó → Scrafty +2 + Raíz Energía +1. Usa Paliza para matar a Houndoom.",
+          "variant": []
+        },
+        {
+          "detail": "Se quemó → Cambia a Chandelure y usa Truco para bloquear a Tyranitar. Excadrill entra y pone Trampa Rocas con 4+2.",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

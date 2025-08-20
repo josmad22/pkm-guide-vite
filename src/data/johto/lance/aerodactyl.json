@@ -10,11 +10,12 @@
     },
     {
       "detail": "Terremoto → Excadrill +4+2 // Si ocurre una situación inesperada, ver más abajo:",
-      "variant": []
-    },
-    {
-      "detail": "Excadrill frente a Steelix → Cambia a Chandelure y usa Truco para encerrarlo en Terremoto, luego Cloyster +4.",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Excadrill frente a Steelix → Cambia a Chandelure y usa Truco para encerrarlo en Terremoto, luego Cloyster +4.",
+          "variant": []
+        }
+      ]
     }
   ]
 }

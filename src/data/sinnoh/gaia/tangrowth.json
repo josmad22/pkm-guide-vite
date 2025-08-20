@@ -1,0 +1,12 @@
+{
+  "id": "tangrowth",
+  "name": "Tangrowth",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquea Rhyperior / Drenadoras, Excadrill Trampa Rocas 6+0",
+      "variant": []
+    }
+  ]
+}

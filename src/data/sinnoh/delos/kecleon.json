@@ -1,0 +1,12 @@
+{
+  "id": "kecleon",
+  "name": "Kecleon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A SCRAFTY",
+  "tricks": [
+    {
+      "detail": "Scrafty +2",
+      "variant": []
+    }
+  ]
+}

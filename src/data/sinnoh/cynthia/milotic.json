@@ -1,0 +1,12 @@
+{
+  "id": "milotic",
+  "name": "Milotic",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquea en Terremoto a Garchomp, luego cambiar a Excadrill 4+2 / Terremoto mata a Clefable",
+      "variant": []
+    }
+  ]
+}

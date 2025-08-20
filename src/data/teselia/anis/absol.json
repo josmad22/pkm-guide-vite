@@ -1,0 +1,20 @@
+{
+  "id": "absol",
+  "name": "Absol",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "HYDREIGON: Scrafty +4.",
+      "variant": []
+    },
+    {
+      "detail": "BRONZONG: Con Chandelure usa Lanzallamas hasta debilitarlo, luego si Cambia Hydreigon Cambia a Scrafty +1 // Cura de ser necesario.",
+      "variant": []
+    },
+    {
+      "detail": "ABSOL NO CAMBIA, usa Truco con Chandelure para encerrarlo en Cabezazo Zen, luego entra Scrafty Danza Dragón +4.",
+      "variant": []
+    }
+  ]
+}

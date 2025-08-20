@@ -1,0 +1,7 @@
+{
+  "id": "slowking",
+  "name": "Slowking",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco bloquea Nidoking → Excadrill coloca Trampa Rocas, Cloyster +6.",
+  "tricks": []
+}

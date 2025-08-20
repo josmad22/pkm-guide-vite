@@ -1,0 +1,29 @@
+{
+  "id": "heracross",
+  "name": "Heracross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si tiene Vidasfera y utiliza A Bocajarro, cambiar a Chandelure y utilizar Truco para cambiar de ítem, cambiar a Excadrill 4+2",
+      "variant": [
+        {
+          "detail": "Si tiene Vidasfera y utiliza Terremoto, cambiar a Excadrill 4+2",
+          "variant": []
+        },
+        {
+          "detail": "Si tiene PAÑUELO ELEGIDO, cambiar a Chandelure para ver el mov.",
+          "variant": []
+        },
+        {
+          "detail": "Si utiliza Terremoto, cambiar a Excadrill 4+2 / Terremoto para matar a Clefable",
+          "variant": []
+        },
+        {
+          "detail": "Si utiliza A BOCAJARRO, utilizar Truco para cambiar de ítem, luego cambiar a Excadrill 4+2 / Terremoto para matar a Clefable",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

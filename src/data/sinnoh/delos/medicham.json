@@ -1,0 +1,12 @@
+{
+  "id": "medicham",
+  "name": "Medicham",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Utilizar Truco, cambiar a Scrafty +4 o + 2 + Ataque X",
+      "variant": []
+    }
+  ]
+}

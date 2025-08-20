@@ -1,0 +1,46 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE (EXCADRILL DEBE TENER LA VIDA COMPLETA)",
+  "tricks": [
+    {
+      "detail": "Si utiliza PUÑO FUEGO, usa Truco para bloquear en Puño Trueno, Excadrill 6+2",
+      "variant": [
+        {
+          "detail": "Si utiliza LANZALLAMAS, usa Píldora Protec. Esp, espera a que use Voltiocambio y ver que entra",
+          "variant": []
+        },
+        {
+          "detail": "Si entra HERACROSS, cambia a Excadrill 4+2 / Terremoto mata a Clefable.",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Milotic, cambia a Poliwrath 6+2 / A Bocajarro mata a Milotic y Clefable",
+          "variant": []
+        },
+        {
+          "detail": "Si entra GARCHOMP, utiliza Truco para bloquear en Terremoto, cambia a Excadrill 4+2 / Terremoto mata a Clefable",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "GARCHOMP, utiliza Truco para bloquear en Terremoto, cambia a Excadrill 6+2. Si el rival cambia , seguir así:",
+      "variant": [
+        {
+          "detail": "Si cambia a Togekiss, cambiar a Metagross para poner Trampas Rocas, cuando entre Garchomp, cambia a Cloyster 6",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a LAPRAS, cambiar a Poliwrath 6+4, primero usar Velocidad X",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Milotic, cambiar a Poliwrath 6+2 / A Bocajarro para matar a Garchomp y Clefable",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

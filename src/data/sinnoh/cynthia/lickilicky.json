@@ -1,0 +1,12 @@
+{
+  "id": "lickilicky",
+  "name": "Lickilicky",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "PUÑO TRUENO",
+  "tricks": [
+    {
+      "detail": "Si cambia a Garchomp, cambiar a Cloyster 6 para aguantar / Carámbano para matar a Chandelure",
+      "variant": []
+    }
+  ]
+}

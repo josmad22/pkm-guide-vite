@@ -1,0 +1,46 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "NO SE RETIRA → usar Poder Oculto para derrotarlo y observar qué entra después:",
+      "variant": [
+        {
+          "detail": "ABSOL→ entra Scrafty con +3. / Usar a Bocajarro para derrotar a Scizor y Luxray.",
+          "variant": []
+        },
+        {
+          "detail": "TENTACRUEL→ Poliwrath +6 +2. / Usar A Bocajarro para eliminar a Scrafty y Scizor. Primero usar medicina de Velocidad.",
+          "variant": []
+        },
+        {
+          "detail": "SCRAFTY→ cambiar a tu propio Scrafty, luego a Chandelure y usar Truco, bloqueando en Triturar, luego entra Scrafty +3. / Usar A Bocajarro para eliminar a Scizor y Luxray.",
+          "variant": []
+        }
+      ]
+    },   
+    {
+      "detail": "AGGRON → Excadrill usa Terremoto para derrotarlo, y observa qué entra después:",
+      "variant": [
+        {
+          "detail": "Salamence → Chandelure usa Poder Oculto para vencerlo, luego entra Absol, y Scrafty +2. / Usar A Bocajarro para derrotar a Conkeldurr, y luego Puño Drenaje + Paliza para vencer a Shiftry.",
+          "variant": []
+        },
+        {
+          "detail": "ABSOL → Chandelure usa Truco para intercambiar objeto, luego Scrafty +2. / A Bocajarro para derrotar a Conkeldurr, Puño Drenaje + Paliza para vencer a Shiftry.",
+          "variant": []
+        }
+      ]
+    },   
+    {
+      "detail": "HARIYAMA → usar Truco para bloquearlo en Vendetta, luego entra Scrafty +2. / Usar Puño Drenaje + Paliza para vencer a Shiftry.",
+      "variant": []
+    },
+    {
+      "detail": "LUXRAY → entra Excadrill +6 +2",
+      "variant": []
+    }
+  ]
+}

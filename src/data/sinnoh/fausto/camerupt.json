@@ -1,0 +1,12 @@
+{
+  "id": "camerupt",
+  "name": "Camerupt",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Utilizar Truco para bloquear en Terremoto, luego cambiar a Excadrill 4+2",
+      "variant": []
+    }
+  ]
+}

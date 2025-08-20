@@ -1,0 +1,16 @@
+{
+  "id": "sudowoodo",
+  "name": "Sudowoodo",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Rhyperior --> Cloyster +6 / Carámbano para Steelix",
+      "variant": []
+    },
+    {
+      "detail": "Puño Fuego --> Scrafty +2 / 2 Puño Drenaje para Steelix",
+      "variant": []
+    }
+  ]
+}

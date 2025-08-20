@@ -1,0 +1,36 @@
+{
+  "id": "durant",
+  "name": "Durant",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Tijera X / Fuerza Bruta → Lanzallamas para debilitar y observar la respuesta del rival 👇🏻",
+      "variant": []
+    },
+    {
+      "detail": "Rhydon → Cambiar a Excadrill, luego a Metagross para usar Truco y revisar el objeto. // Si Excadrill recibe inesperadamente Roca Afilada, colocar Trampa Rocas y sacrificarlo, luego entrar con Metagross para usar Truco.",
+      "variant": []
+    },
+    {
+      "detail": "Restos o Baya Ziuela → Excadrill coloca Trampa Rocas, Cloyster +4. / Surf derrota a Rhydon.",
+      "variant": []
+    },
+    {
+      "detail": "Casco Dentado → Excadrill +6+2. Alternativa económica: Excadrill con Trampa Rocas, Cloyster +6.",
+      "variant": []
+    },
+    {
+      "detail": "Golem → Cambiar a Cloyster, luego a Metagross para usar Truco, bloquear Terremoto, luego Excadrill con Trama Rocas y Cloyster +2.",
+      "variant": []
+    },
+    {
+      "detail": "Colmillo Rayo → Excadrill +4+2 coloca Trampa Rocas. / Terremoto derrota a Gengar.",
+      "variant": []
+    },
+    {
+      "detail": "Rhydon o Golem → Usar Truco para bloquear Terremoto, luego Excadrill, Trampa Rocas y Cloyster +4.",
+      "variant": []
+    }
+  ]
+}

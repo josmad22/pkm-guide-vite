@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "Chandelure +4 Atq. Especial , Usa Lanzallamas para limpiar equipo.",
-      "variant": [
-        {
-          "detail": "Si cambia a Seismitoad → Truco para bloquear Terremoto, luego Cloister 4.",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Si cambia a Seismitoad → Truco para bloquear Terremoto, luego Cloister 4.",
+      "variant": []
     }
   ]
 }

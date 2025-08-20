@@ -1,0 +1,29 @@
+{
+  "id": "lopunny",
+  "name": "Lopunny",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si cambia a Steelix, cambiar a Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza Patada Salto Alta / Puño Trueno, cambiar a Chandelure",
+      "variant": [
+        {
+          "detail": "Si cambia a Steelix, utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster 4",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si utiliza Patada Salto Alta, utilizar Truco, luego cambiar a Excadrill con Focus Sash (?) 4+2",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza Puño Trueno, cambiar a Excadrill con Trampa Rocas 4+2",
+      "variant": []
+    }
+  ]
+}

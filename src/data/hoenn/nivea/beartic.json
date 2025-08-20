@@ -1,0 +1,12 @@
+{
+  "id": "beartic",
+  "name": "Beartic",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquea a Nidoking, entra Cloyster con +6. // Walrein no puede debilitar a Cloyster",
+      "variant": []
+    }
+  ]
+}

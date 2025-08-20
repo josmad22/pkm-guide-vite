@@ -1,0 +1,12 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Scrafty +2.Si sacan a Jellicent para acorralar, usa baya para aguantar efectos de status y ganar tiempo.",
+      "variant": []
+    }
+  ]
+}

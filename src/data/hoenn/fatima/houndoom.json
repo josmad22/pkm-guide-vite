@@ -1,0 +1,16 @@
+{
+  "id": "houndoom",
+  "name": "Houndoom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE Y TRUCO",
+  "tricks": [
+    {
+      "detail": "Si tiene Vidasfera → cambia a Metagross para poner Trampa Rocas, luego Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "Si tiene Cinta Elegida → Scrafty +3 Si usa A bocajarro, mata a Tangrowth.",
+      "variant": []
+    }
+  ]
+}

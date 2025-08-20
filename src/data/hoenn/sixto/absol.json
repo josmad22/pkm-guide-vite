@@ -1,0 +1,88 @@
+{
+  "id": "absol",
+  "name": "Absol",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Abocajarro (Testear): usa Truco y revisa objetos.",
+      "variant": [
+        {
+          "detail": "Vidasfera: Scrafty 5 o 3+ con Ataque X. Usa Paliza para matar a Toxicroak.",
+          "variant": []
+        },
+        {
+          "detail": "Pañuelo Elegida: Scrafty 4 o 2+ con Ataque X. Usa Paliza para matar a Houndoom, A Bocajarro para matar a Scizor.q",
+          "variant": []
+        }
+      ]
+    },   
+    {
+      "detail": "Golpe Bajo: Scrafty 4 o 2+ con Ataque X. Usa Paliza para matar a Houndoom, A Bocajarro para matar a Scizor. Si Chandelure muere, usa una Danza Dragón más.",
+      "variant": []
+    },
+    {
+      "detail": "Lanzallamas: usa Truco para bloquear Cabezazo Zen, luego Scrafty 3+. Usa Puño Drenaje para robar vida a Hydreigon, y el resto ataca con Paliza.",
+      "variant": []
+    },
+    {
+      "detail": "Si entra Luxray, mete a Excadrill 6+2.",
+      "variant": []
+    },
+    {
+      "detail": "Si entra Cradily, cambia a Scrafty +2 y evalúa la situación.",
+      "variant": [
+        {
+          "detail": "Si Cradily no cambia: Scrafty +2 y (defensa especial). Usa Paliza para matar a Toxicroak.",
+          "variant": []
+        },
+        {
+          "detail": "Si sale Toxicroak, cambia a Chandelure, usa Truco para bloquear Puño Hielo, luego Cloister 4+.",
+          "variant": []
+        }
+      ]
+    },   
+    {
+      "detail": "Contra Garchomp: usa Truco para bloquear Terremoto, Cloyster +6. mata todo con Carámbano menos a Metagross con el usa Surf",
+      "variant": []
+    },
+    {
+      "detail": "Contra Magnezone: usa Truco para bloquear Voltio, luego Excadrill pone Trampa Rocas 4+2. Terremoto para matar a Golem.",
+      "variant": []
+    },
+    {
+      "detail": "Contra Excadrill: usa Truco y revisa el objeto.",
+      "variant": [
+        {
+          "detail": "Si lleva Globo, Cloister 6+. Mata todo con Carámbano.",
+          "variant": []
+        },
+        {
+          "detail": "Si lleva Cinta Elegida o banda focus, Cloister 4+.",
+          "variant": []
+        }
+      ]
+    },    
+    {
+      "detail": "Contra Hariyama: usa Truco para bloquear Contraataque, Scrafty +2. Houndoom matalo con Paliza",
+      "variant": []
+    },
+    {
+      "detail": "Contra Bastiodon: Excadrill usa Terremoto para matar rápido. Fíjate quién sale después.",
+      "variant": [
+        {
+          "detail": "Si sale Hydreigon: Chandelure usa Truco para cambiar objeto, luego Scrafty 2. Usa A Bocajarro para matar a Conkeldurr. Houndoom necesita Paliza.",
+          "variant": []
+        },
+        {
+          "detail": "Si sale Salamence: Chandelure usa Truco para despertar y matar rápido, luego Hydreigon, Scrafty 2. Usa A Bocajarro para matar a Conkeldurr. Houndoom necesita Paliza.",
+          "variant": []
+        }
+      ]
+    },    
+    {
+      "detail": "Contra Sableye: cambia a Scrafty o Chandelure. Si es Salamence, usa Truco para despertar y matar rápido (Hydreigon sale), luego Scrafty 4 o 2+ Ataque X. Usa Paliza para matar a Houndoom.",
+      "variant": []
+    }
+  ]
+} 

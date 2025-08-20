@@ -1,0 +1,16 @@
+{
+  "id": "ninetales",
+  "name": "Ninetales",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE Y UTILIZAR TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza RAYO SOLAR, cambiar a Scrafty 1+ Raíz Grande para curarse y luego +1 / Noctowl con Casco Dentado, Ninetales es más rápido que Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza PODER OCULTO, cambiar a Excadrill 4+0",
+      "variant": []
+    }
+  ]
+}

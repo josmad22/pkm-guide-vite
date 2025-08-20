@@ -1,0 +1,7 @@
+{
+  "id": "gliscor",
+  "name": "Gliscor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Usa Truco para bloquear Terremoto, luego Cloyster +4 // Surf para Magnezone",
+  "tricks": []
+}

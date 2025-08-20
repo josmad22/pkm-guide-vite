@@ -1,0 +1,108 @@
+{
+  "id": "gallade",
+  "name": "Gallade",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "NO SE RETIRA, utilizar Truco",
+      "variant": []
+    },
+    {
+      "detail": "PSICO CORTE, Scrafty +1, entra Dragonite, usa una Danza Dragón más y barre el equipo, dos Palizas eliminan a Dragonite / Revisa tu vida",
+      "variant": []
+    },
+    {
+      "detail": "Si Scrafty es Derrotado por Dragonite, Metagross usa Truco para bloquear Puño Fuego, Chandelure 2+2, lanzallamas barre",
+      "variant": []
+    },
+    {
+      "detail": "GOLPE BAJO / PULSO UMBRÍO, Scrafty +2, // El Pulso Umbrío indica que es Zoroark disfrazado así que usa Puño Drenaje",
+      "variant": []
+    },
+    {
+      "detail": "DESEO → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "GOLPE BAJO CRÍTICO → Observar el objeto",
+      "variant": []
+    },
+    {
+      "detail": "Restos → Scrafty x2 / Paliza a Ninetales y Noctowl",
+      "variant": []
+    },
+    {
+      "detail": "Chaleco Asalto → Sacrificar a Chandelure, Poliwrath +6 + Revive a Chandelure, luego +2",
+      "variant": []
+    },
+    {
+      "detail": "PROTECCIÓN (TRUCO FALLIDO) → Usar Truco de nuevo hasta que tenga éxito",
+      "variant": []
+    },
+    {
+      "detail": "Deseo / Protección → Cloyster x4",
+      "variant": []
+    },
+    {
+      "detail": "Espada Santa → Cambiar a Metagross y colocar Trampa Rocas, Chandelure 2 + 2 / Priorizar ataques de alta potencia",
+      "variant": []
+    },
+    {
+      "detail": "Golduck → Cambiar a Metagross y colocar Trampa Rocas, Poliwrath 6 + 2",
+      "variant": []
+    },
+    {
+      "detail": "ESPADA SANTA + PAÑUELO ELEGIDO → Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "ESPADA SANTA + RESTOS → Cambiar a Metagross y colocar Trampa Rocas, Chandelure 2 + 2 / Priorizar ataques de alta potencia",
+      "variant": []
+    },
+    {
+      "detail": "DRAGONITE → Excadrill x4 + 2",
+      "variant": []
+    },
+    {
+      "detail": "SOMBRA VIL → Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "TAJO UMBRÍO → Scrafty +3 / Paliza para Ninetales",
+      "variant": []
+    },
+    {
+      "detail": "SLOWBRO → Cambiar a Metagross y usar Truco para bloquear con Lanzallamas, Chandelure usa 1 Especial X / Usar Lanzallamas para barrer al equipo",
+      "variant": []
+    },
+    {
+      "detail": "METAGROSS → Usar Lanzallamas para eliminar, observar qué entra 👇🏻",
+      "variant": []
+    },
+    {
+      "detail": "Sale Dragonite → Cambiar a Metagross y usar Truco para bloquear con Puño Fuego (Curar a Chandelure hasta más del 60% de PS), luego cambiar a Chandelure 4 + 0 / Usar Lanzallamas para barrer al equipo",
+      "variant": []
+    },
+    {
+      "detail": "Sale Gallade → Cambiar a Scrafty, luego a Chandelure y usar Truco para bloquear con Golpe Bajo, dejarlo caer, Poliwrath 6 + Revivir a Chandelure, luego +2",
+      "variant": []
+    },
+    {
+      "detail": "Si aparece Dragonite contra Scrafty, seguir los pasos mencionados arriba 👆🏻",
+      "variant": []
+    },
+    {
+      "detail": "DRAGONITE → Cambiar a Metagross y usar Truco para ver el objeto",
+      "variant": []
+    },
+    {
+      "detail": "Colmillo Dragón → Chandelure 4 + 0 / Lanzallamas para barrer al equipo",
+      "variant": []
+    },
+    {
+      "detail": "Restos → Cambiar a Chandelure y usar Truco, bloquear con Empoleon, Poliwrath 6 + 2",
+      "variant": []
+    }
+  ]
+}

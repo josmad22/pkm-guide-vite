@@ -1,0 +1,21 @@
+{
+  "id": "conkeldurr",
+  "name": "Conkeldurr",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza Puño Drenaje, utilizar Trampa Rocas, luego cambiar a Chandelure +4 / Lanzallamas para matar a todo el equipo",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza Desquite, cambiar a Scrafty 2 / Paliza + Puño Drenaje para matar a Steelix ( A prueba)",
+      "variant": [
+        {
+          "detail": "Si cambia a Steelix, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

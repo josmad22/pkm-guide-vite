@@ -1,0 +1,192 @@
+{
+  "id": "volcarona",
+  "name": "Volcarona",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Chandelure, usa Lanzallamas y observa la respuesta",
+  "tricks": [
+    {
+      "detail": "KROOKODILE → Cloyster +4 / Carámbano contra Lucario",
+      "variant": []
+    },
+    {
+      "detail": "PODER OCULTO / DANZA LLAMA DE VOLCARONA → Continúa con Lanzallamas, ajusta según la situación",
+      "variant": []
+    },
+    {
+      "detail": "VAPOREON→ Cambia a Metagross, usa Truco",
+      "variant": [
+        {
+          "detail": "Si recibe ESCALDAR, Poliwrath +6+2 / A Bocajarro para eliminar Vaporeon, Conkeldurr y Druddigon",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Excadrill, Cloyster +6",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Floatzel → Cambia a Poliwrath, luego a Metagross y usa Truco",
+          "variant": []
+        },
+        {
+          "detail": "Si recibe Hidrobomba, Poliwrath +6+2 // Asegura que Poliwrath recupere 75% de HP o más",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Excadrill, Cloyster +4",
+          "variant": []
+        },
+        {
+          "detail": "Si entra FERALIGATR → Usa objeto Protec. Esp, sacrifica, Metagross usa Truco para bloquear Excadrill, Cloyster +4",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si por error se bloquea Escavalier, usa Truco nuevamente",
+      "variant": []
+    },
+    {
+      "detail": "Si Chandelure cae por golpe crítico de Poder Oculto → Cambia a Poliwrath, luego a Metagross y observa habilidades",
+      "variant": [
+        {
+          "detail": "Si recibe Zumbido → Usa Puño Trueno para eliminar (entra Excadrill), Excadrill +4+2 / Terremoto para eliminar Druddigon",
+          "variant": []
+        },
+        {
+          "detail": "Si recibe Gigadrenado → Usa Puño Trueno para eliminar (entra Excadrill), cambia a Cloyster, luego cambia a Metagross usa Truco para bloquear Terremoto, Cloyster +4",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "ZUMBIDO Y GIGADRENADO DE VOLCARONA → Continúa con Lanzallamas y ajusta según la situación",
+      "variant": [
+        {
+          "detail": "Si entra Krookodile → Cloyster +4 / Carámbano contra Lucario",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Dragonite → Cambia a Metagross y coloca Trampa Rocas",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si no se retira, sacrifica, Chandelure usa Truco para bloquear Surf, Poliwrath +6+2",
+      "variant": [
+        {
+          "detail": "Si entra Krookodile, Cloyster +4",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Latias → Cambia a Metagross, si no se retira usa Truco para bloquear Excadrill, Cloyster +4",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si por error se bloquea Megacuerno, cambia a Chandelure y revisa opciones👇🏻",
+      "variant": []
+    },
+    {
+      "detail": "Si Excadrill no se retira, usa Bola Sombra para debilitarlo, luego entra Excadrill, cambia a Metagross para sacrificar, luego Chandelure usa Truco para bloquear Terremoto, Cloyster +4",
+      "variant": [
+        {
+          "detail": "Si entra Chandelure → Usa lanzallamas para sacrificar, metagross trampa roca y Scrafty +2.",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Vaporeon → Confirma si Volcarona tiene Restos",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si , Poliwrath +6+2 / A Bocajarro para eliminar Vaporeon y Vaniluxe",
+      "variant": []
+    },
+    {
+      "detail": "No, Metagross usa Truco",
+      "variant": [
+        {
+          "detail": "Si recibe Hidrobomba, Poliwrath +6+2+6",
+          "variant": []
+        },
+        {
+          "detail": "Si recibe Poder Oculto / Rayo Hielo, Scrafty +3",
+          "variant": []
+        },
+        {
+          "detail": "Si recibe Sandslash, Cloyster +6",
+          "variant": []
+        },
+        {
+          "detail": "Si recibe Lucario, Chandelure usa Truco para intercambiar objeto, Scrafty +3",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Samurott → Cambia a Poliwrath, luego a Metagross contra Zygarde y coloca Trampa Rocas // Chandelure usa Truco para bloquear Psicoimpact, Scrafty +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "VOLCARONA SE RETIRA Y APARECE VAPOREON → Cambia a Metagross y usa Truco",
+      "variant": [
+        {
+          "detail": "Si recibe Escaldar → Poliwrath +6+2 / A Bocajarro para eliminar Vaporeon, Conkeldurr y Druddigon",
+          "variant": []
+        },
+        {
+          "detail": "Si recibe Excadrill → Cloyster +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "VOLCARONA SE RETIRA Y APARECE SEISMITOAD → Cambia a Cloyster, luego a Chandelure y usa Truco para bloquear Terremoto, Cloyster +4 / Carámbano contra Excadrill",
+      "variant": []
+    },
+    {
+      "detail": "Si Seismitoad recibe golpe crítico o quemadura, continúa con Lanzallamas, sacrifica a Chandelure, luego Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "LANZALLAMAS GOLPEA CRÍTICO Y ELIMINA A VOLCARONA, luego observa la respuesta👇🏻",
+      "variant": [
+        {
+          "detail": "Si entra Archeops → Cambia a Metagross, usa Truco para bloquear Excadrill, Excadrill +4+2 / Terremoto para eliminar Druddigon",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Latias → Cambia a Metagross, usa Truco para bloquear Excadrill, Cloyster +4",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Floatzel → Cambia a Poliwrath, luego a Metagross y usa Truco",
+          "variant": []
+        },
+        {
+          "detail": "Si recibe Hidrobomba, Poliwrath +6+2 // Asegura que Poliwrath recupere al menos 75% de HP para prevenir golpe crítico",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Excadrill, Cloyster +4",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Vaporeon → Poliwrath +6+2 / A Bocajarro para eliminar Vaporeon / Si es congelado, usa Cura Total para eliminar el estado",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Chandelure → Usa Lanzallamas para sacrificar, luego Metagross coloca Trampa Rocas, Scrafty +2",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Feraligatr → Cambia a Metagross y usa Truco para bloquear Catarata, Poliwrath +6+2+6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

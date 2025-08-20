@@ -6,15 +6,16 @@
   "tricks": [
     {
       "detail": "TRUCO, para bloquear Rayo, Excadrill pone Trampa Rocas.",
-      "variant": []
-    },
-    {
-      "detail": "NO CAMBIA : Excadrill 6+2. / Terremoto para matar a Gengar.",
-      "variant": []
-    },
-    {
-      "detail": "SALE LAPRAS : Poliwrath 6+2. / Terremoto para matar a Gengar.",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "NO CAMBIA : Excadrill 6+2. / Terremoto para matar a Gengar.",
+          "variant": []
+        },
+        {
+          "detail": "SALE LAPRAS : Poliwrath 6+2. / Terremoto para matar a Gengar.",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "id": "hydreigon",
+  "name": "Hydreigon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Si utiliza LLAMARADA, utilizar Bola Sombra, luego cambiar a Scrafty contra Noctowl, Scrafty +2. Puño Drenaje + Paliza matan a Noctowl y Ninetales",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza LANZALLAMAS, utilizar Truco para bloquear en Pulso Umbrío, luego cambiar a Scrafty 2 // Ninetales banda focus",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mandibuzz",
+  "name": "Mandibuzz",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A SCRAFTY // PUÑO DRENAJE PARA VER QUE HACE",
+  "tricks": [
+    {
+      "detail": "Mandibuzz no se retira → Scrafty +3.",
+      "variant": []
+    },
+    {
+      "detail": "Spiritomb → Scrafty +2",
+      "variant": []
+    }
+  ]
+}

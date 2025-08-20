@@ -13,8 +13,17 @@
       "variant": []
     },
     {
-      "detail": "Sale Stunfisk → cambia a Chandelure y usa Truco, ① si usa Tierra Viva, Cloyster 4 ② si usa Chispazo, Excadrill 2+2.// Terremoto para matar a Swalot afortunado (cuidado con Bostezo): no hace falta usar Truco, entra directo Excadrill 2+2.",
-      "variant": []
+      "detail": "Sale Stunfisk → cambia a Chandelure y usa Truco",
+      "variant": [
+        {
+          "detail": "Si usa Tierra Viva, Cloyster 4",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Chispazo, Excadrill 2+2.// Terremoto para matar a Swalot afortunado (cuidado con Bostezo): no hace falta usar Truco, entra directo Excadrill 2+2.",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Sale Nidoking → cambia a Excadrill, luego a Metagross para usar Truco, lo encierras en Tierra Viva, Cloyster 4, último Ditto, cambia a Poliwrath para rematar.",

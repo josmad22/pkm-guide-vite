@@ -1,0 +1,12 @@
+{
+  "id": "mismagius",
+  "name": "Mismagius",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Truco para bloquear a Garchomp con Terremoto, Metagross utiliza Trampa Rocas, luego cambiar a Cloyster +6. Si falla la Trampa Rocas, cambiar a Cloyster 6+Crítico / Carámbano para matar a Lucario",
+      "variant": []
+    }
+  ]
+}

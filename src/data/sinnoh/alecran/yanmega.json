@@ -1,0 +1,16 @@
+{
+  "id": "yanmega",
+  "name": "Yanmega",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "PUÑO TRUENO Y OBSERVAR SI PARALIZA",
+  "tricks": [
+    {
+      "detail": "Si no paraliza: cambia a Chandelure contra Flygon, usa Truco para bloquear con Terremoto, luego entra Cloyster +6. Usa Carámbano para barrer.",
+      "variant": []
+    },
+    {
+      "detail": "Si paraliza: sigue usando Puño Trueno, cuando entre Flygon, cambia a Excadrill, luego a Chandelure y usa Truco para bloquear con Terremoto, entra Cloyster +6 y limpia con Carámbano.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bastiodon",
+  "name": "Bastiodon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Utiliza Truco para bloquear a Garchomp, luego escoges:",
+      "variant": []
+    },
+    {
+      "detail": "Rápido: Cambia a Excadrill 4+2, Terremoto mata a Bastiodon",
+      "variant": []
+    },
+    {
+      "detail": "Lento: Utiliza Trampas Rocas, cambia a Cloyster 4. (Si Metagross falla al poner Trampas Rocas, puede ponerlo Excadrill)",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "chandelure",
+  "name": "Chandelure",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "SOFOCO / LLAMARADA→ Usa Bola Sombra para eliminar",
+      "variant": []
+    },
+    {
+      "detail": "ROTOM → Cambia a Metagross y usa Truco",
+      "variant": []
+    },
+    {
+      "detail": "Metagross enfrenta Bisharp → Cambia a Chandelure y usa Truco",
+      "variant": []
+    },
+    {
+      "detail": "Avalancha → Scrafty +3",
+      "variant": []
+    },
+    {
+      "detail": "Rayo → Excadrill coloca Trampa Rocas 2+2",
+      "variant": []
+    },
+    {
+      "detail": "Restos y usa Hidrobomba → Poliwrath +6+4 Velocidad X (Gengar con pañuelo le gana a Poliwrath +2 Velocidad) // A Bocajarro para eliminar Umbreon",
+      "variant": [
+        {
+          "detail": "Si entra Drifblim, usa Puño Hielo para eliminar (entra Jolteon) Cambia a Excadrill, luego a Chandelure y usa Truco, Excadrill +4+2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Baya Caoca y usa Hidrobomba → Politoed +6+4 ayuda a Politoed a recuperar toda la salud",
+      "variant": []
+    },
+    {
+      "detail": "Eelektross → Coloca Trampa Rocas, Chandelure usa Lanzallamas para eliminar (entra Gengar) Scrafty +3",
+      "variant": []
+    },
+    {
+      "detail": "MILOTIC → Cambia a Metagross y usa Truco",
+      "variant": []
+    },
+    {
+      "detail": "Escaldar → Coloca Trampa Rocas, Politoed +6+2",
+      "variant": []
+    },
+    {
+      "detail": "Claydol → Excadrill coloca Trampa Rocas, Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "BISHARP → Cambia a Poliwrath, luego a Chandelure y usa Truco para bloquear Avalancha, Scrafty +3 // Si Paliza queda bloqueada → A Bocajarro para eliminar Rotom",
+      "variant": []
+    },
+    {
+      "detail": "LUCARIO → Cambia a Scrafty, luego a Chandelure y usa Truco para bloquear Pulso Umbrío, Scrafty +3",
+      "variant": []
+    },
+    {
+      "detail": "HYDREIGON → Cambia a Metagross, luego a Chandelure y usa Truco para bloquear Milotic, Politoed +6+2 // Terremoto para eliminar Milotic",
+      "variant": []
+    },
+    {
+      "detail": "CHANDELURE NO MUERE POR BANDA FOCUS → Seguir atacando, sale Hydreigon, cambiar a Metagross (recibe Pulso Dragón), usar Truco para intercambiar objeto, luego cambiar a Chandelure (recibe Llamarada), Chandelure usa dos Curas potentes que curen ¡TODA SU VIDA!, luego Truco para intercambiar objeto, Scrafty +2",
+      "variant": [
+        {
+          "detail": "Si ve Pulso Umbrío, Scrafty x2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Te mataron por golpe Crítico, Sacar a Metagross para revivir a Chandelure, observa quién entra",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon, cambiar a Chandelure, usar un Restaurar Todo para curarse, luego Truco para intercambiar objeto, Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "Bronzong, usar Truco para bloquear Giro Bola, revivir a Chandelure y curarlo con un Restaurar Todo, cambiar a Chandelure y usar Lanzallamas para eliminar, entra Hydreigon, Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "LANZALLAMAS → Usa Bola Sombra para eliminar",
+      "variant": []
+    },
+    {
+      "detail": "DRAGONITE → Cambia a Metagross y observa el daño de Garra Dragón",
+      "variant": []
+    },
+    {
+      "detail": "12.3%–14.5% 【Golpe Crítico 20%】 → Trampa Rocas",
+      "variant": []
+    },
+    {
+      "detail": "UMBREON → Scrafty usa Danza Dragón (entra Dragonite), luego otra Danza Dragón para barrer al equipo / Puño Drenaje + Paliza eliminan a Dragonite, A Bocajarro elimina a Toxicroak",
+      "variant": []
+    },
+    {
+      "detail": "TOXICROAK → Usar Trampa Rocas(Para forzar su ataque) y observar el movimiento:",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto, Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "A Bocajarro, cambiar a Chandelure y usar Truco para intercambiar objeto, Cloyster x6",
+      "variant": []
+    },
+    {
+      "detail": "BISHARP → Cambiar a Chandelure y usar Truco",
+      "variant": []
+    },
+    {
+      "detail": "Patada Baja → Chandelure 2+2 Prioriza movimientos de ventaja",
+      "variant": [
+        {
+          "detail": "Si recibe otro movimiento → Scrafty +3 A Bocajarro para eliminar Toxicroak",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "16.2%-18.9% (Golpe Crítico 25%) → Truco bloquea Puño Fuego, coloca Trampa Rocas, Chandelure usa una Poción de Especial X, luego usa Lanzallamas para barrer",
+      "variant": []
+    },
+    {
+      "detail": "Trampa Rocas no se coloca → Chandelure se refuerza igualmente con posición de Ataque Especial // Si Lanzallamas queda bloqueado → Eres salado así que adáptate a la situación",
+      "variant": []
+    },
+    {
+      "detail": "UMBREON → Cambiar a Metagross y colocar Trampa Rocas, Scrafty usa Danza Dragón (entra Dragonite), luego otra Danza Dragón para barrer al equipo // Puño Drenaje + Paliza eliminan a Dragonite, A Bocajarro elimina a Toxicroak",
+      "variant": []
+    },
+    {
+      "detail": "TOXICROAK → Cloyster x6 // Carámbano para Bisharp",
+      "variant": []
+    },
+    {
+      "detail": "ROTOM → Cambiar a Scrafty, luego a Chandelure y usar Truco para bloquear Pulso Umbrío, Scrafty +4",
+      "variant": []
+    },
+    {
+      "detail": "ZOROARK → Seguir usando Bola Sombra, si aparece Bisharp, Scrafty +4 o 2 + Ataque X / A Bocajarro elimina a Bronzong",
+      "variant": []
+    },
+    {
+      "detail": "DRAGONITE → Usa Poder Oculto para atacar // Si Dragonite no se retira → Sigue atacando",
+      "variant": []
+    },
+    {
+      "detail": "BRONZONG → Cambia a Metagross y usa Truco para intercambiar objeto, luego cambia a Chandelure",
+      "variant": []
+    },
+    {
+      "detail": "Cofagrigus o Bisharp → Scrafty +3, A Bocajarro elimina a Bronzong",
+      "variant": []
+    },
+    {
+      "detail": "Chandelure → Usar Bola Sombra para eliminar, si entra Bisharp, Scrafty +3, A Bocajarro elimina a Bronzong",
+      "variant": []
+    },
+    {
+      "detail": "BISHARP → Scrafty +4 A Bocajarro para eliminar Bronzong",
+      "variant": []
+    },
+    {
+      "detail": "COFAGRIGUS → Cambia a Scrafty, luego a Chandelure Si enfrenta Dragonite → Usa Poder Oculto para atacar Consulta la estrategia mencionada arriba para más detalles 👆🏻",
+      "variant": []
+    },
+    {
+      "detail": "UMBREON → Cambia a Metagross",
+      "variant": []
+    },
+    {
+      "detail": "UMBREON NO SE RETIRA → Coloca Trampa Rocas, Scrafty usa Danza Dragón (entra Dragonite), luego usa otra Danza Dragón para barrer // Puño Drenaje + Paliza eliminan a Dragonite, A Bocajarro elimina a Toxicroak",
+      "variant": []
+    },
+    {
+      "detail": "DRAGONITE → Coloca Trampa Rocas",
+      "variant": []
+    },
+    {
+      "detail": "Umbreon → Scrafty usa Danza Dragón (entra Dragonite), luego usa otra Danza Dragón para barrer // Puño Drenaje + Paliza eliminan a Dragonite, A Bocajarro elimina a Toxicroak",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak → Coloca Trampa Rocas y evalúa el siguiente movimiento",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto → Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "A Bocajarro → Chandelure usa Truco para intercambiar objeto, Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "CLAYDOL→ Truco bloquea Terremoto, Excadrill coloca Trampa Rocas, Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "BRONZONG → Usa Lanzallamas para eliminar y observa el siguiente Pokémon",
+      "variant": []
+    },
+    {
+      "detail": "HYDREIGON → Scrafty +1",
+      "variant": []
+    },
+    {
+      "detail": "BISHARP → Scrafty +4 o +2 + Ataque X",
+      "variant": []
+    },
+    {
+      "detail": "CHANDELURE → Cambia a Scrafty, luego a Chandelure y usa Bola Sombra para eliminar, si entra Bisharp → Scrafty +4 o +2 + Ataque X",
+      "variant": []
+    }
+  ]
+}

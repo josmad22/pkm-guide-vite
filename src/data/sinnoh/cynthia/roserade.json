@@ -1,0 +1,12 @@
+{
+  "id": "roserade",
+  "name": "Roserade",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Utilizar Truco para bloquear a Garchomp con Terremoto, luego cambiar a Excadrill 4+2. Si Excadrill no tiene vida completa, primero curarlo al máximo",
+      "variant": []
+    }
+  ]
+}

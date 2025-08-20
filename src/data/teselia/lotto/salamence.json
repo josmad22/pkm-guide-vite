@@ -1,0 +1,48 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "PAÑUELO ELEGIDO → Cambia según el movimiento / Si Metagross muere sigue con la Strat de abajo",
+      "variant": []
+    },
+    {
+      "detail": "TERREMOTO→ Cloyster +4 / Carámbano para eliminar Crawdaunt",
+      "variant": []
+    },
+    {
+      "detail": "LLAMARADA → Chandelure usa Truco para intercambiar objeto, Cloyster +4 / Carámbano para eliminar Crawdaunt",
+      "variant": []
+    },
+    {
+      "detail": "GARRA DRAGÓN → ¿Metagross tuvo un golpe crítico en el turno inicial? Puedes sacar a Excadrill y boostear 4+2+Trampa Rocas, si necesitas Curar o Defensa X hazlo y luego haz reporte (ESTO ES EXPERIMENTAL)",
+      "variant": []
+    },
+    {
+      "detail": "VIDASFERA → Ajusta según el movimiento:",
+      "variant": []
+    },
+    {
+      "detail": "TERREMOTO → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "COLMILLO ÍGNEO → Chandelure usa Truco para intercambiar objeto, Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "SEISMITOAD → Cloyster +4 / Surf para Magnezone",
+      "variant": []
+    },
+    {
+      "detail": "GOLURK → Cloyster +4 + Defensa X",
+      "variant": []
+    },
+    {
+      "detail": "CONKELDURR → Poner Trampa Rocas, luego Chandelure +0 (PS completos sin potenciadores) (No tengas miedo y ¡TESTEA! por el bien de la comunidad)",
+      "variant": []
+    }
+  ]
+}

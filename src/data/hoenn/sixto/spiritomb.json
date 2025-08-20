@@ -1,0 +1,20 @@
+{
+  "id": "spiritomb",
+  "name": "Spiritomb",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "No se retira → Usa Truco para bloquear Bola Sombra, cambia a Excadrill y luego a Metagross / Contra Gyarados, usa Truco para bloquear Aqua Cola, Cloyster +4 / Mata todo con Carámbano (NO TE ASUSTES!)",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak → Usa Truco para bloquear Puño Hielo, Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill → Usa Truco para bloquear Terremoto, Cloyster +6 / Mata todo con Carámbano",
+      "variant": []
+    }
+  ]
+}

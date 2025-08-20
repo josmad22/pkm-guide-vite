@@ -1,0 +1,20 @@
+{
+  "id": "ferrothorn",
+  "name": "Ferrothorn",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "GIRO BOLA → usa Lanzallamas para debilitar, si entra Tyranitar, cambia a Cloyster, luego a Metagross con Truco, encerrar en Terremoto, Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "PISOTÓN (ESCOGER POR DESCARTE, NO SE QUE SIGNIFICA oño) → Truco para encerrar en Vendetta, Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "FLYGON → truco para encerrar en Terremoto, Cloyster +6 (todo se mata con Carámbano)",
+      "variant": []
+    }
+  ]
+}

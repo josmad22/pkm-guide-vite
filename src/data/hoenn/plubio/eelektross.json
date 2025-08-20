@@ -1,0 +1,50 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Lanzallamas → Truco para observar el movimiento del rival.",
+      "variant": [
+        {
+          "detail": "Voltio Cruel → Se cambia a Excadrill con +6+0.",
+          "variant": []
+        },
+        {
+          "detail": "Rayo → Se entra con Excadrill Trampa Roca con +2+2.",
+          "variant": []
+        },
+        {
+          "detail": "Voltiocambio y entra Starmie → Se cambia a Metagross y se usa Truco.",
+          "variant": [
+            {
+              "detail": "Si el rival usa Hidrobomba, entra Poliwrath con +6+2. // Si luego del Tambor aparece Eelektross, se continúa con Excadrill con +2+2.",
+              "variant": []
+            },
+            {
+              "detail": "Si entra Registeel o el rival usa Rayo, entra Excadrill con +2+2.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Voltiocambio y entra Milotic → Entra Poliwrath con +6+2.",
+          "variant": []
+        }
+      ]
+    },   
+    {
+      "detail": "Puño Fuego → Se usa Truco para bloquear Voltio Cruel, luego entra Excadrill con +6+2.",
+      "variant": []
+    },
+    {
+      "detail": "Milotic → Se usa Truco para bloquear Escaldar y entra Poliwrath con +6+2. Puede usarse A Bocajarro para vencer a Sealeo o Milotic, sin necesidad de gastar Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "Metagross → Se usa Truco para bloquear Avalancha, luego entra Scrafty con +3. Puede usarse A Bocajarro para vencer a Milotic, y también se puede recuperar PS usando Puño Drenaje desde +2.",
+      "variant": []
+    }
+  ]
+}

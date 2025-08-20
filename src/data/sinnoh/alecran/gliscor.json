@@ -1,0 +1,12 @@
+{
+  "id": "gliscor",
+  "name": "Gliscor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TERREMOTO → Cloyster +6 (Mata todo con Carámbano)",
+      "variant": []
+    }
+  ]
+}

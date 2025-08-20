@@ -1,0 +1,21 @@
+{
+  "id": "cacturne",
+  "name": "Cacturne",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Si Cacturne no cambia, enfrentar directamente a Bronzong(?) / Lanzallamas para matarlo y ver que entra después",
+      "variant": [
+        {
+          "detail": "Si entra Rotom, cambiar a Excadrill 4+2",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Magmortar, cambiar a Excadrill, luego cambiar a Chandelure y utilizar Truco para bloquear en Rayo, luego cambiar a Excadrill 4+2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

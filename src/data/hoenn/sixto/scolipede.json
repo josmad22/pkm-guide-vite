@@ -1,0 +1,12 @@
+{
+  "id": "scolipede",
+  "name": "Scolipede",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "USA TRUCO",
+  "tricks": [
+    {
+      "detail": "para bloquear a Excadrill, entra Cloyster 4.",
+      "variant": []
+    }
+  ]
+}

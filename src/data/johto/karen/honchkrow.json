@@ -6,16 +6,17 @@
   "tricks": [
     {
       "detail": "FUERZA BRUTA → cambia a Chandelure.",
-      "variant": []
-    },
-    {
-      "detail": "NO SE VA → Truco para bloquear a Rhydon, luego Cloyster +4. // Usa Carámbano para matar a Houndoom.",
-      "variant": []
-    },
-    {
-      "detail": "RHYPERIOR → Truco para bloquear Terremoto, luego Cloister 4. // Usa Carámbano para matar a Houndoom.",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "NO SE VA → Truco para bloquear a Rhydon, luego Cloyster +4. // Usa Carámbano para matar a Houndoom.",
+          "variant": []
+        },
+        {
+          "detail": "RHYPERIOR → Truco para bloquear Terremoto, luego Cloister 4. // Usa Carámbano para matar a Houndoom.",
+          "variant": []
+        }
+      ]
+    },   
     {
       "detail": "RHYPERIOR → Cloyster +6. Usa Carámbano para matar a Houndoom.",
       "variant": []

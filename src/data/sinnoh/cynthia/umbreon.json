@@ -1,0 +1,12 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A SCRAFTY",
+  "tricks": [
+    {
+      "detail": "Scrafty +2, utilizar Puño Drenaje, al resto Paliza",
+      "variant": []
+    }
+  ]
+}

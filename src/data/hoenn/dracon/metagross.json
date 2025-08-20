@@ -1,0 +1,55 @@
+{
+  "id": "metagross",
+  "name": "Metagross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Terremoto → Ver objeto:",
+      "variant": [
+        {
+          "detail": "Pañuelo Elegido → Excadrill 4+2",
+          "variant": []
+        },
+        {
+          "detail": "Vidasfera → Excadrill 2+2 y luego colocar Trampa Rocas",
+          "variant": []
+        },
+        {
+          "detail": "Cinta Xperto → Excadrill 4+2 y luego colocar Trampa Rocas",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Puño Meteoro → Usa un Puño Trueno para debilitarlo un poco, luego cambia a Chandelure y usa Lanzallamas para debilitarlo. Ver qué entra después:",
+      "variant": [
+        {
+          "detail": "Si entra Feraligatr → Poliwrath 6 + Raíz Grande +2, usar Carámbano para derrotar a Salamence",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Floatzel → Cambia a Poliwrath, luego a Chandelure para usar Truco",
+          "variant": [
+            {
+              "detail": "Si hace HidroBomba → Poliwrath 6+2",
+              "variant": []
+            },
+            {
+              "detail": "Si hace Triturar → Scrafty 3, usar Carámbano para derrotar a Salamence",
+              "variant": []
+            },
+            {
+              "detail": "Si entra Ampharos → Cambia a Scrafty, luego a Chandelure y usa Truco para bloquear en Poder Oculto (tipo Roca), luego entra Scrafty +3",
+              "variant": []
+            }
+          ]
+        }       
+      ]
+    },
+    {
+      "detail": "Ampharos → Excadrill 4+2 // Si cambia a Metagross, no importa, sigue con Danza Espada",
+      "variant": []
+    }
+  ]
+}

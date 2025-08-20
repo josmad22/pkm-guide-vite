@@ -6,15 +6,16 @@
   "tricks": [
     {
       "detail": "Steelix → revisa el objeto.",
-      "variant": []
-    },
-    {
-      "detail": "Casco Dentado → Cloister 6.",
-      "variant": []
-    },
-    {
-      "detail": "CINTA ELEGIDA → Cloyster +4 + Especial X / Si no usas la medicina, hay un 12.5% de probabilidad de que sea debilitado de un solo golpe",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Casco Dentado → Cloister 6.",
+          "variant": []
+        },
+        {
+          "detail": "CINTA ELEGIDA → Cloyster +4 + Especial X / Si no usas la medicina, hay un 12.5% de probabilidad de que sea debilitado de un solo golpe",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Aggron → Cloister 4+ con Especial X. Usa Surf para matar a Conkeldurr.",
@@ -22,11 +23,11 @@
     },
     {
       "detail": "Escaldar → revisa el daño del ataque.",
-      "variant": []
-    },
-    {
-      "detail": "24.7%-29.1%【con alrededor de 40% de chance de quemar】 → revisa si Metagross queda quemado.",
       "variant": [
+        {
+          "detail": "24.7%-29.1%【con alrededor de 40% de chance de quemar】 → revisa si Metagross queda quemado.",
+          "variant": []
+        },
         {
           "detail": "Si está quemado → Poliwrath 6+2. Usa Puño Hielo para matar a Salamence.",
           "variant": []

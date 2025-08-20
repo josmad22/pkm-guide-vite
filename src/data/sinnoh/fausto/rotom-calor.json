@@ -1,0 +1,16 @@
+{
+  "id": "rotom-calor",
+  "name": "Rotom Calor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "A ELECCIÓN",
+  "tricks": [
+    {
+      "detail": "RÁPIDO PERO COSTOSO: Cambiar a Chandelure 4+0 / Lanzallamas para matar todo el equipo",
+      "variant": []
+    },
+    {
+      "detail": "LENTO PERO MENOS COSTOSO 😂 : Cambiar a Chandelure y utilizar Truco, luego cambiar a Excadrill 4+2",
+      "variant": []
+    }
+  ]
+}

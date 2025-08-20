@@ -1,0 +1,50 @@
+{
+  "id": "lanturn",
+  "name": "Lanturn",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Blissey → Scrafty usa Puño Drenaje para recuperar PS, luego usa Danza Dragón dos veces. También puede usar Puño Drenaje + A Bocajarro para debilitar a Skarmory.",
+      "variant": []
+    },
+    {
+      "detail": "Nidoking/Nidoqueen → Excadrill +6+2 barre al equipo. Si aparece Skarmory, usa objeto de defensa y sigue presionando.",
+      "variant": []
+    },
+    {
+      "detail": "Surf / Hidrocañón / Poder Oculto → Coloca Trampa Rocas, luego entra Poliwrath +6+2.",
+      "variant": []
+    },
+    {
+      "detail": "Escaldar → Coloca Trampa Rocas.",
+      "variant": [
+        {
+          "detail": "Si no cambia → Poliwrath +6+2.",
+          "variant": []
+        },
+        {
+          "detail": "Nidoking/Nidoqueen → Cambiar a Excadrill y luego a Chandelure para usar Truco, bloquear en Tierra Viva, luego Excadrill +4+2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Rayo → Ver el objeto:",
+      "variant": [
+        {
+          "detail": "Si lleva Restos → Excadrill +6+2",
+          "variant": []
+        },
+        {
+          "detail": "Si lleva Cinta Experto → Excadrill +6 + Defensa X. No usar objetos de velocidad.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Trueno → Excadrill +6+2. Cabezahierro contra frosslas // Si queda bloqueado en Cabeza Hierro contra Skarmory, usar objetos curativos y esperar a que desaparezca la Maldición.",
+      "variant": []
+    }
+  ]
+}

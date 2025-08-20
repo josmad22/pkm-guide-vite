@@ -1,0 +1,24 @@
+{
+  "id": "magnezone",
+  "name": "Magnezone",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "RAYO → Observa el objeto equipable",
+      "variant": []
+    },
+    {
+      "detail": "Baya Ziuela / Yapati → Excadrill coloca Trampa Rocas +6+2 (defensa, sin objeto de velocidad*)",
+      "variant": []
+    },
+    {
+      "detail": "VIDASFERA → Coloca Trampa Rocas y sacrifica (por Imán), luego Excadrill coloca Trampa Rocas +4+2",
+      "variant": []
+    },
+    {
+      "detail": "PODER OCULTO → Usa Roca Afilada y sacrifica (por Imán), luego Scrafty +3 / A Bocajarro contra Conkeldurr",
+      "variant": []
+    }
+  ]
+}

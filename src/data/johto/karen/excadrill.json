@@ -6,16 +6,16 @@
   "tricks": [
     {
       "detail": "NO TIENE GLOBO HELIO, Truco para encerrar en Terremoto, Cloyster +4 (Houndoom muere de carámbano)",
+      "variant": []
+    },
+    {
+      "detail": "SI TIENE GLOBO HELIO, cambia a Cloyster e inmediatamente cambia a Chandelure, usa Truco para encerrar en Terremoto para así sacar a Cloyster y boostear +6",
       "variant": [
         {
-          "detail": "SI TIENE GLOBO HELIO, cambia a Cloyster e inmediatamente cambia a Chandelure, usa Truco para encerrar en Terremoto para así sacar a Cloyster y boostear +6",
+          "detail": "Chandelure podría morir de un crítico de Avalancha, si esto llega a pasar haz lo siguiente) - Saca a Metagross para revivir a Chandelure y sacrifica al Metagross, Chandelure usa Truco, saca a Cloyster +6",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "Chandelure podría morir de un crítico de Avalancha, si esto llega a pasar haz lo siguiente) - Saca a Metagross para revivir a Chandelure y sacrifica al Metagross, Chandelure usa Truco, saca a Cloyster +6",
-      "variant": []
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "id": "ninetales",
+  "name": "Ninetales",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "LLAMARADA, utilizar Truco:",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza Psíquico, cambiar a Scrafty +4 o también +2 + Atq X (Depende de si quieres ir rápido o ahorrar) / Utilizar Paliza para matar a Houndoom",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza Rayo Solar, matar al oponente, luego entra Ludicolo, cambiar a Metagross y utilizar Truco para bloquear en Escaldar, luego cambiar a Poliwrath 6+2",
+      "variant": []
+    },
+    {
+      "detail": "BRONZONG, utilizar Truco para bloquear en Psicocarga, luego cambiar a Scrafty 3 / Paliza para matar a Houndoom. A Bronzong hay que golpearlo dos veces",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "amoonguss",
+  "name": "Amoonguss",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Rhyperior: usa Excadrill 6+2.",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto: pon Trampa Rocas, luego entra Poliwrath +6+2. // Si Amongus se retira, sigue potenciando. // Para eliminar a Amoonguss con Terremoto se necesitan dos golpes. Usa A Bocajarro para eliminar a Escavalier / Forretres o Blastoise. //",
+      "variant": []
+    },
+    {
+      "detail": "Espora: cambia a Chandelure para absorber el sueño, si chandelure está dormido despiértalo. Cuando salga Rhyperior, usa Truco para bloquear con Terremoto y entra Excadrill +6+2.",
+      "variant": []
+    },
+    {
+      "detail": "Gigadrenado: cambia a Scrafty y luego a Chandelure, cuando entre Rhyperior, usa Truco para bloquear con Terremoto y entra Excadrill +6+2. (Situación por confirmar).",
+      "variant": []
+    }
+  ]
+}

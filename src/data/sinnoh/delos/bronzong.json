@@ -1,0 +1,28 @@
+{
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "GALLADE → Chandelure usa Truco para bloquear Golpe Bajo, luego Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "HYDREIGON → Cambia a Chandelure y lanza Bola Sombra",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon no se retira, cambia a Scrafty contra Noctowl, Scrafty +2 / Puño Drenaje + Paliza para eliminar Noctowl",
+      "variant": []
+    },
+    {
+      "detail": "Noctowl directamente, Scrafty +1 con Raíz Energía, luego +1 / Puño Drenaje + Paliza para eliminar Noctowl",
+      "variant": []
+    },
+    {
+      "detail": "GIRO BOLA → Cambia a Chandelure y usa Truco para bloquear Giro Bola, luego Chandelure +2 (ataque especial) y usa Restaurar Todo para recuperar, después +2 (velocidad) // Prioriza ataques de alto daño // Lanzallamas mata a Noctowl",
+      "variant": []
+    }
+  ]
+}

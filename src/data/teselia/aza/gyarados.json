@@ -1,0 +1,28 @@
+{
+  "id": "gyarados",
+  "name": "Gyarados",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Puño Trueno elimina al objetivo, observa quién entra → Incluye Vidaesfera autoderrota",
+  "tricks": [
+    {
+      "detail": "GARCHOMP → Cambia a Cloyster, luego a Metagross, usa Truco para bloquear Terremoto, Cloyster +6 → Hielo para eliminar todos los objetivos",
+      "variant": []
+    },
+    {
+      "detail": "CHANDELURE → Cambia a Chandelure y observa el movimiento",
+      "variant": []
+    },
+    {
+      "detail": "LLAMARADA → Truco intercambia objeto, Scrafty +2 → Puño Drenaje para eliminar Liepard y Espeon",
+      "variant": []
+    },
+    {
+      "detail": "BOLA SOMBRA → Scrafty +2 → Puño Drenaje para eliminar Liepard y Espeon",
+      "variant": []
+    },
+    {
+      "detail": "SCRAFTY MUERE POR BISHARP → Metagross usa Truco para bloquear Garchomp, Cloyster +4 → Hielo para eliminar todos los objetivos",
+      "variant": []
+    }
+  ]
+}

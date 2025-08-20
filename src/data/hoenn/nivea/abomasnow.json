@@ -1,0 +1,12 @@
+{
+  "id": "abomasnow",
+  "name": "Abomasnow",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Atrapar a Nidoqueen, luego Terremoto o Tierra Viva. Excadrill 4+2. Cabezahierro para matar a Abomasnow.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gengar",
+  "name": "Gengar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas y observa el movimiento Si no se pueden colocar (por parálisis) // Excadrill coloca Trampa Rocas 4+2",
+  "tricks": [
+    {
+      "detail": "RAYO → Excadrill +4+2",
+      "variant": []
+    },
+    {
+      "detail": "BOLA SOMBRA→ Scrafty usa una Poción de Defensa Especial +3 // Atención a la recuperación de salud // Si Paliza queda bloqueado → Usa poción y espera a que la Maldición desaparezca",
+      "variant": []
+    }
+  ]
+}

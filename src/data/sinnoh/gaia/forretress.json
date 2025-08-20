@@ -1,0 +1,7 @@
+{
+  "id": "forretress",
+  "name": "Forretress",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco bloquea Terremoto, Cloyster +6.",
+  "tricks": []
+}

@@ -6,23 +6,24 @@
   "tricks": [
     {
       "detail": "Terremoto, revisar el objeto:",
-      "variant": []
-    },
-    {
-      "detail": "Refleluz → Excadrill con Trampa Rocas + 4 Atq / +2 Vel.",
-      "variant": []
-    },
-    {
-      "detail": "Baya Zidra → Cloyster +4.",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Refleluz → Excadrill con Trampa Rocas + 4 Atq / +2 Vel.",
+          "variant": []
+        },
+        {
+          "detail": "Baya Zidra → Cloyster +4.",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Machada, cambiar a Chandelure.",
-      "variant": []
-    },
-    {
-      "detail": "Golem → Usar Truco para bloquear Terremoto, luego Cloyster +4.",
       "variant": [
+        {
+          "detail": "Golem → Usar Truco para bloquear Terremoto, luego Cloyster +4.",
+          "variant": []
+        },
         {
           "detail": "Si no se retira → Usar Lanzallamas para debilitar, entra Golem, cambiar a Metagross para sacrificarlo, luego Chandelure con Truco para bloquear Terremoto, Cloyster +4.",
           "variant": []
@@ -31,23 +32,25 @@
     },
     {
       "detail": "Puño Hielo, cambiar a Chandelure.",
-      "variant": []
-    },
-    {
-      "detail": "Machamp o Eelektross → Usar Truco,",
-      "variant": []
-    },
-    {
-      "detail": "Roca Afilada / Avalancha o Vendetta → Scrafty +3. / Usar A Bocajarro para eliminar a Metagross.",
-      "variant": []
-    },
-    {
-      "detail": "Blastoise → Poliwrath +6 Atq / +2 Vel.",
-      "variant": []
-    },
-    {
-      "detail": "Blaziken → Excadrill +4 Atq / +2 Vel.",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Machamp o Eelektross → Usar Truco,",
+          "variant": [
+            {
+              "detail": "Roca Afilada / Avalancha o Vendetta → Scrafty +3. / Usar A Bocajarro para eliminar a Metagross.",
+              "variant": []
+            },
+            {
+              "detail": "Blastoise → Poliwrath +6 Atq / +2 Vel.",
+              "variant": []
+            },
+            {
+              "detail": "Blaziken → Excadrill +4 Atq / +2 Vel.",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
       "detail": "Poder Oculto, usar directamente Chandelure + 2 Píldoras de Ataque SP. / Usar Lanzallamas para barrer el equipo.",
@@ -58,26 +61,27 @@
       "variant": [
         {
           "detail": "Si no se retira → Usar Bola Sombra continuamente.",
+          "variant": [
+            {
+              "detail": "Blastoise → Poliwrath +6 / +2. / Si cambia a Eelektross saca a Excadrill, luego a Chandelure y usar Truco para bloquear Puño Trueno, Excadrill +4 / +2.",
+              "variant": []
+            },
+            {
+              "detail": "Eelektross → Cambiar a Excadrill, luego a Chandelure con Truco para bloquear Puño Trueno, Excadrill +4 / +2. Si entra Blastoise mientras te boosteas,entonces cambia Poliwrath +6 / +2. /",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Gliscor → Usar Truco para bloquear Terremoto, Cloyster +6 + Medicina Defensa.",
+          "variant": []
+        },
+        {
+          "detail": "Golem → Usar Truco para bloquear terremoto, Cloyster +4.",
           "variant": []
         }
       ]
-    },
-    {
-      "detail": "Blastoise → Poliwrath +6 / +2. / Si cambia a Eelektross saca a Excadrill, luego a Chandelure y usar Truco para bloquear Puño Trueno, Excadrill +4 / +2.",
-      "variant": []
-    },
-    {
-      "detail": "Eelektross → Cambiar a Excadrill, luego a Chandelure con Truco para bloquear Puño Trueno, Excadrill +4 / +2. Si entra Blastoise mientras te boosteas,entonces cambia Poliwrath +6 / +2. /",
-      "variant": []
-    },
-    {
-      "detail": "Gliscor → Usar Truco para bloquear Terremoto, Cloyster +6 + Medicina Defensa.",
-      "variant": []
-    },
-    {
-      "detail": "Golem → Usar Truco para bloquear terremoto, Cloyster +4.",
-      "variant": []
-    },
+    },     
     {
       "detail": "Golem → Cloyster +4.",
       "variant": []

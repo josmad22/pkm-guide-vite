@@ -1,0 +1,16 @@
+{
+  "id": "sandslash",
+  "name": "Sandslash",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "RESTOS → Excadrill +4+2",
+      "variant": []
+    },
+    {
+      "detail": "BANDA FOCUS → Cloyster +6 / Eliminación total con Carámbano",
+      "variant": []
+    }
+  ]
+}

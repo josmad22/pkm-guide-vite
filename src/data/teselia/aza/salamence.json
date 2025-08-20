@@ -1,0 +1,16 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TERREMOTO → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Llamarada → Chandelure usa Truco para intercambiar objeto, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

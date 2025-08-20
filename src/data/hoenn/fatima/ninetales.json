@@ -1,0 +1,16 @@
+{
+  "id": "ninetales",
+  "name": "Ninetales",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "ELIGE TU MISMO",
+  "tricks": [
+    {
+      "detail": "Ahorra Recursos→ cambia a Chandelure y usa Truco, bloquea Poder Oculto, Excadrill pone Trampa Rocas, Scrafty + 2.",
+      "variant": []
+    },
+    {
+      "detail": "Versión Rápida → Cola Trampa Rocas, cambia a Chandelure y usa Truco, bloquea Poder Oculto, Scrafty +2",
+      "variant": []
+    }
+  ]
+}

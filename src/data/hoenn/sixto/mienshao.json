@@ -1,0 +1,16 @@
+{
+  "id": "mienshao",
+  "name": "Mienshao",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Patada Salto Alta → cambia a Metagross y come Roca Afilada, luego cambia a Chandelure contra Excadrill, usa Truco para bloquear en Terremoto, entra Cloyster +6. / Todo con Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "Contra Excadrill → usa Truco para bloquear en Terremoto, entra Cloyster +6. / Todo con Carámbano.",
+      "variant": []
+    }
+  ]
+}

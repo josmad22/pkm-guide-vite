@@ -1,0 +1,62 @@
+{
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza TERREMOTO, cambiar a Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Si utiliza GIRO BOLA, cambiar a Chandelure",
+      "variant": [
+        {
+          "detail": "Si cambia a INFERNAPE o SALAMENCE, utilizar Truco para bloquear en Puño Trueno o Terremoto, luego cambiar a Excadrill 4+2",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a ROTOM, cambiar a Excadrill 4+2",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a LUCARIO, utilizar Truco para bloquear en Bola Sombra, luego cambiar a Scrafty +2",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a MEDICHAM, cambiar a Chandelure y utilizar Truco, luego cambiar a Scrafty 4+2 + Ataque X / Paliza para matarlo",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a HAXORUS, utilizar Trampa Rocas, luego Chandelure 4+0 / Lanzallamas para matar a todo el equipo",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a ROTOM, cambiar a Chandelure 4+0 / Lanzallamas para matar a todo el equipo",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a LUCARIO, cambia a Chandelure utilizar Truco y luego cambiar a Scrafty +2",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a CACTURNE, cambiar a Chandelure",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "NO SE RETIRA / BRONZONG, utilizar Lanzallamas para forzar el cambio y ver quién entra:",
+      "variant": [
+        {
+          "detail": "Si cambia a ROTOM, cambiar a Excadrill 4+2",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a MAGMORTAR, cambiar a Excadrill, luego cambiar a Chandelure y utilizar Truco para bloquear en Rayo, luego cambiar a Excadrill 4+2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

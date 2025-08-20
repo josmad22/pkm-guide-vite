@@ -1,0 +1,51 @@
+{
+  "id": "serperior",
+  "name": "Serperior",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "REGISTEEL: observa el objeto.",
+      "variant": [
+        {
+          "detail": "Baya Zidra/Atania: coloca Trampa Rocas y entra Excadrill +4+2.",
+          "variant": []
+        },
+        {
+          "detail": "Cinta Experto: entra Excadrill +4+2.",
+          "variant": []
+        },
+        {
+          "detail": "GAFAS ELEGIDAS: entra Excadrill +2+2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Poder Oculto: cambia a Chandelure.",
+      "variant": [
+        {
+          "detail": "Si no se retira, usa Lanzallamas para derrotarlo. Luego, si entra Milotic o Wailord, entra Poliwrath +6+2.",
+          "variant": []
+        },
+        {
+          "detail": "Si aparece Registeel frente a Chandelure: usa Truco.",
+          "variant": [
+            {
+              "detail": "Terremoto, entra Excadrill +4+2.",
+              "variant": []
+            },
+            {
+              "detail": "Si entra Wailord, entra Poliwrath +6+4.",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Lluevehojas: usa Truco para recuperar el objeto, luego coloca Trampa Rocas y sacrifica al Pokémon. Después entra Chandelure y usa Lanzallamas para debilitarlo (si entra Milotic), entonces entra Poliwrath +6+2 (Falta probar)",
+      "variant": []
+    }
+  ]
+}

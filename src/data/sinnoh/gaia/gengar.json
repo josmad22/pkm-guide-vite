@@ -1,0 +1,32 @@
+{
+  "id": "gengar",
+  "name": "Gengar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "RHYPERIOR / GOLEM + BAYA → Entra Excadrill Trampa Rocas, Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "RHYPERIOR + RESTOS → Excadrill +6 y +2.",
+      "variant": []
+    },
+    {
+      "detail": "RHYPERIOR + VIDASFERA → Cloyster +6.",
+      "variant": []
+    },
+    {
+      "detail": "NIDOKING → Cloyster +6.",
+      "variant": []
+    },
+    {
+      "detail": "NO CAMBIA / ENCIERRA RAYO→ Excadrill, Trampa Rocas 6+2 / Cabezahierro para Gengar.",
+      "variant": []
+    },
+    {
+      "detail": "Cambia repentinamente a Rhyperior Sacrifica a metagross y entra chandelure con Truco y sigue los pasos de arriba.",
+      "variant": []
+    }
+  ]
+}

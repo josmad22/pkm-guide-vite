@@ -1,0 +1,24 @@
+{
+  "id": "scizor",
+  "name": "Scizor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "FUERZA BRUTA → truco para encerrar en robo, entra scrafty +3 (A Bocajarro mata ah Scizor, Paliza mata a Kingler)",
+      "variant": []
+    },
+    {
+      "detail": "MORDISCO → usa Lanzallamas para debilitar, entra Drapion, Scrafty +3 (Paliza mata a Ferrothorn, A Bocajarro mata a Drapion)",
+      "variant": []
+    },
+    {
+      "detail": "PICADURA, CAMBIA A KINGLER → usa Truco para bloquear Kingler, Poliwrath +6+2",
+      "variant": []
+    },
+    {
+      "detail": "FLYGON/GASTRODON → truco para encerrar en Terremoto, Cloyster +4 (Carámbano mata a Kabutops). Si encierras en Hidrobomba, Poliwrath +6+2",
+      "variant": []
+    }
+  ]
+}

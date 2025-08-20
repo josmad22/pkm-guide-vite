@@ -1,0 +1,12 @@
+{
+  "id": "gastrodon",
+  "name": "Gastrodon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Usar Truco para bloquear en Terremoto, cambiar a Cloyster 6 / Carámbano para matar a Chandelure",
+      "variant": []
+    }
+  ]
+}

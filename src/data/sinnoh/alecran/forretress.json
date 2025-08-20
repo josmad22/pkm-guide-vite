@@ -1,0 +1,16 @@
+{
+  "id": "forretress",
+  "name": "Forretress",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO PARA BLOQUEAR A FLYGON, ELIGE SEGÚN LA SITUACIÓN",
+  "tricks": [
+    {
+      "detail": "AHORRAS TIEMPO → Excadrill +4+2 (Terremoto para matar a Skuntank)",
+      "variant": []
+    },
+    {
+      "detail": "AHORRAS DINERO, PERO PIERDES TIEMPO → Excadrill pone Trampa Rocas, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

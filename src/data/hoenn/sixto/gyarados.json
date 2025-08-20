@@ -1,0 +1,45 @@
+{
+  "id": "gyarados",
+  "name": "Gyarados",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "LANZA PUÑO TRUENO",
+  "tricks": [
+    {
+      "detail": "Si falla, no intentes más, cambia directo a Cloister +6 // Mata todo con Carámbano",
+      "variant": []
+    },
+    {
+      "detail": "No lo mató, Puño Trueno y fíjate quién sale después.",
+      "variant": [
+        {
+          "detail": "Si sale Primeape: Chandelure usa Especial X Usa Lanzallamas para barrer",
+          "variant": []
+        },
+        {
+          "detail": "Si sale Golurk: cambia a Scrafty, luego a Chandelure, usa Truco para bloquear Puño Sombra, Scrafty +3. (Si tienes miedo de un crítico en el +2 curate con Raíz Energía) Usa Paliza para matar a Hydreigon.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "No lo mató y está quemado --> Chandelure usa Truco para cambiar objeto, Cloister +6 y 1 defensa X. Mata todo con Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "Lo mató, sale Electivire --> cambia a Chandelure, usa Truco para bloquear Voltio, luego Excadrill pone Trampa Rocas 4+2.",
+      "variant": []
+    },
+    {
+      "detail": "Lo mató, sale Excadrill --> cambia a Cloyster , luego a Metagross, usa Truco para bloquear Terremoto y saca a Cloyster +4.",
+      "variant": []
+    },
+    {
+      "detail": "Lo mató, sale Garchomp --> cambia a Excadrill, luego a Chandelure, usa Truco para bloquear Terremoto, Cloyster +6. Mata todo con Carámbano menos Metagross.",
+      "variant": []
+    },
+    {
+      "detail": "Lo mató, sale Darmanitan--> Chandelure Usa Especial X. Usa Lanzallamas para avanza",
+      "variant": []
+    }
+  ]
+}

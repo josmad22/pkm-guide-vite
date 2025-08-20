@@ -1,0 +1,16 @@
+{
+  "id": "walrein",
+  "name": "Walrein",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Metagross, cambia a Chandelure y usa Lanzallamas para debilitarlo. Si luego entra Seaking o Milotic, entra Poliwrath +6+2 // Usa A Bocajarro para eliminar a Milotic o Dewgong. // Si Poliwrath resulta congelado, utiliza Curación Total para recuperarlo.",
+      "variant": []
+    },
+    {
+      "detail": "Milotic, entra Poliwrath +6+2 // Usa A Bocajarro para eliminar a Milotic o Dewgong.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sigilyph",
+  "name": "Sigilyph",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "NO SE RETIRA / RAICHU→ Truco bloquea Snorlax, Scrafty +2 / Paliza para eliminar Raichu, A Bocajarro para eliminar Snorlax",
+      "variant": []
+    },
+    {
+      "detail": "SNORLAX → Scrafty +2 / Puede aprovechar +1 Puño Drenaje para recuperar vida / Paliza para Raichu y Cincino",
+      "variant": []
+    },
+    {
+      "detail": "Si Scrafty es derrotado por Snorlax, Chandelure usa Truco para bloquear Triturar, revive Scrafty, Scrafty +2 / Paliza para eliminar",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "entei",
+  "name": "Entei",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "ENTEI NO SE RETIRA → Usa Truco para bloquear Roca Afilada, luego Scrafty +3 // A Bocajarro para eliminar Metagross con Globo Helio // Dos Puño Drenaje para eliminar Metagross sin Globo Helio (Prestar atención al objeto de Metagross)",
+      "variant": [
+        {
+          "detail": "METAGROSS → Usa Truco para bloquear Terremoto, luego Excadrill coloca Trampa Rocas +4+2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

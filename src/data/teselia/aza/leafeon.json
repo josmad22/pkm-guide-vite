@@ -1,0 +1,12 @@
+{
+  "id": "leafeon",
+  "name": "Leafeon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "NO SE RETIRA → Usa Lanzallamas para eliminar, observa el cambio",
+      "variant": []
+    }
+  ]
+}

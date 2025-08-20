@@ -1,0 +1,12 @@
+{
+  "id": "rotom-lavadora",
+  "name": "Rotom Lavadora",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Poliwrath, luego a Chandelure y espera Voltiocambio",
+  "tricks": [
+    {
+      "detail": "Umbreon, Scrafty +2 // Si Paliza queda bloqueado y entra Spiritomb, usa objeto para recuperarse hasta que pasen los turnos de Maldición",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "noctowl",
+  "name": "Noctowl",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A SCRAFTY +1 + RAÍZ ENERGÍA PARA CURARSE Y LUEGO +1",
+  "tricks": [
+    {
+      "detail": "Puño Drenaje + Paliza para matar a Noctowl, Paliza para matar a Ninetales",
+      "variant": []
+    }
+  ]
+}

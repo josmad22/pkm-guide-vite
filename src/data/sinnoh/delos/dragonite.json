@@ -1,0 +1,16 @@
+{
+  "id": "dragonite",
+  "name": "Dragonite",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO Y OBSERVA OBJETO",
+  "tricks": [
+    {
+      "detail": "Si tiene COLMILLO DRAGÓN, cambiar a Chandelure 4 + 0 / Lanzallamas para matar a todo el equipo.",
+      "variant": []
+    },
+    {
+      "detail": "Si tiene Restos, cambiar a Chandelure para bloquear a Empoleon, luego cambiar a Poliwrath 6+2",
+      "variant": []
+    }
+  ]
+}

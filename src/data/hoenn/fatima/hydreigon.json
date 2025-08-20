@@ -1,0 +1,33 @@
+{
+  "id": "hydreigon",
+  "name": "Hydreigon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE Y TRUCO",
+  "tricks": [
+    {
+      "detail": "VIDASFERA + PULSO UMBRÍO→ Scrafty +3 veces. usa Puño Drenaje para matar a Cloyster.",
+      "variant": []
+    },
+    {
+      "detail": "VIDASFERA + PULSO DRAGÓN→ sacrificar, Excadrill +4 +2, Cuando Excadrill tiene menos del 47.2% de vida durante el boost, trata de curarlo antes de seguir subiendo.",
+      "variant": []
+    },
+    {
+      "detail": "PAÑUELO ELEGIDO → Poliwrath 6+2+2 (Defensa Especial X). Si usa Puño Hielo para matar a Hydreigon, Lucario o Mismagius, y recibe un crítico psíquico, usa baya para curar y sigue presionando al equipo.",
+      "variant": []
+    },
+    {
+      "detail": "UMBREON → cambia a Scrafty.",
+      "variant": [
+        {
+          "detail": "Pañuelo elegido→ Scrafty +2, Si Jellicent entra con Pañuelo, usa baya o espera a que pase maldición.",
+          "variant": []
+        },
+        {
+          "detail": "Contra Rotom → cambia a Metagross, usa Truco para bloquear Hidrobomba, luego Poliwrath 6+2.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

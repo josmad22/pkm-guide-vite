@@ -1,0 +1,58 @@
+{
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO (EXCADRILL DEBE TENER LA VIDA COMPLETA)",
+  "tricks": [
+    {
+      "detail": "Terremoto, cambia a Excadrill 4+2",
+      "variant": []
+    },
+    {
+      "detail": "Casco Dentado y utiliza Giro Bola, cambia a Chandelure",
+      "variant": [
+        {
+          "detail": "Si cambia a Chandelure frente a tu Chandelure, utiliza Truco",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Umbreon, cambia a Scrafty 3",
+          "variant": []
+        },
+        {
+          "detail": "Si usa Bola Sombra, déjalo morir, luego saca a Scrafty 3 / A Bocajarro para matar a Gastrodon (aún en prueba)",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Excadrill frente a tu Chandelure, utiliza Truco para bloquear Terremoto, cambia a Cloyster 6 / Carámbano para matar a Blissey",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Garchomp frente a tu Chandelure, cambia a Cloyster 4 / Carámbano para matar a Chandelure",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lodo Negro y utiliza Giro Bola, cambia a Chandelure frente a Garchomp, utiliza Truco para bloquear Terremoto, cambia a Excadrill 4+2 / Terremoto para matar a Clefable",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp revisar objeto:",
+      "variant": [
+        {
+          "detail": "Si tiene Vidasfera, cambia a Excadrill 4+2, Terremoto para matar a Clefable",
+          "variant": []
+        },
+        {
+          "detail": "Si tiene Pañuelo, cambia a Cloyster 6, Carámbano para matar a Chandelure",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "EXCADRILL, cambia a Cloyster +6 / Carámbano para matar a Jellicent",
+      "variant": []
+    }
+  ]
+}

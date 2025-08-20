@@ -1,0 +1,16 @@
+{
+  "id": "liepard",
+  "name": "Liepard",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TAJO UMBRÍO → Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "GARCHOMP → Cloyster +6 Hielo para eliminar todos los objetivos",
+      "variant": []
+    }
+  ]
+}

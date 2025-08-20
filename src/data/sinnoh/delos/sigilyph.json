@@ -1,0 +1,16 @@
+{
+  "id": "sigilyph",
+  "name": "Sigilyph",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO PARA BLOQUEAR ONDA ÍGNEA / SOFOCO (ELECCIÓN PROPIA)",
+  "tricks": [
+    {
+      "detail": "RÁPIDO PERO ARRIESGADO: Scrafty usa objeto para aumentar Defensa Especial +3 / Paliza para eliminar Absol, Drapion y Raichu; si Metagross cae (quemado), Scrafty debe ayudar a revivirlo (eliminar el estado)",
+      "variant": []
+    },
+    {
+      "detail": "LENTO PERO SEGURO: Chandelure usa objeto para aumentar Defensa Especial, luego usa Truco para intercambiar objeto, Scrafty +3 / Paliza para eliminar Absol, Drapion y Raichu; si Metagross cae (quemado), Chandelure debe ayudar a revivirlo (eliminar el estado)",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "omastar",
+  "name": "Omastar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "STEELIX → Cloyster +6 (Carámbano para matar a todos)",
+      "variant": []
+    },
+    {
+      "detail": "GASTRODON / FLYGON → Cloyster +4 (Carámbano para Debilitar a Omastar y Surf para Escavalier)",
+      "variant": []
+    }
+  ]
+}

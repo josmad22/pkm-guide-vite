@@ -18,15 +18,16 @@
     },
     {
       "detail": "Slowbro → elegir según situación.",
-      "variant": []
-    },
-    {
-      "detail": "Para quitar velocidad → pon Roca Afilada, entra Aggron, luego Cloister 4+ , usa Surf para matar a Conkeldurr.",
-      "variant": []
-    },
-    {
-      "detail": "Para ahorrar → pon Trampa Rocas, entra Aggron, luego Cloister 4, usa Surf para matar a Conkeldurr.",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Para quitar velocidad → pon Roca Afilada, entra Aggron, luego Cloister 4+ , usa Surf para matar a Conkeldurr.",
+          "variant": []
+        },
+        {
+          "detail": "Para ahorrar → pon Trampa Rocas, entra Aggron, luego Cloister 4, usa Surf para matar a Conkeldurr.",
+          "variant": []
+        }
+      ]
+    }    
   ]
 }

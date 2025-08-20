@@ -1,0 +1,32 @@
+{
+  "id": "emolga",
+  "name": "Emolga",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco para bloquear Rayo, cambia a Excadrill y coloca Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "EMOLGA NO SE RETIRA → Excadrill +4+2",
+      "variant": []
+    },
+    {
+      "detail": "SERPERIOR → Cambia a Chandelure y usa Lanzallamas para eliminar, luego ajusta según la siguiente aparición:",
+      "variant": []
+    },
+    {
+      "detail": "Houndoom, cambia a Scrafty, luego a Chandelure y usa Truco:",
+      "variant": []
+    },
+    {
+      "detail": "Triturar, Scrafty +4 / A Bocajarro contra Metagross",
+      "variant": []
+    },
+    {
+      "detail": "Milotic, Poliwrath +6+4",
+      "variant": []
+    },
+    {
+      "detail": "METAGROSS → Cambia a Chandelure y usa Truco para bloquear Terremoto, luego Excadrill +4+2",
+      "variant": []
+    }
+  ]
+}

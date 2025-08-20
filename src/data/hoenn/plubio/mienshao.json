@@ -1,0 +1,12 @@
+{
+  "id": "mienshao",
+  "name": "Mienshao",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquea a Registeel, Luego entra Excadrill +2+2.",
+      "variant": []
+    }
+  ]
+}

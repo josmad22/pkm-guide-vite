@@ -1,0 +1,16 @@
+{
+  "id": "escavalier",
+  "name": "Escavalier",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Taladradora → Cloyster +4. / Se puede eliminar a todo con Carámbano.",
+      "variant": []
+    },
+    {
+      "detail": "Megacuerno → Chandelure usa Lanzallamas para debilitar, entra Flygon, Cloyster +4. / Se puede eliminar a todo con Carámbano.",
+      "variant": []
+    }
+  ]
+}

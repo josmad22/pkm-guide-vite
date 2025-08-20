@@ -1,0 +1,12 @@
+{
+  "id": "sharpedo",
+  "name": "Sharpedo",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "USA TRUCO",
+  "tricks": [
+    {
+      "detail": "bloquear Terremoto, entra Cloyster 6. Todo con Carámbano.",
+      "variant": []
+    }
+  ]
+}

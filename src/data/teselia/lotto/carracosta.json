@@ -1,0 +1,7 @@
+{
+  "id": "carracosta",
+  "name": "Carracosta",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco bloquea a Golurk → Cloyster +4.",
+  "tricks": []
+}

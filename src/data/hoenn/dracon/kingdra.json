@@ -1,0 +1,44 @@
+{
+  "id": "kingdra",
+  "name": "Kingdra",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Aggron → Colocar Trampa Rocas.",
+      "variant": [
+        {
+          "detail": "Si no se cambia → Sacar a Chandelure con +4 Ataque Especial. / Usar Bola Sombra para barrer al equipo.",
+          "variant": []
+        },
+        {
+          "detail": "Si sale Kingdra → Cambiar a Poliwrath, luego a Metagross para usar Truco y bloquear en Surf, y finalmente usar a Poliwrath +6+2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Surf → Colocar Trampa Rocas, luego cambiar a Poliwrath y usar Tambor.",
+      "variant": [
+        {
+          "detail": "Kingdra no se cambia → Usar poción de Velocidad y barrer.",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Eelektross → Cambiar a Chandelure, esperar a que use Voltio Cambio y observar qué envía.",
+          "variant": [
+            {
+              "detail": "Si entra Feraligatr → Usar Truco para bloquear en Cascada, luego sacar a Poliwrath +6+2.",
+              "variant": []
+            },
+            {
+              "detail": "Si vuelve a entrar Kingdra → Usar Poliwrath +6+2.",
+              "variant": []
+            }
+          ]
+        }        
+      ]
+    }
+   
+  ]
+}

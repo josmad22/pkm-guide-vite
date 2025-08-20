@@ -1,0 +1,12 @@
+{
+  "id": "houndoom",
+  "name": "Houndoom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Utilizar Truco para bloquear a Ludicolo, luego cambiar a Poliwrath 6+2 / Curar la parálisis / Dos Terremotos(obligatorios) eliminan a Ludicolo",
+      "variant": []
+    }
+  ]
+}

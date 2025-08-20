@@ -1,0 +1,7 @@
+{
+  "id": "sharpedo",
+  "name": "Sharpedo",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Truco bloquea Terremoto, Cloyster +4 / Surf para Bisharp",
+  "tricks": []
+}

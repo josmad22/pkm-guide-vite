@@ -6,48 +6,51 @@
   "tricks": [
     {
       "detail": "Metagross (Vidasfera) → Cambia a Chandelure",
-      "variant": []
-    },
-    {
-      "detail": "No se retira → Bola Sombra para eliminar, observa el siguiente movimiento👇🏻",
-      "variant": []
-    },
-    {
-      "detail": "Golem → Cambia a Metagross, se sacrifica, entra Chandelure y usa Truco para bloquear Terremoto, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "Machamp → Cambia a Scrafty, luego a Chandelure y usa Truco para bloquear Roca Afilada, Excadrill +4+2",
-      "variant": []
-    },
-    {
-      "detail": "Muk → Excadrill +4+2",
       "variant": [
+        {
+          "detail": "No se retira → Bola Sombra para eliminar, observa el siguiente movimiento👇🏻",
+          "variant": [
+            {
+              "detail": "Golem → Cambia a Metagross, se sacrifica, entra Chandelure y usa Truco para bloquear Terremoto, Cloyster +4",
+              "variant": []
+            },
+            {
+              "detail": "Machamp → Cambia a Scrafty, luego a Chandelure y usa Truco para bloquear Roca Afilada, Excadrill +4+2",
+              "variant": []
+            },
+            {
+              "detail": "Muk → Excadrill +4+2",
+              "variant": []
+            }
+          ]
+        },
         {
           "detail": "Contra Golem / Rhyperior → Truco para bloquear Terremoto, Cloyster +4",
           "variant": []
         }
       ]
-    },
+    }, 
     {
       "detail": "Metagross (Restos) → Cambia a Chandelure",
-      "variant": []
-    },
-    {
-      "detail": "No se retira → Llamarada para eliminar, entra Blastoise, Poliwrath +6+2",
-      "variant": []
-    },
-    {
-      "detail": "Machamp → Truco",
-      "variant": []
-    },
-    {
-      "detail": "Vendetta, Scrafty +3",
-      "variant": []
-    },
-    {
-      "detail": "Blastoise, Poliwrath +6+2",
-      "variant": []
+      "variant": [
+        {
+          "detail": "No se retira → Llamarada para eliminar, entra Blastoise, Poliwrath +6+2",
+          "variant": []
+        },
+        {
+          "detail": "Machamp → Truco",
+          "variant": [
+            {
+              "detail": "Vendetta, Scrafty +3",
+              "variant": []
+            },
+            {
+              "detail": "Blastoise, Poliwrath +6+2",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
       "detail": "Golem → Cloyster +4",
@@ -59,33 +62,35 @@
     },
     {
       "detail": "Machamp → Cambia a Chandelure",
-      "variant": []
-    },
-    {
-      "detail": "No se retira → Truco",
-      "variant": []
-    },
-    {
-      "detail": "Blastoise, Poliwrath +6+2",
       "variant": [
         {
-          "detail": "Si sigue en campo, usa Lanzallamas para debilitarlo, entra Blastoise, Poliwrath +6+2",
-          "variant": []
+          "detail": "No se retira → Truco",
+          "variant": [
+            {
+              "detail": "Blastoise, Poliwrath +6+2",
+              "variant": []
+            },
+            {
+              "detail": "Si sigue en campo, usa Lanzallamas para debilitarlo, entra Blastoise, Poliwrath +6+2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Eelektross → Truco",
+          "variant": [
+            {
+              "detail": "Rayo, Excadrill +4+2",
+              "variant": []
+            },
+            {
+              "detail": "Blastoise, Poliwrath +6+2",
+              "variant": []
+            }
+          ]
         }
       ]
-    },
-    {
-      "detail": "Eelektross → Truco",
-      "variant": []
-    },
-    {
-      "detail": "Rayo, Excadrill +4+2",
-      "variant": []
-    },
-    {
-      "detail": "Blastoise, Poliwrath +6+2",
-      "variant": []
-    },
+    },    
     {
       "detail": "Terremoto → Cloyster +6 con píldora de critico",
       "variant": []
@@ -96,23 +101,25 @@
     },
     {
       "detail": "Lanzallamas→ Revisar objeto",
-      "variant": []
-    },
-    {
-      "detail": "Vidasfera → Cambia a Chandelure y usa Truco para intercambiar objeto, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "Gema Dragón → Chandelure usa Poder Oculto para eliminar, entra",
-      "variant": []
-    },
-    {
-      "detail": "Blastoise, Poliwrath +6+2",
-      "variant": []
-    },
-    {
-      "detail": "Aggron : Cloyster +4 + Especial X / Hitmontop Surf",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Vidasfera → Cambia a Chandelure y usa Truco para intercambiar objeto, Cloyster +4",
+          "variant": []
+        },
+        {
+          "detail": "Gema Dragón → Chandelure usa Poder Oculto para eliminar, entra",
+          "variant": [
+            {
+              "detail": "Blastoise, Poliwrath +6+2",
+              "variant": []
+            },
+            {
+              "detail": "Aggron : Cloyster +4 + Especial X / Hitmontop Surf",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }   
   ]
 }

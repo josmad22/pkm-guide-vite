@@ -1,0 +1,67 @@
+{
+  "id": "dusknoir",
+  "name": "Dusknoir",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "LANZALLAMAS (Zoroark disfrazado)→ Cambiar a Chandelure y usar Truco para intercambiar objetos, luego Scrafty +2. / Usar Paliza + Puño Drenaje para vencer a Hydreigon, y A Bocajarro contra Alomomola. Recuerda usar Puño Drenaje contra este Zoroark disfrazado de Dusknoir",
+      "variant": []
+    },
+    {
+      "detail": "Usa TERREMOTO → Revisa qué objeto lleva",
+      "variant": [
+        {
+          "detail": "Restos → Excadrill +4+2 / cabeza froslass",
+          "variant": []
+        },
+        {
+          "detail": "Cinta Experto → Cloyster +4",
+          "variant": []
+        },
+        {
+          "detail": "Vidasfera → Cloyster +4. / Todo se elimina con Carámbano. Si aparece Lucario, cambiar a Chandelure y usar Truco para bloquear Triturar, luego Scrafty +3. / Usar Paliza para eliminar a Houndoom.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Puño Fuego → Colocar Trampa Rocas, luego Scrafty +2",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon → Ver el objeto:",
+      "variant": [
+        {
+          "detail": "Vidasfera → Cambiar a Chandelure y usar Truco, luego Scrafty +3. Usar Paliza para eliminar a Regice.",
+          "variant": []
+        },
+        {
+          "detail": "Pañuelo Elegido → Colocar Trampa Rocas, cambiar a Chandelure y usar Truco:",
+          "variant": [
+            {
+              "detail": "Houndoom → Scrafty +2 + Defensa Especial",
+              "variant": []
+            },
+            {
+              "detail": "Hydreigon no se retira → Poliwrath +6+2 + Defensa Especial",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },   
+    {
+      "detail": "Lucario → Cambiar a Chandelure y usar Truco, luego Scrafty +3. Usar Paliza para vencer a Regice.",
+      "variant": []
+    },
+    {
+      "detail": "SEGUNDO DUSKNOIR CON VIDASFERA → Cloyster +4. / Todo se elimina con Carámbano. Si aparece Spiritomb, barrer el equipo directamente, ¡no uses Rompecoraza!",
+      "variant": []
+    },
+    {
+      "detail": "SEGUNDO DUSKNOIR CON RESTOS → Cloyster +6. Si entra Lucario, cambiar a Chandelure y usar Truco para bloquear Triturar, luego Scrafty +3. / Usar a Bocajarro para vencer a Alomomola.",
+      "variant": []
+    }
+  ]
+}

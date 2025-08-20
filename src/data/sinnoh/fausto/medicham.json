@@ -1,0 +1,16 @@
+{
+  "id": "medicham",
+  "name": "Medicham",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE Y UTILIZAR TRUCO",
+  "tricks": [
+    {
+      "detail": "PAÑUELO ELEGIDO, cambiar a Scrafty 4 o 2 + Atq X / Paliza para matar a todo el equipo",
+      "variant": []
+    },
+    {
+      "detail": "VIDASFERA, cambiar a Scrafty 2 / Paliza + Puño Drenaje para matar a Steelix, Paliza para matar a Cacturne. Si Scrafty muere por crítico, cambiar a Metagross y utilizar Truco para bloquear en Terremoto, luego cambiar a Cloyster 4 / Carámbano para matar a Magmar.",
+      "variant": []
+    }
+  ]
+}

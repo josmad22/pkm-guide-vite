@@ -1,0 +1,16 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "SALPICAR: entra Poliwrath +6+0. / Dos Terremotos eliminan a Donphan, A Bocajarro elimina a Whiscash. // Si por sorpresa usa Poder Oculto, entra Excadrill +4+0.",
+      "variant": []
+    },
+    {
+      "detail": "RHYPERIOR: entra Excadrill +6+2. / Cabezahierro para Gengar",
+      "variant": []
+    }
+  ]
+}

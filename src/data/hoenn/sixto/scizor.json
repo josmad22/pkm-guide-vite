@@ -1,0 +1,16 @@
+{
+  "id": "scizor",
+  "name": "Scizor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Si entra Luxray, mete a Excadrill 6+2.",
+      "variant": []
+    },
+    {
+      "detail": "No cambia. Usa Truco para bloquear con Persecución. Scrafty con 4 o 2+ y ataque X para matar a Scizor con A Bocajarro",
+      "variant": []
+    }
+  ]
+}

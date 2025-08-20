@@ -1,0 +1,68 @@
+{
+  "id": "lanturn",
+  "name": "Lanturn",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Registeel, entra Excadrill +4+2",
+      "variant": []
+    },
+    {
+      "detail": "Milotic, entra Poliwrath +6+2. Puede usar A Bocajarro para eliminar a Milotic.",
+      "variant": [
+        {
+          "detail": "Si el rival cambia a Togekiss después del Tambor, usa A Bocajarro para eliminarlo. Luego si aparece Vileplume, cambia a Scrafty y observa el movimiento:",
+          "variant": [
+            {
+              "detail": "Si usa Psíquico, Scrafty +3",
+              "variant": []
+            },
+            {
+              "detail": "Si lanza Bomba Lodo, entra Excadrill +4+2",
+              "variant": []
+            }
+          ]
+        }        
+      ]
+    },
+    {
+      "detail": "Ludicolo, entra Poliwrath +6+2.",
+      "variant": []
+    },
+    {
+      "detail": "Rayo, entra Excadrill +4+2. Luego usa Terremoto para eliminar a Ludicolo / Roserade.",
+      "variant": []
+    },
+    {
+      "detail": "Casco Dentado + Escaldar, entra Poliwrath +6+2.",
+      "variant": []
+    },
+    {
+      "detail": "Baya Ziuela + Escaldar, entra Poliwrath +6+2. Puede usar A Bocajarro para eliminar a Milotic.",
+      "variant": []
+    },
+    {
+      "detail": "Restos + Escaldar, observa si Escaldar causa quemadura o golpe crítico:",
+      "variant": [
+        {
+          "detail": "Si causa quemadura o crítico, entra Poliwrath +6+2.",
+          "variant": []
+        },
+        {
+          "detail": "Si no hay quemadura ni crítico, cambia a Chandelure y observa:",
+          "variant": [
+            {
+              "detail": "Si Lanturn no se retira, entra Poliwrath +6+2",
+              "variant": []
+            },
+            {
+              "detail": "Si aparece Registeel, entra Excadrill +4+2",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

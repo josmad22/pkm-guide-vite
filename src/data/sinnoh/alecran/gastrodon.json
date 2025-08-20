@@ -1,0 +1,12 @@
+{
+  "id": "gastrodon",
+  "name": "Gastrodon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TERREMOTO → Cloyster +4 (Carámbano mata a Kabutops y Omastar)",
+      "variant": []
+    }
+  ]
+}

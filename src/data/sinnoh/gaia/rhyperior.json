@@ -1,0 +1,48 @@
+{
+  "id": "rhyperior",
+  "name": "Rhyperior",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO Y OBSERVA EL OBJETO",
+  "tricks": [
+    {
+      "detail": "Baya → Excadrill Trampa Rocas, Cloyster +4 // Surf para matar a Rhyperior.",
+      "variant": []
+    },
+    {
+      "detail": "Restos → Depende del daño recibido:",
+      "variant": []
+    },
+    {
+      "detail": "64%-75% → Excadrill Trampa Rocas, Cloyster +2. // Surf para matar a Rhyperior.",
+      "variant": []
+    },
+    {
+      "detail": "85% o más → Excadrill 6+2 / Gengar CabezaHierro",
+      "variant": []
+    },
+    {
+      "detail": "Golpe crítico y mata a Metagross → Excadrill Trampa Rocas, +6+2",
+      "variant": []
+    },
+    {
+      "detail": "Golpe crítico y deja a Metagross herido → Excadrill Trampa Rocas, Cloyster +2.",
+      "variant": []
+    },
+    {
+      "detail": "Vidasfera → Excadrill +6+2 +Trampa Rocas",
+      "variant": []
+    },
+    {
+      "detail": "Si Excadrill muere por Tangrowth→ Entra Chandelure, revive a Excadrill y lo cura por encima del 80%. // Luego sacrifica a Metagross, Excadrill +2 +0. // Prioriza movimientos fuertes",
+      "variant": []
+    },
+    {
+      "detail": "Banda Focus → Cloyster +6",
+      "variant": []
+    },
+    {
+      "detail": "Casco Dentado → Excadrill +6+2",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Chandelure y observa el movimiento:",
+  "tricks": [
+    {
+      "detail": "Lanzallamas ➝ cambia a Metagross para que reciba el daño de Voltio Cambio, entra Bisharp / Aggron, coloca Trampa Rocas y observa si Metagross ha sido debilitado:",
+      "variant": [
+        {
+          "detail": "Si no fue debilitado ➝ entra Chandelure con +4+0 y barre con Bola Sombra.",
+          "variant": []
+        },
+        {
+          "detail": "Si fue debilitado ➝ entra Scrafty, luego cambia a Chandelure con +4+0 y barre con Bola Sombra.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Puño Fuego ➝ usa Truco para bloquear Voltio Cruel, luego entra Excadrill con +4+2.",
+      "variant": []
+    }
+  ]
+}

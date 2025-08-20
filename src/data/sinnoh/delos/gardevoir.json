@@ -1,0 +1,25 @@
+{
+  "id": "gardevoir",
+  "name": "Gardevoir",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si utiliza Trueno, cambiar a Excadrill y utiliza Trampa Rocas 4+2, si cambia a Hydreigon, mirar abajo qué hacer.",
+      "variant": [
+        {
+          "detail": "Si cambia a Hydreigon, cambiar a Chandelure y utilizar Bola Sombra, luego cambiar a Scrafty para enfrentar a Gardevoir, Scrafty 2. Puño Drenaje + Paliza para matar a Gardevoir y Ninetales",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Gallade, utilizar Truco otra vez, luego cambiar a Chandelure y utilizar Truco para bloquear Tajo Umbrío, luego cambiar a Scrafty +2. Usar Paliza para matar a Gardevoir y Ninetales",
+          "variant": []
+        },
+        {
+          "detail": "Si cambia a Bronzong, mete a Hydreigon con Trampa Rocas, luego cambiar a Chandelure y utilizar Bola Sombra, luego cambiar a Scrafty para matar a Decidueye +2. / A Bocajarro para matar a Decidueye, Paliza para matar a Ninetales (A Confirmar)",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

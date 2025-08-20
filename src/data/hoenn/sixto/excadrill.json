@@ -1,0 +1,16 @@
+{
+  "id": "excadrill",
+  "name": "Excadrill",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Revisa si lleva Globo Helio.",
+  "tricks": [
+    {
+      "detail": "TIENE GLOBO: Cambia a Excadrill y luego a Chandelure, usa Truco para bloquear Terremoto, luego Cloyster +6 / Huntail tiene banda focus.",
+      "variant": []
+    },
+    {
+      "detail": "NO TIENE GLOBO: Usa Truco para bloquear Terremoto, luego Cloyster +4",
+      "variant": []
+    }
+  ]
+}

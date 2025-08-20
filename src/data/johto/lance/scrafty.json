@@ -10,11 +10,11 @@
     },
     {
       "detail": "Triturar → Cambiar a Excadrill.",
-      "variant": []
-    },
-    {
-      "detail": "Scrafty no se retira → Colocar Trampa Rocas, usar Protec. Esp., luego entra Poliwrath con +2 en Ataque y +2 en Velocidad; prioriza siempre movimientos de mayor potencia, se requiere la Gema Hielo para asegurar el KO.",
       "variant": [
+        {
+          "detail": "Scrafty no se retira → Colocar Trampa Rocas, usar Protec. Esp., luego entra Poliwrath con +2 en Ataque y +2 en Velocidad; prioriza siempre movimientos de mayor potencia, se requiere la Gema Hielo para asegurar el KO.",
+          "variant": []
+        },
         {
           "detail": "Contra Infernape → Cambiar a Chandelure, usar Truco para bloquear Puño Trueno, luego entra Excadrill, +4 +2 Trampa Rocas",
           "variant": []

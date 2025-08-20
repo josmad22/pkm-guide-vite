@@ -1,0 +1,20 @@
+{
+  "id": "sableye",
+  "name": "Sableye",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Contra Lucario → Scrafty +3. Paliza para matar a Cloyster.",
+      "variant": []
+    },
+    {
+      "detail": "Contra Hydreigon → Chandelure usa Truco para bloquear Pulso Umbrío, luego Scrafty + 3, Si Chandelure muere, usa Puño Drenaje para matar a Cloyster.",
+      "variant": []
+    },
+    {
+      "detail": "Si no se retira → Scrafty +2 veces. Paliza para matar a Cloyster. Gothitelle necesita dos golpes para caer.",
+      "variant": []
+    }
+  ]
+}

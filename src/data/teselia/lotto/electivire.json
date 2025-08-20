@@ -1,0 +1,20 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "METAGROSS → Excadrill coloca Trampa Rocas +4+2",
+      "variant": []
+    },
+    {
+      "detail": "CONKELDURR → Cambia a Chandelure contra Metagross y usa Truco para bloquear Terremoto, luego Excadrill coloca Trampa Rocas +4+2",
+      "variant": []
+    },
+    {
+      "detail": "LANZALLAMAS → Chandelure usa Truco para intercambiar objeto, luego Excadrill coloca Trampa Rocas +4+2",
+      "variant": []
+    }
+  ]
+}

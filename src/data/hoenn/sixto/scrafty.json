@@ -1,0 +1,16 @@
+{
+  "id": "scrafty",
+  "name": "Scrafty",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Si entra Luxray, mete a Excadrill 6+2.",
+      "variant": []
+    },
+    {
+      "detail": "No cambia: usa Truco para bloquear Mordisco, Scrafty +3. Usa a Bocajarro para matar a Scizor.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "whiscash",
+  "name": "Whiscash",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO BLOQUEAR EN TERREMOTO, CAMBIAR A CLOYSTER +4 CON 4 EVS EN DEFENSA (?)",
+  "tricks": [
+    {
+      "detail": "Si temes que Bronzong haga un crítico, utilizar Defensa X",
+      "variant": []
+    },
+    {
+      "detail": "Si Bronzong hace crítico y mata a Cloyster",
+      "variant": []
+    },
+    {
+      "detail": "Cambiar a Chandelure y utilizar Lanzallamas, luego entra Blastoise, luego cambiar a Poliwrath 6+2",
+      "variant": []
+    },
+    {
+      "detail": "Bronzong tiene la habilidad Resistencia al Calor, así que Terremoto puede matarlo",
+      "variant": []
+    }
+  ]
+}

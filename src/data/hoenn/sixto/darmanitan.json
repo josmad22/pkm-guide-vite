@@ -1,0 +1,12 @@
+{
+  "id": "darmanitan",
+  "name": "Darmanitan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Usa Truco, luego Scrafty +3 / Observa tu vida y cúrate si es necesario. Usa Paliza para matar a Hydreigon / Absol.",
+      "variant": []
+    }
+  ]
+}

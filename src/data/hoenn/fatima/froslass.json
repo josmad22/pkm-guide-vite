@@ -1,0 +1,20 @@
+{
+  "id": "froslass",
+  "name": "Froslass",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "BOLA SOMBRA → Scrafty + 3. // Si Paliza queda bloqueado con cuerpo maldito usar danza dragón y curas hasta que se libere la maldición",
+      "variant": []
+    },
+    {
+      "detail": "RAYO → entra Excadrill 4+2.",
+      "variant": []
+    },
+    {
+      "detail": "UMBREON → Scrafty +2. // Si Paliza queda bloqueado con cuerpo maldito usar danza dragón y curas hasta que se libere la maldición",
+      "variant": []
+    }
+  ]
+}

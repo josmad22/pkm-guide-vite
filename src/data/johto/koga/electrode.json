@@ -14,11 +14,21 @@
     },
     {
       "detail": "Rayo → Excadrill 6+2 / para huir de Nidoking, mira abajo 👇🏻",
-      "variant": []
-    },
-    {
-      "detail": "Cambia a Excadrill contra Nidoking → cambia a Chandelure para usar Truco y mira el movimiento: ① si usa Tierra Viva, Cloyster 6 / mátalos a todos con Carambano ② si usa Onda Tóxica, Scrafty 3 / usa Puño Drenaje + A Bocajarro para matar a Skarmory.",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Cambia a Excadrill contra Nidoking → cambia a Chandelure para usar Truco y mira el movimiento:",
+          "variant": [
+            {
+              "detail": "Si usa Tierra Viva, Cloyster 6 / mátalos a todos con Carambano",
+              "variant": []
+            },
+            {
+              "detail": "Si usa Onda Tóxica, Scrafty 3 / usa Puño Drenaje + A Bocajarro para matar a Skarmory.",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }    
   ]
 }

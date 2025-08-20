@@ -1,0 +1,25 @@
+{
+  "id": "banette",
+  "name": "Banette",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "USAR TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "Si sale Hydreigon → cambia a Chandelure y usa Truco.",
+      "variant": [
+        {
+          "detail": "Si Hydreigon se queda, entra Poliwrath y usa Tambor 6+2",
+          "variant": []
+        },
+        {
+          "detail": "Si sale Houndoom, Scrafty +2, juega al aguante (resiste Sofoco): Scrafty usa Ataque",
+          "variant": []
+        }       
+      ]
+    },
+    {
+      "detail": "Si sale Jellicent → Scrafty +2",
+      "variant": []
+    }
+  ]
+}

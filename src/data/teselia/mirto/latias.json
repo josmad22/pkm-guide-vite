@@ -1,0 +1,16 @@
+{
+  "id": "latias",
+  "name": "Latias",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "EXCADRILL → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "CHANDELURE → Cambia a tu Chandelure para luego usar Bola Sombra y eliminar, entra Excadrill, se sacrifica, Metagross usa Truco para bloquear Terremoto, Cloyster +4",
+      "variant": []
+    }
+  ]
+}

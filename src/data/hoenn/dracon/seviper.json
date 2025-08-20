@@ -1,0 +1,25 @@
+{
+  "id": "seviper",
+  "name": "Seviper",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Flygon → Metagross coloca Trampa Rocas, luego entra Cloyster con +6. Si Metagross no logra colocar las rocas, revisa la siguiente situación.",
+      "variant": [
+        {
+          "detail": "Si Metagross cae por un golpe crítico → entra Excadrill con +2 +2, coloca Trampa Rocas. Si mientras Danza Espada, entra Lapras; después entra Poliwrath con +6 +2. ( Lucario con Banda Focus).",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Krookodile → Excadrill con +4 +2 y luego coloca Trampa Rocas.",
+      "variant": []
+    },
+    {
+      "detail": "Metagross → Excadrill con +2 +2 y luego coloca Trampa Rocas.",
+      "variant": []
+    }
+  ]
+}

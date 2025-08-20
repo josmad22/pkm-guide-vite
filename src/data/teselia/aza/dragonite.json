@@ -1,0 +1,16 @@
+{
+  "id": "dragonite",
+  "name": "Dragonite",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Coloca Trampa Rocas, luego sacrifica, entra Chandelure y usa Truco",
+  "tricks": [
+    {
+      "detail": "SURF → Poliwrath 6+2 / No es necesario preocuparse por Volcarona",
+      "variant": []
+    },
+    {
+      "detail": "KROOKODILE → Cloyster +4",
+      "variant": []
+    }
+  ]
+}

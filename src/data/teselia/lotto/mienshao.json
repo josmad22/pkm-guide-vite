@@ -1,0 +1,16 @@
+{
+  "id": "mienshao",
+  "name": "Mienshao",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "GOLURK → Cloyster +4 +Defensa X",
+      "variant": []
+    },
+    {
+      "detail": "CONKELDURR → Coloca Trampa Rocas, luego Chandelure +4+0 / Lanzallamas para limpiar el equipo",
+      "variant": []
+    }
+  ]
+}

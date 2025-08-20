@@ -1,0 +1,16 @@
+{
+  "id": "tentacruel",
+  "name": "Tentacruel",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A POLIWRATH",
+  "tricks": [
+    {
+      "detail": "Contra Luxray → Excadrill 6+2.",
+      "variant": []
+    },
+    {
+      "detail": "No cambia → Poliwrath 6+2. / Usa A Bocajarro para matar a Scizor y Scrafty. Primero toma velocidad X",
+      "variant": []
+    }
+  ]
+}

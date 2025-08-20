@@ -1,0 +1,12 @@
+{
+  "id": "aggron",
+  "name": "Aggron",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquear Terremoto, luego Cloyster +6. Usa Surf para matar a Hariyama.",
+      "variant": []
+    }
+  ]
+}

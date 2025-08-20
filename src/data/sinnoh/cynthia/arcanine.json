@@ -1,0 +1,29 @@
+{
+  "id": "arcanine",
+  "name": "Arcanine",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si cambia a Garchomp con Baya Atania, saca a Excadrill 4+2, Terremoto mata a Bastiodon",
+      "variant": [
+        {
+          "detail": "Si cambia a Garchomp con Casco Dentado, utiliza Trampas Rocas, luego saca a Cloyster 6+ (Si falla Trampas Rocas, Cloyster +6, utilizar Directo para aumentar el crítico./ Carámbano para matar a Lucario)",
+          "variant": []
+        },
+        {
+          "detail": "Si utiliza Lanzallamas, cambia a Chandelure y usa Lanzallamas para hacer presión. Si entra Jellicent, Poliwrath 6+2 (Si se envenena, no curar). Si Arcanine no cambia o si cambia a Braviary, seguir usando Lanzallamas. Si sale algo inesperado, seguir según esto:",
+          "variant": []
+        },
+        {
+          "detail": "Si Poliwrath muere por (Rugido?) o Reprensión Metal, cambia a Chandelure y usa Lanzallamas para rematar, si entra Garchomp, cambiar a Metagross y dejarlo morir. Saca a Chandelure y utiliza Truco para bloquear Terremoto, Cloyster +4. Si Braviary vuelve a salir, seguir presionando hasta que Garchomp vuelva a salir.",
+          "variant": []
+        },
+        {
+          "detail": "Si cambias a Poliwrath y sale Garchomp, cambia a Metagross y déjalo morir, cambia a Chandelure usa Truco para bloquear Terremoto, Excadrill 4+2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

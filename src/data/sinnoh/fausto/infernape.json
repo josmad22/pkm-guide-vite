@@ -1,0 +1,12 @@
+{
+  "id": "infernape",
+  "name": "Infernape",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Utilizar Truco para bloquear en Puño Trueno, luego cambiar a Excadrill 4+2",
+      "variant": []
+    }
+  ]
+}

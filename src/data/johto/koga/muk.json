@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "Puño Fuego → Truco para encerrar Puya Nociva / Sombra Vil, Excadrill 4+2.",
-      "variant": [
-        {
-          "detail": "Contra Rhydon o Rhyperior → Truco para encerrar Terremoto, Excadrill 4+2.",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "Contra Rhydon o Rhyperior → Truco para encerrar Terremoto, Excadrill 4+2.",
+      "variant": []
     }
   ]
 }

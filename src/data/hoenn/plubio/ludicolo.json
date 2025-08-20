@@ -1,0 +1,12 @@
+{
+  "id": "ludicolo",
+  "name": "Ludicolo",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Bloquea Hidrobomba, luego entra Poliwrath +6+2.",
+      "variant": []
+    }
+  ]
+}

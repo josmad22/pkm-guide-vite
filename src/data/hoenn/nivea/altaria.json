@@ -1,0 +1,16 @@
+{
+  "id": "altaria",
+  "name": "Altaria",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Terremoto / Nidoqueen: Cloyster +6. Usa Carámbano para matar a Froslass / Glalie y a Mamoswine.",
+      "variant": []
+    },
+    {
+      "detail": "Metagross: Excadrill 4+2 y luego poner Trampa Rocas.",
+      "variant": []
+    }
+  ]
+}

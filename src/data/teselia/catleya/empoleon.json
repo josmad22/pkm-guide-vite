@@ -1,0 +1,17 @@
+{
+  "id": "empoleon",
+  "name": "Empoleon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "NO SE RETIRA → Poliwrath +6+2 / A Bocajarro contra Metagross (Metagross con Globo Helio).",
+      "variant": [
+        {
+          "detail": "METAGROSS → Cambia a Excadrill, luego a Chandelure y usa Truco para bloquear Terremoto, Excadrill +4+2",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

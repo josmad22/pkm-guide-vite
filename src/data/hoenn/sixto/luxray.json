@@ -1,0 +1,20 @@
+{
+  "id": "luxray",
+  "name": "Luxray",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "RESTOS + RAYO : Excadrill 6+2.",
+      "variant": []
+    },
+    {
+      "detail": "VIDASFERA + RAYO: Excadrill pone Trampa Rocas 4+2.",
+      "variant": []
+    },
+    {
+      "detail": "GARCHOMP: cambia a Chandelure, usa Truco, luego Cloyster 6+. Mata a Basculin con Carámbano.",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dragonite",
+  "name": "Dragonite",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Si Queda encerrado en Tijera X, pon trampa Rocas y Observa por quien Cambia:",
+      "variant": []
+    },
+    {
+      "detail": "PUÑO FUEGO: Cambia Chandelure y Debilitarlo con Poder Oculto observa a quien saca:",
+      "variant": [
+        {
+          "detail": "Si sale Chandelure:Cambia a Scrafty, vuelve a Chandelure y usa Truco para Encerrar al rival en Bola Sombra/Pulso umbrío. Ataca con Chandelure usando lanzallamas hasta que se debilite. Luego entra Scrafty +2 Danza Dragón /Eelektross muere de Puño drenaje + Paliza.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "UMBREON: Coloca Trampa Rocas. Luego Cambia Scrafty usa Danza Dragón; (entra Dragonite) usa otro Danza Dragón y barre el equipo. También puedes usar Puño Drenaje + paliza para matar a Dragonite. Bocajarro elimina a Toxicroak.",
+      "variant": []
+    },
+    {
+      "detail": "TOXICROAK: Trampa Rocas y observa qué movimiento usa. - Si usa Terremoto: Cambia a Cloyster +6. - Si usa A Bocajarro: Cambia a Chandelure usa Truco para cambiar objetos, Cambia a Cloyster +6.",
+      "variant": []
+    }
+  ]
+}

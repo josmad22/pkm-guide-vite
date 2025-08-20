@@ -1,0 +1,34 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "VER SI TIENE INTIMIDACIÓN",
+  "tricks": [
+    {
+      "detail": "Si tiene Intimidación, cambiar a Chandelure",
+      "variant": []
+    },
+    {
+      "detail": "No cambia, utilizar Poder Oculto para matarlo, luego entra Steelix, cambiar a Cloyster y luego a Metagross para usar Truco y bloquearlo en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmar.",
+      "variant": [
+        {
+          "detail": "Si cambia a Steelix, utilizar Truco para bloquearlo en Terremoto, luego cambiar a Cloyster +4 / Carámbano para matar a Magmar",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "No tiene Intimidación, utilizar Truco",
+      "variant": [
+        {
+          "detail": "Si cambia a Steelix, cambiar a Cloyster +4 / Carámbano para matar a Magmortar",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si utiliza Llamarada, cambiar a Chandelure +4+0 / Lanzallamas para matar a todo el equipo",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hariyama",
+  "name": "Hariyama",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "Truco para bloquear Vendetta, Scrafty +2. Usa Puño Drenaje + Paliza para matar a Houndoom / Shiftry",
+      "variant": []
+    }
+  ]
+}

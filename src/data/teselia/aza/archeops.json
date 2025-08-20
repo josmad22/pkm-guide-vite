@@ -1,0 +1,16 @@
+{
+  "id": "archeops",
+  "name": "Archeops",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TERREMOTO / EXCADRILL → Excadrill +4+2 / Terremoto para eliminar Druddigon",
+      "variant": []
+    },
+    {
+      "detail": "ONDA ÍGNEA → Scrafty usa Puño Drenaje una vez para reducir HP, luego usa Danza Dragón tres veces / A Bocajarro para eliminar Conkeldurr",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "meganium",
+  "name": "Meganium",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Terremoto o dusknoir → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "Dusknoir→ Cloyster 4+. Usa Puño Hielo para matar a todos.",
+      "variant": []
+    },
+    {
+      "detail": "Lucario → cambia a Chandelure, usa Truco para cambiar objeto, luego Scrafty +3. Paliza para matar a Houndoom, A bocajarro para matar a Tangrowth.",
+      "variant": []
+    }
+  ]
+}
