@@ -1,0 +1,33 @@
+{
+  "id": "garchomp",
+  "name": "Garchomp",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "TERREMOTO → Evaluar el objeto equipado",
+      "variant": [
+        {
+          "detail": "VIDASFERA → Cloyster +6, // Carámbano para eliminar todos los objetivos // Si hay Staraptor con Intimidación -1, cambiar a Surf para eliminar Bisharp"
+        },
+        {
+          "detail": "CASCO DENTADO → Cloyster +4"
+        }
+      ]
+    },
+    {
+      "detail": "COLMILLO ÍGNEO → Cambia a Chandelure",
+      "variant": [
+        {
+          "detail": "No se retira → Truco intercambia objeto, Cloyster +4 → Hielo para eliminar Sharpedo"
+        },
+        {
+          "detail": "Spiritomb → Truco bloquea Persecución, entra Metagross y usa un Puño Trueno, luego aparece Garchomp, Cloyster +4 → Hielo para eliminar Sharpedo (pendiente de prueba)"
+        },
+        {
+          "detail": "Bisharp → Truco bloquea Tajo Umbrío, Scrafty +3 → Paliza para eliminar Sharpedo, Staraptor"
+        }
+      ]
+    }
+  ]
+}

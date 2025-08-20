@@ -14,15 +14,16 @@
     },
     {
       "detail": "CONKELDURR → Usa Truco y ajusta según el ataque recibido",
-      "variant": []
-    },
-    {
-      "detail": "Puño Trueno → Excadrill +4+2, luego coloca Trampa Rocas",
-      "variant": []
-    },
-    {
-      "detail": "Vendetta → Scrafty +5 o +3 con objeto de fuerza / Encierro contra Crawdaunt",
-      "variant": []
-    }
+      "variant": [
+        {
+          "detail": "Puño Trueno → Excadrill +4+2, luego coloca Trampa Rocas",
+          "variant": []
+        },
+        {
+          "detail": "Vendetta → Scrafty +5 o +3 con objeto de fuerza / Encierro contra Crawdaunt",
+          "variant": []
+        }
+      ]
+    }   
   ]
 }

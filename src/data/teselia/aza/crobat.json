@@ -1,0 +1,12 @@
+{
+  "id": "crobat",
+  "name": "Crobat",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "",
+  "tricks": [
+    {
+      "detail": "Truco bloquea Superdiente, Scrafty +3 → El daño de Colmillo Ígneo irá disminuyendo con el tiempo, no hay que preocuparse",
+      "variant": []
+    }
+  ]
+}

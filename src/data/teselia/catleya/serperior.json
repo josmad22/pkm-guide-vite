@@ -6,40 +6,43 @@
   "tricks": [
     {
       "detail": "SERPERIOR NO SE RETIRA → Lanzallamas para eliminar, entra Houndoom, cambia a Scrafty, luego a Chandelure usa Truco para bloquear Triturar, Scrafty +4 /A Bocajarro para eliminar Metagross",
+      "variant": []
+    },
+    {
+      "detail": "BRONZONG → Cambia a Excadrill",
       "variant": [
-        {
-          "detail": "BRONZONG → Cambia a Excadrill",
-          "variant": []
-        },
         {
           "detail": "NO se retira → Metagross usa Truco para bloquear Terremoto, Excadrill coloca Trampa Rocas +4+2",
           "variant": []
         },
         {
           "detail": "Milotic / Mienshao → Cambia a Metagross usa Truco.",
-          "variant": []
-        },
-        {
-          "detail": "Bronzong → Excadrill coloca Trampa Rocas +4+2",
-          "variant": []
-        },
-        {
-          "detail": "Metagross → Coloca Trampa Rocas.",
-          "variant": []
-        },
-        {
-          "detail": "No se retira → Chandelure usa Lanzallamas para eliminar, entra Houndoom, cambia a Scrafty, luego a Chandelure usa Truco para bloquear Triturar, Scrafty +4 / A Bocajarro para eliminar Metagross",
-          "variant": []
-        },
-        {
-          "detail": "Bronzong → Cambia a Excadrill luego Chandelure usa Truco para bloquear Terremoto, Excadrill +4+2.",
-          "variant": []
-        },
-        {
-          "detail": "METAGROSS → Truco bloquea Avalancha, Scrafty +2 / Puño Drenaje para eliminar Metagross, dos Paliza para eliminar Bronzong",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Bronzong → Excadrill coloca Trampa Rocas +4+2",
+              "variant": []
+            },
+            {
+              "detail": "Metagross → Coloca Trampa Rocas.",
+              "variant": [
+                {
+                  "detail": "No se retira → Chandelure usa Lanzallamas para eliminar, entra Houndoom, cambia a Scrafty, luego a Chandelure usa Truco para bloquear Triturar, Scrafty +4 / A Bocajarro para eliminar Metagross",
+                  "variant": []
+                },
+                {
+                  "detail": "Bronzong → Cambia a Excadrill luego Chandelure usa Truco para bloquear Terremoto, Excadrill +4+2.",
+                  "variant": []
+                }
+              ]
+            }
+            
+          ]
         }
       ]
+    },
+    {
+      "detail": "METAGROSS → Truco bloquea Avalancha, Scrafty +2 / Puño Drenaje para eliminar Metagross, dos Paliza para eliminar Bronzong",
+      "variant": []
     }
   ]
 }

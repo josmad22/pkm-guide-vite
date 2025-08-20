@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "NO SE RETIRA → Excadrill +4+2 / Terremoto para eliminar Reuniclus",
-      "variant": [
-        {
-          "detail": "METAGROSS → Cambia a Chandelure y usa Truco para bloquear Terremoto, luego Excadrill +4+2 / Terremoto para eliminar Reuniclus",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "METAGROSS → Cambia a Chandelure y usa Truco para bloquear Terremoto, luego Excadrill +4+2 / Terremoto para eliminar Reuniclus",
+      "variant": []
     }
   ]
 }

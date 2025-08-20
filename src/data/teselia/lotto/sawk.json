@@ -3,5 +3,17 @@
   "name": "Sawk",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "Truco para bloquear Terremoto, luego Cloyster +4",
-  "tricks": []
+  "tricks": [
+    {
+      "detail": "Salida de Conkeldurr tras Rompecoraza (baja probabilidad) → Cambia a Chandelure y usa Lanzallamas para eliminar, observa la respuesta",
+      "variant": [
+        {
+          "detail": "Gyarados → Cambia a Poliwrath, luego a Chandelure y usa Truco para bloquear Cascada, Poliwrath +6+2+6 / Puño Hielo para eliminar Gyarados"
+        },
+        {
+          "detail": "Luxray → Scrafty+3"
+        }
+      ]
+    }
+  ]
 }

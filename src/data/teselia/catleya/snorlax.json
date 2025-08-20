@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "NO SE RETIRA → Scrafty +2/Aprovecha +1 Puño Drenaje para recuperar vida → Si Scrafty es derrotado por Snorlax, Chandelure usa Truco para bloquear Triturar, revive Scrafty, Scrafty +2 / Paliza para eliminar",
-      "variant": [
-        {
-          "detail": "METAGROSS → Truco bloquea Snorlax, Scrafty +2/A Bocajarro para eliminar Snorlax",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "METAGROSS → Truco bloquea Snorlax, Scrafty +2/A Bocajarro para eliminar Snorlax",
+      "variant": []
     }
   ]
 }

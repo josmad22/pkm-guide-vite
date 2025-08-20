@@ -1,0 +1,31 @@
+{
+  "id": "honchkrow",
+  "name": "Honchkrow",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "NO SE RETIRA → Evaluar si se activa Absorber Fuego",
+      "variant": [
+        {
+          "detail": "Absorber Fuego se activa → Lanzallamas para eliminar, Entra Krookodile → Excadrill coloca Trampa Rocas 2+0"
+        },
+        {
+          "detail": "No se activa → Cambia a Metagross para recibir Golpe Aéreo, evalúa la salud de Honchkrow",
+          "variant": [
+            {
+              "detail": "76.8% o menos → Puño Trueno para eliminar Entra Krookodile → Excadrill coloca Trampa Rocas 2+0"
+            },
+            {
+              "detail": "76.8% → Cambia a Chandelure, usa Lanzallamas para eliminar Entra Krookodile → Excadrill coloca Trampa Rocas 2+0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "KROOKODILE → Excadrill coloca Trampa Rocas 2+0",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "kingdra",
+  "name": "Kingdra",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "",
+  "tricks": [
+    {
+      "detail": "Coloca Trampa Rocas, Krookodile entra → Excadrill 2+0",
+      "variant": []
+    }
+  ]
+}

@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "REUNICLUS → Truco bloquea Psíquico, Scrafty +3 / A Bocajarro para Vaporeon",
-      "variant": [
-        {
-          "detail": "METAGROSS → Truco bloquea Terremoto, Excadrill +4+2 → Terremoto elimina Reuniclus",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "METAGROSS → Truco bloquea Terremoto, Excadrill +4+2 → Terremoto elimina Reuniclus",
+      "variant": []
     }
   ]
 }

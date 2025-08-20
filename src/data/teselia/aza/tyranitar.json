@@ -1,0 +1,16 @@
+{
+  "id": "tyranitar",
+  "name": "Tyranitar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIAR CHANDELURE Y USA TRUCO",
+  "tricks": [
+    {
+      "detail": "AVALANCHA → Scrafty +2 A Bocajarro para eliminar Gallade",
+      "variant": []
+    },
+    {
+      "detail": "TRITURAR → Scrafty +3",
+      "variant": []
+    }
+  ]
+}

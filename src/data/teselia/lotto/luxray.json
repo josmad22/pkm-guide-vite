@@ -6,23 +6,25 @@
   "tricks": [
     {
       "detail": "FUERZA BRUTA → Coloca Trampa Rocas y evalúa:",
-      "variant": []
-    },
-    {
-      "detail": "Colmillo Hielo → Scrafty +3 / Bocajarro contra Conkeldurr o Metagross si aparecen",
-      "variant": []
-    },
-    {
-      "detail": "Krookodile → Cambia a Cloyster, luego a Metagross y usa Truco:",
-      "variant": []
-    },
-    {
-      "detail": "Terremoto, Cloyster +4",
-      "variant": []
-    },
-    {
-      "detail": "A Bocajarro, Chandelure entra, hace Truco para robar objeto, luego Cloyster +4",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Colmillo Hielo → Scrafty +3 / Bocajarro contra Conkeldurr o Metagross si aparecen",
+          "variant": []
+        },
+        {
+          "detail": "Krookodile → Cambia a Cloyster, luego a Metagross y usa Truco:",
+          "variant": [
+            {
+              "detail": "Terremoto, Cloyster +4",
+              "variant": []
+            },
+            {
+              "detail": "A Bocajarro, Chandelure entra, hace Truco para robar objeto, luego Cloyster +4",
+              "variant": []
+            }
+          ]
+        }
+      ]
     },
     {
       "detail": "SI VUELVE A USAR COLMILLO HIELO → Usar Truco otra vez para bloquear a Krookodile, Cloyster +4",

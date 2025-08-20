@@ -1,0 +1,16 @@
+{
+    "id": "toxicroak",
+    "name": "Toxicroak",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "CAMBIA A CHANDELURE",
+    "tricks": [
+        {
+            "detail": "NO SE RETIRA → Usa Truco para bloquear Puño Hielo, luego Cloyster + Defensa X +4",
+            "variant": []
+        },
+        {
+            "detail": "MAGNEZONE → Usa Truco para bloquear Rayo, luego Excadrill +6+2",
+            "variant": []
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "samurott",
+  "name": "Samurott",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "GARCHOMP → Cloyster +4",
+      "variant": []
+    },
+    {
+      "detail": "BISHARP → Cambia a Chandelure y observa el movimiento",
+      "variant": [
+        {
+          "detail": "PATADA BAJA → Lanzallamas para eliminar, entra Salamence Cambia a Excadrill, luego a Chandelure y usa Truco para bloquear Terremoto, Cloyster +4"
+        },
+        {
+          "detail": "TAJO UMBRÍO → Scrafty +3 Paliza para eliminar Hydreigon // Si Chandelure es derrotado → Usa Danza Dragón una vez"
+        }
+      ]
+    },
+    {
+      "detail": "TYRANITAR → Cambia a Chandelure, usa Truco para bloquear Gallade, Politoed +6+2 A Bocajarro para eliminar Bisharp",
+      "variant": []
+    },
+    {
+      "detail": "ACUA COLA → Politoed +6+2 A Bocajarro para eliminar Bisharp",
+      "variant": []
+    },
+    {
+      "detail": "MEGACUERNO → Truco para recuperar objeto, cambia a Chandelure y usa Truco para bloquear Tajo Umbrío, Scrafty +3 Paliza para eliminar Hydreigon y Absol",
+      "variant": [
+        {
+          "detail": "Si Metagross recibe un golpe crítico y queda debilitado → Cambia a Politoed, luego a Chandelure y usa Truco para bloquear ataques de agua"
+        }
+      ]
+    }
+  ]
+}

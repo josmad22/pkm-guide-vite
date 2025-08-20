@@ -13,22 +13,23 @@
       "variant": [
         {
           "detail": "Houndoom, cambia a Scrafty, luego a Chandelure y usa Truco:",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Triturar, Scrafty +4 / A Bocajarro contra Metagross",
+              "variant": []
+            },
+            {
+              "detail": "Milotic, Poliwrath +6+4",
+              "variant": []
+            }
+          ]
         }
       ]
     },
+    
     {
-      "detail": "Triturar, Scrafty +4 / A Bocajarro contra Metagross",
-      "variant": [
-        {
-          "detail": "Milotic, Poliwrath +6+4",
-          "variant": []
-        },
-        {
-          "detail": "METAGROSS → Cambia a Chandelure y usa Truco para bloquear Terremoto, luego Excadrill +4+2",
-          "variant": []
-        }
-      ]
+      "detail": "METAGROSS → Cambia a Chandelure y usa Truco para bloquear Terremoto, luego Excadrill +4+2",
+      "variant": []
     }
   ]
 }

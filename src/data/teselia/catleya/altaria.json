@@ -6,12 +6,11 @@
   "tricks": [
     {
       "detail": "METAGROSS → Cambia a Chandelure y usa Truco para bloquear Puño Hielo, luego Scrafty +2 / Puño Drenaje para eliminar Metagross",
-      "variant": [
-        {
-          "detail": "UMBREON → Scrafty +2 / Dos Palizas para eliminar Metagross",
-          "variant": []
-        }
-      ]
+      "variant": []
+    },
+    {
+      "detail": "UMBREON → Scrafty +2 / Dos Palizas para eliminar Metagross",
+      "variant": []
     }
   ]
 }

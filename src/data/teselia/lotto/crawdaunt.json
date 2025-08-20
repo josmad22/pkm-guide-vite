@@ -14,28 +14,30 @@
     },
     {
       "detail": "CONKELDURR + RESTOS → Cambia a Chandelure",
-      "variant": []
-    },
-    {
-      "detail": "Si no se retira, usa Truco para bloquear Gyarados, Poliwrath +6+2 / A Bocajarro para eliminar Conkeldurr, Puño Hielo contra Gliscor",
-      "variant": []
-    },
-    {
-      "detail": "Magnezone → Usa Truco para bloquear Rayo, Excadrill coloca Trampa Rocas +4+2",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si no se retira, usa Truco para bloquear Gyarados, Poliwrath +6+2 / A Bocajarro para eliminar Conkeldurr, Puño Hielo contra Gliscor",
+          "variant": []
+        },
+        {
+          "detail": "Magnezone → Usa Truco para bloquear Rayo, Excadrill coloca Trampa Rocas +4+2",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "CONKELDUR + VIDASFERA → Coloca Trampa Rocas",
-      "variant": []
-    },
-    {
-      "detail": "Metagross, cambia a Cloyster, luego a Chandelure y usa Truco para bloquear Terremoto, Excadrill +4+2",
-      "variant": []
-    },
-    {
-      "detail": "Si no se retira, Chandelure +4+0 / Lanzallamas para limpiar el equipo",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "Metagross, cambia a Cloyster, luego a Chandelure y usa Truco para bloquear Terremoto, Excadrill +4+2",
+          "variant": []
+        },
+        {
+          "detail": "Si no se retira, Chandelure +4+0 / Lanzallamas para limpiar el equipo",
+          "variant": []
+        }
+      ]
+    },   
     {
       "detail": "METAGROSS → Excadrill coloca Trampa Rocas +4+2",
       "variant": []

@@ -35,30 +35,32 @@
     },
     {
       "detail": "PUÑO FUEGO → Coloca Trampa Rocas y observa Metagross",
-      "variant": []
-    },
-    {
-      "detail": "Si sobrevive, Chandelure +4+0 / Lanzallamas para barrer",
-      "variant": []
-    },
-    {
-      "detail": "Si cae, cambia a Cloyster, luego a Chandelure +4+0 / Lanzallamas para barrer",
-      "variant": []
-    },
-    {
-      "detail": "Si aparece Gyarados, usa Truco para bloquear Cascada, Poliwrath +6+2 / A Bocajarro para eliminar Conkeldurr",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si sobrevive, Chandelure +4+0 / Lanzallamas para barrer",
+          "variant": []
+        },
+        {
+          "detail": "Si cae, cambia a Cloyster, luego a Chandelure +4+0 / Lanzallamas para barrer",
+          "variant": []
+        },
+        {
+          "detail": "Si aparece Gyarados, usa Truco para bloquear Cascada, Poliwrath +6+2 / A Bocajarro para eliminar Conkeldurr",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "PUÑO TRUENO → Coloca Trampa Rocas",
-      "variant": []
-    },
-    {
-      "detail": "Si Conkeldurr no se retira, Excadrill +4+2",
       "variant": [
         {
-          "detail": "Si entra Salamence, Chandelure usa Truco para intercambiar objeto, Cloyster +4",
-          "variant": []
+          "detail": "Si Conkeldurr no se retira, Excadrill +4+2",
+          "variant": [
+            {
+              "detail": "Si entra Salamence, Chandelure usa Truco para intercambiar objeto, Cloyster +4",
+              "variant": []
+            }
+          ]
         },
         {
           "detail": "Si entra Electivire, cambia a Chandelure y usa Truco para bloquear Thunderbolt, Excadrill +4+2",
@@ -70,6 +72,7 @@
         }
       ]
     },
+
     {
       "detail": "VENDETTA → Coloca Trampa Rocas, se cambia a Scrafty, luego a Chandelure, frente a Gyarados se cambia a Poliwrath, luego otra vez a Chandelure frente a Froslass, se usa Truco para bloquear a Tyranitar, se cambia a Scrafty y se observa el movimiento usado. // Si aparece Breloom, revisa estrategia específica",
       "variant": [
@@ -102,32 +105,36 @@
     },
     {
       "detail": "PUÑO DRENAJE + VIDASFERA → Usa Truco nuevamente",
-      "variant": []
+      "variant": [
+        {
+          "detail": "Si Conkeldurr no se retira, cambia a Chandelure, usa truco y observa:",
+          "variant": [
+            {
+              "detail": "Puño Trueno → Excadrill 4+2 y luego coloca Trampa Rocas, el rival cambia a Salamence, ver estrategia detallada más abajo 👇🏻",
+              "variant": [
+                {
+                  "detail": "Salamence entra tras Danza Espada → Cambiar a Chandelure y recuperar PS hasta más del 60%, luego usar Truco dos veces para bloquear Terremoto, Cloyster +4. // usa Carámbano contra Crawdaunt",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "Vendetta → Scrafty +5 o +3 + Ataque X, luego revive a Chandelure para que Paliza haga el máximo daño / Paliza contra Crawdaunt",
+              "variant": []
+            },
+            {
+              "detail": "ROCA AFILADA → Scrafty +2 / A Bocajarro contra Conkeldurr, si Metagross cae, usa Danza Dragón adicional / Drenaje para Magnezone",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Seismitoad → Cambiar a Cloyster, luego a Chandelure y usar Truco para bloquear Tierra Viva, Cloyster +4.",
+          "variant": []
+        }
+      ]
     },
-    {
-      "detail": "Si Conkeldurr no se retira, cambia a Chandelure, usa truco y observa:",
-      "variant": []
-    },
-    {
-      "detail": "Puño Trueno → Excadrill 4+2 y luego coloca Trampa Rocas, el rival cambia a Salamence, ver estrategia detallada más abajo 👇🏻",
-      "variant": []
-    },
-    {
-      "detail": "Salamence entra tras Danza Espada → Cambiar a Chandelure y recuperar PS hasta más del 60%, luego usar Truco dos veces para bloquear Terremoto, Cloyster +4. // usa Carámbano contra Crawdaunt",
-      "variant": []
-    },
-    {
-      "detail": "Vendetta → Scrafty +5 o +3 + Ataque X, luego revive a Chandelure para que Paliza haga el máximo daño / Paliza contra Crawdaunt",
-      "variant": []
-    },
-    {
-      "detail": "ROCA AFILADA → Scrafty +2 / A Bocajarro contra Conkeldurr, si Metagross cae, usa Danza Dragón adicional / Drenaje para Magnezone",
-      "variant": []
-    },
-    {
-      "detail": "Seismitoad → Cambiar a Cloyster, luego a Chandelure y usar Truco para bloquear Tierra Viva, Cloyster +4.",
-      "variant": []
-    },
+
     {
       "detail": "PUÑO DRENAJE + RESTOS → Cambiar a Chandelure y usar Truco, bloquear a Gyarados, Poliwrath +6 +2. / Bocajarro para derrotar a Conkeldurr / Si Conkeldurr no se retira, seguir usando Truco.",
       "variant": []
@@ -138,20 +145,21 @@
     },
     {
       "detail": "AGGRON → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco.",
-      "variant": []
-    },
-    {
-      "detail": "Si Aggron no se retira, Chandelure usa un objeto de ataque especial, luego Llamarada para eliminar",
       "variant": [
         {
-          "detail": "Si entra Seismitoad, cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Cloyster +4 / Surf para eliminar Skarmory",
+          "detail": "Si Aggron no se retira, Chandelure usa un objeto de ataque especial, luego Llamarada para eliminar",
+          "variant": [
+            {
+              "detail": "Si entra Seismitoad, cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Cloyster +4 / Surf para eliminar Skarmory",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Si Seismitoad aparece directamente, Cloyster +4 / Surf para eliminar Skarmory",
           "variant": []
-        }
+        }      
       ]
-    },
-    {
-      "detail": "Si Seismitoad aparece directamente, Cloyster +4 / Surf para eliminar Skarmory",
-      "variant": []
     },
     {
       "detail": "MAGNEZONE / TYRANITAR → Excadrill coloca Trampa Rocas +6+2 (defensa, sin objeto de velocidad)",

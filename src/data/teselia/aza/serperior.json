@@ -1,0 +1,38 @@
+{
+  "id": "serperior",
+  "name": "Serperior",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "CAMBIA A CHANDELURE",
+  "tricks": [
+    {
+      "detail": "PODER OCULTO → Lanzallamas para eliminar",
+      "variant": [
+        {
+          "detail": "MISMAGIUS → Scrafty +2 A Bocajarro para eliminar Gallade Si Bola Sombra es crítico → Usa Raíz Energética para recuperación (prevención de prioridad)"
+        },
+        {
+          "detail": "TYRANITAR→ Cambia a Scrafty, luego a Chandelure y usa Truco",
+          "variant": [
+            {
+              "detail": "Avalancha → Scrafty +2 A Bocajarro para eliminar Gallade"
+            },
+            {
+              "detail": "Triturar → Scrafty +3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "TYRANITAR → Truco para observar el movimiento",
+      "variant": [
+        {
+          "detail": "AVALANCHA → Scrafty +2 A Bocajarro para eliminar Gallade"
+        },
+        {
+          "detail": "TRITURAR → Scrafty +3"
+        }
+      ]
+    }
+  ]
+}

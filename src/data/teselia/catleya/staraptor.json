@@ -6,28 +6,30 @@
   "tricks": [
     {
       "detail": "SIN INTIMIDACIÓN→ Trampa Rocas (recibe A Bocajarro)，cambiar a Chandelure y eliminar con Lanzallamas",
-      "variant": []
-    },
-    {
-      "detail": "Vaporeon → Cambiar a Poliwrath y luego a Chandelure, enfrentar a Reuniclus, usar Truco para bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
-      "variant": []
-    },
-    {
-      "detail": "Mienshao → Cambiar a Scrafty y observar la situación",
-      "variant": []
-    },
-    {
-      "detail": "Mienshao no se retira → Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
-      "variant": []
-    },
-    {
-      "detail": "Vaporeon → Cambiar a Poliwrath luego a Chandelure, enfrentar a Reuniclus, usar Truco para bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
-      "variant": []
-    },
-    {
-      "detail": "Imprevisto — sale Reuniclus tras Trampa Rocas → Cambiar a Chandelure, usar Truco, bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
-      "variant": []
-    },
+      "variant": [
+        {
+          "detail": "Vaporeon → Cambiar a Poliwrath y luego a Chandelure, enfrentar a Reuniclus, usar Truco para bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
+          "variant": []
+        },
+        {
+          "detail": "Mienshao → Cambiar a Scrafty y observar la situación",
+          "variant": [
+            {
+              "detail": "Mienshao no se retira → Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
+              "variant": []
+            },
+            {
+              "detail": "Vaporeon → Cambiar a Poliwrath luego a Chandelure, enfrentar a Reuniclus, usar Truco para bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Imprevisto — sale Reuniclus tras Trampa Rocas → Cambiar a Chandelure, usar Truco, bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
+          "variant": []
+        }
+      ]
+    },    
     {
       "detail": "CON INTIMIDACIÓN → Cambia a Chandelure usa Lanzallamas para tantear, observa quién entra // Staraptor no se retira → Seguir usando Lanzallamas",
       "variant": [
@@ -37,11 +39,12 @@
         },
         {
           "detail": "Umbreon → Scrafty x3 // A Bocajarro para eliminar a Metagross, si Milotic huye, continuar fortaleciendo",
-          "variant": []
-        },
-        {
-          "detail": "Si cambia a Nidoking despues de Danza Dragón, cambiar a Chandelure y usar Truco para bloquearlo con Terremoto, entra Excadrill con Tampa Rocas, Cloyster x6",
-          "variant": []
+          "variant": [
+            {
+              "detail": "Si cambia a Nidoking despues de Danza Dragón, cambiar a Chandelure y usar Truco para bloquearlo con Terremoto, entra Excadrill con Tampa Rocas, Cloyster x6",
+              "variant": []
+            }
+          ]
         }
       ]
     }

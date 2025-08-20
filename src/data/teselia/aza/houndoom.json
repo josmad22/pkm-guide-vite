@@ -1,0 +1,12 @@
+{
+  "id": "houndoom",
+  "name": "Houndoom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "",
+  "tricks": [
+    {
+      "detail": "Chandelure usa Truco para bloquear Persecución, Scrafty +3",
+      "variant": []
+    }
+  ]
+}

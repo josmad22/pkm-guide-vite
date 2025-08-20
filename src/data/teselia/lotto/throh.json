@@ -1,0 +1,24 @@
+{
+    "id": "throh",
+    "name": "Throh",
+    "image": "/placeholder.svg?height=80&width=80",
+    "initialMove": "TRAMPA ROCAS",
+    "tricks": [
+        {
+            "detail": "THROW→ Cambia a Chandelure y usa Truco (si enfrenta otro, igualmente cambia a Chandelure), luego bloquea Seismitoad, Cloyster +4 / Surf para eliminar Skarmory",
+            "variant": []
+        },
+        {
+            "detail": "SEISMITOAD→ Cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Cloyster +4 / Surf para eliminar Skarmory",
+            "variant": []
+        },
+        {
+            "detail": "AGGRON → Cambia a Chandelure y usa Truco",
+            "variant": [
+                {
+                    "detail": "Aggron no se retira, Chandelure usa un objeto de ataque especial, luego Lanzallamas para eliminar, luego Seismitoad entra, cambia a Cloyster, luego a Metagross y usa Truco para bloquear Terremoto, Cloyster +4 / Surf para eliminar Skarmory"
+                }
+            ]
+        }
+    ]
+}
