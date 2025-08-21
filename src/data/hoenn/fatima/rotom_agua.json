@@ -1,6 +1,6 @@
 {
-  "id": "rotom-lavadora",
-  "name": "Rotom Lavadora",
+  "id": "rotom_agua",
+  "name": "Rotom Agua",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "Cambia a Poliwrath, luego a Chandelure y espera Voltiocambio",
   "tricks": [

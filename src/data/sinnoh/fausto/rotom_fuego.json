@@ -1,6 +1,6 @@
 {
-  "id": "rotom-calor",
-  "name": "Rotom Calor",
+  "id": "rotom_fuego",
+  "name": "Rotom Fuego",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "A ELECCIÓN",
   "tricks": [
