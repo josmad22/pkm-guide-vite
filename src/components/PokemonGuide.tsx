@@ -146,7 +146,7 @@ export default function PokemonGuide() {
         </div>
 
         {/* Regions Row */}
-        <div className="grid grid-cols-1 md:grid-cols-5 gap-4 mb-6">
+        <div className="grid grid-cols-5 sm:grid-cols-5 md:grid-cols-5 lg:grid-cols-5 gap-2 sm:gap-3 md:gap-4 mb-6">
           {regions.map((region) => (
             <RegionCard 
               key={region.id}
@@ -159,7 +159,7 @@ export default function PokemonGuide() {
 
         {/* Leaders Row */}
         {expandedRegion && currentRegion && currentRegion.leaders.length > 0 && (
-          <div className="grid grid-cols-1 md:grid-cols-5 gap-4 mb-6 animate-in slide-in-from-top duration-300">
+          <div className="grid grid-cols-5 sm:grid-cols-5 md:grid-cols-5 lg:grid-cols-5 gap-2 sm:gap-3 md:gap-4 mb-6 animate-in slide-in-from-top duration-300">
             {currentRegion.leaders.map((leader) => (
               <LeaderCard 
                 key={leader.id}
@@ -174,7 +174,7 @@ export default function PokemonGuide() {
         {/* Pokemon Grid */}
         {expandedLeader && (
           <div className="mb-6 animate-in slide-in-from-top duration-300">
-            <div className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-12 gap-2">
+            <div className="grid grid-cols-6 sm:grid-cols-4 md:grid-cols-8 lg:grid-cols-8 xl:grid-cols-12 gap-1 sm:gap-2">
               {currentLeaderPokemons.map((pokemon) => (
                 <PokemonCard 
                   key={pokemon.id || pokemon.name}
