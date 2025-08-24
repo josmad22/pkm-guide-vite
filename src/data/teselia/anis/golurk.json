@@ -3,5 +3,10 @@
   "name": "Golurk",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "TRUCO",
-  "tricks": []
+   "tricks": [
+    {
+      "detail": "Bloquea Terremoto, Excadrill pone Trampa Rocas, Cloyster usa Rompecoraza +6",
+      "variant": []
+    }
+  ]
 }
