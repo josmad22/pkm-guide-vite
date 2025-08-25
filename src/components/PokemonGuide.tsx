@@ -168,7 +168,7 @@ export default function PokemonGuide() {
                 onClick={handleLeaderClick}
               />
             ))}
-          </div>
+          </div> 
         )}
 
         {/* Pokemon Grid */}
