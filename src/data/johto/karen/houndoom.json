@@ -15,43 +15,42 @@
               "variant": []
             }
           ]
-        }
-      ]
-    },  
-    {
-      "detail": "Banda Focus / Vidasfera → cambiar a Chandelure y usar Truco.",
-      "variant": [
-        {
-          "detail": "Houndoom se queda → Scrafty +4 o +2 con X Ataque. / Paliza mata a Vileplume en 2 turnos",
-          "variant": []
-        },
-        {
-          "detail": "Feraligatr → Cloyster +4 + Defensa X (Primero la medicina)",
-          "variant": []
-        },
-        {
-          "detail": "Tyranitar → Scrafty +3. / Si Scrafty recibe Terremoto, cambiar a Cloyster +6",
-          "variant": []
-        },
-        {
-          "detail": "Rhyperior / Quagsire → Cloyster +4 / Si Cloyster se encuentra inesperadamente contra Gyarados → cambiar a Scrafty, usar Medicina Defensa X +3 / Cuidado con tu vida",
-          "variant": []
-        },
-        {
-          "detail": "Gyarados (Pañuelo Elegido) → cambiar a Poliwrath, luego cambiar a Scrafty. // Si Metagross está quemado, usar a Poliwrath para ayudar a quitar la quemadura (contra Slowbro), luego Scrafty +3",
+        },    {
+          "detail": "Banda Focus / Vidasfera → cambiar a Chandelure y usar Truco.",
           "variant": [
             {
-              "detail": "Slowbro → Scrafty +3 / / Si tienes bajos PS usar Raíz Energía",
+              "detail": "Houndoom se queda → Scrafty +4 o +2 con X Ataque. / Paliza mata a Vileplume en 2 turnos",
+              "variant": []
+            },
+            {
+              "detail": "Feraligatr → Cloyster +4 + Defensa X (Primero la medicina)",
+              "variant": []
+            },
+            {
+              "detail": "Tyranitar → Scrafty +3. / Si Scrafty recibe Terremoto, cambiar a Cloyster +6",
+              "variant": []
+            },
+            {
+              "detail": "Rhyperior / Quagsire → Cloyster +4 / Si Cloyster se encuentra inesperadamente contra Gyarados → cambiar a Scrafty, usar Medicina Defensa X +3 / Cuidado con tu vida",
+              "variant": []
+            },
+            {
+              "detail": "Gyarados (Pañuelo Elegido) → cambiar a Poliwrath, luego cambiar a Scrafty. // Si Metagross está quemado, usar a Poliwrath para ayudar a quitar la quemadura (contra Slowbro), luego Scrafty +3",
+              "variant": [
+                {
+                  "detail": "Slowbro → Scrafty +3 / / Si tienes bajos PS usar Raíz Energía",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "Gyarados (Restos) → Cloyster +4 con Medicina Defensa X. / / Primero usar medicina",
               "variant": []
             }
           ]
-        },
-        {
-          "detail": "Gyarados (Restos) → Cloyster +4 con Medicina Defensa X. / / Primero usar medicina",
-          "variant": []
         }
       ]
-    },
+    },  
     {
       "detail": "Llamarada (Pañuelo Elegido) → cambiar a Chandelure; ver qué movimiento usa Houndoom después. // Si Metagross falla Truco, no hay problema. ¡Chandelure no debe usar ningún movimiento!",
       "variant": [
