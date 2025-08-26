@@ -17,7 +17,7 @@ export const RegionCard = ({ region, isExpanded, onClick }: RegionCardProps) => 
       onClick={() => onClick(region.id)}
     >
       <img 
-        src={region.image || `${import.meta.env.BASE_URL}placeholder.svg`} 
+        src={region.image || `${import.meta.env.BASE_URL}placeholder.svg?t=2025082522_25`} 
         alt="" 
         className="w-full h-16 sm:h-20 md:h-24 object-cover" 
       />
