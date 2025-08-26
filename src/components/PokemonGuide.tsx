@@ -144,7 +144,7 @@ export default function PokemonGuide() {
             <a href="https://youtu.be/qroUOLDMZv8" target="_blank" rel="noreferrer">
               <span className="inline-flex items-center text-blue-400 hover:text-blue-600 transition-colors">
                 <img className="w-6 h-6" src={`${import.meta.env.BASE_URL}images/youtube.png`} alt="Guía en Video" />
-                <span className="mr-2 pl-2">Ver tutorial en video (obligatorio)</span>
+                <span className="mr-2 pl-2">Ver tutorial en video</span>
               </span>
             </a> 
             <span className="mr-2">|</span>
@@ -163,7 +163,7 @@ export default function PokemonGuide() {
         </div>
 
         {/* Tips Toggle */}
-        <div className="flex flex-col items-left justify-left mb-2">
+        <div className="flex flex-col items-center justify-center mb-2">
             <button 
               onClick={() => setShowTips(!showTips)} 
               className="flex items-left justify-left gap-2 hover:text-blue-300 transition-colors cursor-pointer"
