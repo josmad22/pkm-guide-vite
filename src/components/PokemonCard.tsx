@@ -20,7 +20,7 @@ export const PokemonCard = ({ pokemon, isSelected, onClick }: PokemonCardProps) 
         <img
           src={`${import.meta.env.BASE_URL}images/pokemon/${pokemon.name.toLowerCase().replace(/ /g, '_')}.png`}
           alt={pokemon.name}
-          className="w-10 h-10 sm:w-12 sm:h-12 md:w-12 md:h-12 lg:w-16 lg:h-16 object-contain"
+          className="w-10 h-10 sm:w-16 sm:h-16 md:w-18 md:h-18 lg:w-20 lg:h-20 object-contain"
         />
       </div>
       <div className="absolute inset-0 bg-black bg-opacity-30 flex items-end">
