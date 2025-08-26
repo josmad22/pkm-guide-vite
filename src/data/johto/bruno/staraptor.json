@@ -5,15 +5,15 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "A bocajarro → Chandelure usa Lanzallamas para debilitar o matar, entra Krookodile, luego Cloyster +4 con Especial X // Usa Carámbano para matar a Lucario.",
+      "detail": "A BOCAJARRO → Chandelure usa Lanzallamas para debilitar o matar, entra Krookodile, luego Cloyster +4 + Especial X // Usa Carámbano para matar a Lucario.",
       "variant": []
     },
     {
-      "detail": "Steelix → Cloyster +4 con medicina de Ataque Especial.",
+      "detail": "STEELIX → Cloyster +4 con medicina de Ataque Especial.",
       "variant": []
     },
     {
-      "detail": "Metagross → Excadrill con Trampa Rocas y 4+2",
+      "detail": "METAGROSS → Excadrill con Trampa Rocas y 4+2",
       "variant": []
     }
   ]
