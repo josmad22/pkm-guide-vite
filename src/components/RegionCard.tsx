@@ -16,11 +16,9 @@ export const RegionCard = ({ region, isExpanded, onClick }: RegionCardProps) => 
       }`}
       onClick={() => onClick(region.id)}
     >
-      <img 
-        src={region.image || `${import.meta.env.BASE_URL}placeholder.svg?t=2025082522_25`} 
-        alt="" 
-        className="w-full h-16 sm:h-20 md:h-24 object-cover" 
-      />
+      <div 
+        className="w-full h-16 sm:h-20 md:h-24 bg-[#2a3a51]"
+      ></div>
       <div className="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center">
         <span className="text-white font-bold text-xs sm:text-sm md:text-lg text-center px-1">{region.name}</span>
       </div>
