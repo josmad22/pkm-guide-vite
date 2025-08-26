@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import { ChevronDown } from "lucide-react"
+import { ChevronDown, ChevronUp } from "lucide-react"
 
 // Import interfaces
 import type { Pokemon } from "../interfaces/Pokemon"
@@ -19,6 +19,7 @@ export default function PokemonGuide() {
   const [expandedLeader, setExpandedLeader] = useState<string | null>(null);
   const [selectedPokemon, setSelectedPokemon] = useState<Pokemon | null>(null);
   const [lightMode, setLightMode] = useState(false);
+  const [showTips, setShowTips] = useState(false);
   const [regions, setRegions] = useState<Region[]>([]);
   const { getPokemonFiles } = useDynamicImports();
 
@@ -136,13 +137,41 @@ export default function PokemonGuide() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold mb-2">Farm Liga PokeMMO</h1>
-          <p className="text-gray-400 mb-4">Selecciona una región para ver los líderes</p>
+          <p className="text-blue-400 font-bold mb-4">
+            <span className="mr-2"></span>
+            <a href="https://youtu.be/qroUOLDMZv8" target="_blank" rel="noreferrer">
+              <span className="inline-flex items-center text-blue-400 hover:text-blue-600 transition-colors">
+                <img className="w-6 h-6" src={`${import.meta.env.BASE_URL}images/youtube.png`} alt="Guía en Video" />
+                <span className="mr-2 pl-2">Ver tutorial en video (obligatorio)</span>
+              </span>
+            </a>
+          </p>
+          <p className="text-gray-400 mb-4">Ruta recomendada: 
+            <span className="mr-2 pl-2 text-blue-400">Teselia → Johto → Kanto → Sinnoh → Hoenn</span>
+          </p>          
+        </div>
 
-          {/* Tips Toggle */}
-          <div className="flex items-center justify-center gap-2 mb-6">
-            <ChevronDown className="w-4 h-4 text-blue-400" />
-            <span className="text-blue-400 font-medium">Tips</span>
-          </div>
+        {/* Tips Toggle */}
+        <div className="flex flex-col items-left justify-left mb-2">
+            <button 
+              onClick={() => setShowTips(!showTips)} 
+              className="flex items-left justify-left gap-2 hover:text-blue-300 transition-colors cursor-pointer"
+            >
+              {showTips ? (
+                <ChevronUp className="w-4 h-4 text-blue-400" />
+              ) : (
+                <ChevronDown className="w-4 h-4 text-blue-400" />
+              )}
+              <span className="text-blue-400 font-medium">RECOMENDACIONES ANTES DE EMPEZAR <b>(EQUIPO - TIPS)</b></span>
+            </button>
+            {showTips && (
+              <ul className="list-disc text-left max-w-2xl mx-auto pl-6 text-gray-300 animate-in slide-in-from-top duration-300">
+                <li>EQUIPO NECESARIO PARA LA GUIA: <a href="https://imgur.com/jDkRW8k" target="_blank" rel="noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors"> 👉 VER 👈 </a></li>
+                <li className="mb-2">Completa cada Liga de cada región 5 veces antes de emplear esta guía; solo así llegarás al nivel 100 y los pasos serán precisos.</li>
+                <li className="mb-2">Las estrategias presuponen que el equipo está correctamente configurado (objetos, EV/IV y salud al 100 % tras cada combate).</li>
+                <li className="mb">Usar equipos "económicos" o distintos a los recomendados puede generar resultados imprecisos.</li>
+              </ul>
+            )}
         </div>
 
         {/* Regions Row */}
@@ -195,8 +224,13 @@ export default function PokemonGuide() {
         {/* Credits and Light Mode Toggle */}
         <div className="flex items-center justify-between mt-8 pt-4 border-t border-gray-700">
           <div className="flex items-center gap-2">
-            <span className="text-gray-400">Credits</span>
-            <ChevronDown className="w-4 h-4 text-blue-400" />
+
+            <span className="text-gray-400">Creditos</span>
+            <img 
+              src={`${import.meta.env.BASE_URL}images/pokemon/munchlax.png`} 
+              alt="Creditos" 
+              className="w-16 h-16"
+            />
           </div>
           <button onClick={() => setLightMode(!lightMode)} className="text-gray-400 hover:text-white transition-colors">
             {lightMode ? "Dark Mode" : "Light Mode"}
