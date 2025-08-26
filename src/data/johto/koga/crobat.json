@@ -60,18 +60,18 @@
             {
               "detail": "Rhyperior o Stunfisk → entra Cloyster +6. / Usar Carámbano para eliminar a Sharpedo",
               "variant": []
+            },
+            {
+              "detail": "Tentacruel → cambiar a Metagross para colocar Trampa Rocas, luego Poliwrath 6+4. / Usar medicina de Velocidad",
+              "variant": []
+            },
+            {
+              "detail": "Si Crobat no se retira → atacar con Lanzallamas, luego seguir el plan del escenario con Absorbe Fuego activado",
+              "variant": []
             }
           ]
         }
       ]
-    },
-    {
-      "detail": "Tentacruel → cambiar a Metagross para colocar Trampa Rocas, luego Poliwrath 6+4. / Usar medicina de Velocidad",
-      "variant": []
-    },
-    {
-      "detail": "Si Crobat no se retira → atacar con Lanzallamas, luego seguir el plan del escenario con Absorbe Fuego activado",
-      "variant": []
     },
     {
       "detail": "Lanzallamas [Zoroark disfrazado] → Chandelure usa Truco para intercambiar objetos, luego entra Scrafty con +3. / Usa Puño Drenaje + A Bocajarro para derrotar a Skarmory",
@@ -90,7 +90,7 @@
       "variant": []
     },
     {
-      "detail": "RHYPERIOR→ entra Excadrill +6 y+2, luego coloca Trampa Rocas. / Terremoto para derrotar a Gengar",
+      "detail": "RHYPERIOR → entra Excadrill +6 y+2, luego coloca Trampa Rocas. / Terremoto para derrotar a Gengar",
       "variant": []
     }
   ]
