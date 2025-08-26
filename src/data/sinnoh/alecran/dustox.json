@@ -2,7 +2,7 @@
   "id": "dustox",
   "name": "Dustox",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO // Si se bloquea Remolino, sin importar quién entre después, siempre debes atacar.",
+  "initialMove": "TRUCO // Si se bloquea Remolino, sin importar quién entre después, siempre debes atacar // una vez derrotado vuelve a Metagross y Truco.",
   "tricks": [
     {
       "detail": "Gastrodon / Flygon → Cloyster +6. Todo se elimina con Carámbano incluyendo a Kabutops.",
