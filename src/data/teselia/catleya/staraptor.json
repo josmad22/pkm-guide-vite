@@ -34,14 +34,14 @@
       "detail": "CON INTIMIDACIÓN → Cambia a Chandelure usa Lanzallamas para tantear, observa quién entra // Staraptor no se retira → Seguir usando Lanzallamas",
       "variant": [
         {
-          "detail": "Milotic → Cambiar a Poliwrath, a Metagross, enfrentar a Gothitelle, usar Truco para bloquear a Nidoking, entra Excadrill con Trampa Rocas, Cloyster x6",
+          "detail": "MILOTIC → Cambiar a Poliwrath, a Metagross, enfrentar a Gothitelle, usar Truco para bloquear a Nidoking, entra Excadrill con Trampa Rocas, Cloyster x6",
           "variant": []
         },
         {
-          "detail": "Umbreon → Scrafty x3 // A Bocajarro para eliminar a Metagross, si Milotic huye, continuar fortaleciendo",
+          "detail": "UMBREON → Scrafty x3 // A Bocajarro para eliminar a Metagross, si cambia a Milotic, continua fortaleciendo",
           "variant": [
             {
-              "detail": "Si cambia a Nidoking despues de Danza Dragón, cambiar a Chandelure y usar Truco para bloquearlo con Terremoto, entra Excadrill con Tampa Rocas, Cloyster x6",
+              "detail": "Si cambia a Nidoqueen despues de Danza Dragón, cambiar a Chandelure y usar Truco para bloquearlo con Terremoto, entra Excadrill con Tampa Rocas, Cloyster +6",
               "variant": []
             }
           ]
