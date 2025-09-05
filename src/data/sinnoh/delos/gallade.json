@@ -41,7 +41,7 @@
           "detail": "PROTECCIÓN (TRUCO FALLIDO) → Usar Truco de nuevo hasta que tenga éxito",
           "variant": [
             {
-              "detail": "Deseo / Protección → Cloyster x4",
+              "detail": "Deseo / Protección → Cloyster +4",
               "variant": []
             },
             {
@@ -63,7 +63,7 @@
           "variant": []
         },
         {
-          "detail": "DRAGONITE → Excadrill x4 + 2",
+          "detail": "DRAGONITE → Excadrill 4+2",
           "variant": []
         }
       ]
