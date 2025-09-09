@@ -2,7 +2,7 @@
   "id": "dragonite",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO, Si Queda encerrado en Tijera X, pon trampa Rocas y Observa por quien Cambia:",
+  "initialMove": "TRUCO, Si Queda encerrado en Bisharp, pon trampa Rocas y Observa por quien Cambia:",
   "tricks": [
     {
       "detail": "PUÑO FUEGO: Cambia Chandelure y Debilitarlo con Poder Oculto observa a quien saca:",
