@@ -5,12 +5,16 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "TERREMOTO / EXCADRILL → Excadrill +4+2 / Terremoto para eliminar Druddigon",
+      "detail": "Terremoto --> Excadrill +4+2 (Terremoto para eliminar Druddigon)",
       "variant": []
     },
     {
-      "detail": "ONDA ÍGNEA → Scrafty usa Puño Drenaje una vez para reducir HP, luego usa Danza Dragón tres veces / A Bocajarro para eliminar Conkeldurr",
+      "detail": "Onda Ignea --> Scrafty (usa 1 Puño Drenaje luego +3) / A Bocajarro para Conkeldurr",
       "variant": []
-    }
+    },
+    {
+      "detail": "EXCADRILL --> Excadrill +4+2 (Terremoto para eliminar Druddigon)",
+      "variant": []
+    }    
   ]
 }
