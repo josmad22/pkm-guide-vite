@@ -5,15 +5,15 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "Garchomp → Cloister +6 con crítico. Si no, todo con ataques de Hielo. Puede salir un Feraligatr, pero no hay peligro.",
+      "detail": "GARCHOMP → Cloister +6 + crítico. / Todo muere con Carámbano.",
       "variant": []
     },
     {
-      "detail": "Rhydon →Cloister 4. Usa Carámbano para matar a Houndoom.",
+      "detail": "RHYDON → Cloister 4. Usa Carámbano para matar a Houndoom.",
       "variant": []
     },
     {
-      "detail": "Cascada → Cloister sube defensa +4 Especial X Si no temes al crítico, puedes no usar Especial X",
+      "detail": "CASCADA → Cloister sube defensa +4 Especial X Si no temes al crítico, puedes no usar Especial X",
       "variant": []
     }
   ]
