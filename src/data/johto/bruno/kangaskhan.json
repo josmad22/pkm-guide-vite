@@ -2,10 +2,10 @@
   "id": "kangaskhan",
   "name": "Kangaskhan",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "PUÑO TRUENO",
   "tricks": [
     {
-      "detail": "Si cambia a Steelix, saca a Cloyster +4 + Especial X",
+      "detail": "STEELIX → Cloyster +4 + Especial X / Carámbano para Heracross",
       "variant": []
     }
   ]
