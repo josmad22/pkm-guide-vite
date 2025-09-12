@@ -5,15 +5,15 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "Gafas Elegidas → Cloyster +6",
+      "detail": "GAFAS ELEGIDAS → Cloyster +6 / Surf para Gengar",
       "variant": []
     },
     {
-      "detail": "Restos → Cloyster +4. / Carámbano para vencer a Lucario",
+      "detail": "RESTOS → Cloyster +4. / Carámbano para vencer a Lucario",
       "variant": []
     },
     {
-      "detail": "Casco Dentado → Cloyster +6. / Carámbano para vencer a Houndoom",
+      "detail": "CASCO DENTADO → Cloyster +6. / Carámbano para vencer a Houndoom",
       "variant": []
     }
   ]
