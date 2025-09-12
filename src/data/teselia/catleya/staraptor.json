@@ -12,14 +12,14 @@
           "variant": []
         },
         {
-          "detail": "Mienshao → Cambiar a Scrafty y observar la situación",
+          "detail": "MIENSHAO → Cambiar a Scrafty y observar la situación",
           "variant": [
             {
               "detail": "Mienshao no se retira → Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
               "variant": []
             },
             {
-              "detail": "Vaporeon → Cambiar a Poliwrath luego a Chandelure, enfrentar a Reuniclus, usar Truco para bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
+              "detail": "VAPOREON → cambia a Poliwrath y luego a Chandelure para usar Truco, bloquear en Psíquico, luego entra Scrafty +3 // Si vuelve Vaporeon no importa.",
               "variant": []
             }
           ]
