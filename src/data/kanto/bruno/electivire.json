@@ -13,13 +13,13 @@
       "variant": []
     },
     {
-      "detail": "Si cambia a MACHAMP, cambia a Chandelure y analiza:",
+      "detail": "MACHAMP → cambia a Chandelure y analiza:",
       "variant": [
         {
           "detail": "Si MACHAMP NO CAMBIA, utiliza Poder Oculto para bajar vida, luego cambia a Metagross ya que saldrá Blastoise, utiliza Trampa Rocas para luego cambiar a Poliwrath Tambor + Vel x"
         },
         {
-          "detail": "Si entra Gliscor utiliza Truco con Chandelure para encerrar en Terremoto, cambia a Cloyster +4 + Especial X"
+          "detail": "GLISCOR → Truco con Chandelure, cambia a Cloyster +4 + Especial X / Carámbano para Hitmonlee"
         }
       ]
     },
