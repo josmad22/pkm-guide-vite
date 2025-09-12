@@ -5,15 +5,15 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "GARCHOMP → Cloister +6 + crítico. / Todo muere con Carámbano.",
+      "detail": "GARCHOMP → Cloyster +6 + crítico. / Todo muere con Carámbano.",
       "variant": []
     },
     {
-      "detail": "RHYDON → Cloister 4. Usa Carámbano para matar a Houndoom.",
+      "detail": "RHYDON → Cloyster +4. Usa Carámbano para matar a Houndoom.",
       "variant": []
     },
     {
-      "detail": "CASCADA → Cloister sube defensa +4 Especial X Si no temes al crítico, puedes no usar Especial X",
+      "detail": "CASCADA → Cloyster sube defensa +4 Especial X Si no temes al crítico, puedes no usar Especial X",
       "variant": []
     }
   ]
