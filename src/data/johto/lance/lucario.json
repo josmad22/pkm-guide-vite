@@ -18,7 +18,7 @@
       ]
     },
     {
-      "detail": "Contra Dragonite → Chandelure lanza un Poder Oculto (Hielo), verificar si acierta Cometa Draco.",
+      "detail": "DRAGONITE → Chandelure lanza un Poder Oculto (Hielo), verificar si acierta Cometa Draco.",
       "variant": [
         {
           "detail": "Si acierta y Chandelure es debilitado → Sacar Metagross y colocar Trampa Rocas.",
@@ -51,14 +51,14 @@
           ]
         },
         {
-          "detail": "Si Cometa Draco acierta y no debilita → Seguir usando Poder Oculto (Hielo)",
+          "detail": "SI ACIERTA Y NO DEBILITA → Seguir usando Poder Oculto (Hielo)",
           "variant": [
             {
               "detail": "Si entra Arcanine o Electivire → Excadrill con +4+2 + Trampa Rocas",
               "variant": []
             },
             {
-              "detail": "Si entra Feraligatr → Cambiar a Metagross, usar Truco para bloquear en Cascada, luego Poliwrath +6+6.",
+              "detail": "FERALIGATR → Cambiar a Metagross, usar Truco para bloquear en Cascada, luego Poliwrath +6+2+6.",
               "variant": []
             }
           ]
