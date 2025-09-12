@@ -5,17 +5,17 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "LLAMARADA → Cambiar a Chandelure y usar Truco, bloquear a Feraligatr, luego Poliwrath entra con +6 +2 + 6 (El último +6 es otro Tambor). (Si Dragonite no se retira, usar Truco nuevamente para forzar el cambio.)",
+      "detail": "Llamarada → Cambiar a Chandelure y usar Truco, bloquear a Feraligatr, luego Poliwrath entra con +6 +2 + 6 (El último +6 es otro Tambor). (Si Dragonite no se retira, usar Truco nuevamente para forzar el cambio.)",
       "variant": []
     },
     {
-      "detail": "PUÑO FUEGO → Revisar el objeto:",
+      "detail": "Puño Fuego → Revisar el objeto:",
       "variant": [
         {
-          "detail": "CINTA FUERTE → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco. Si no se pueden colocar rocas, cambiar directamente a Excadrill para colocarlas",
+          "detail": "Cinta Fuerte → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco. Si no se pueden colocar rocas, cambiar directamente a Excadrill para colocarlas",
           "variant": [
             {
-              "detail": "AMPHAROS → Excadrill entra con +4 ataque y +2 velocidad",
+              "detail": "Ampharos → Excadrill entra con +4 ataque y +2 velocidad",
               "variant": []
             },
             {
@@ -91,12 +91,13 @@
       "variant": []
     },
     {
-      "detail": "GARCHOMP → Trampa Rocas, Cambiar a Chandelure y Truco, luego Cloyster usa Carámbano para Garchomp. (SITUACIONAL) → Si encierras a Lapras antes de matar a Garchomp, Poliwrath 6+2",
-      "variant": []
-    },
-    {
-      "detail": "LAPRAS → Excadrill +2 + 0, Terremoto para acabar con Lapras",
-      "variant": []
+      "detail": "Garchomp → Trampa Rocas, Cambiar a Chandelure y Truco, luego Cloyster usa Carámbano para Garchomp. (SITUACIONAL) → Si encierras a Lapras antes de matar a Garchomp, Poliwrath 6+2",
+      "variant": [
+        {
+          "detail": "LAPRAS → Excadrill +2 + 0, Terremoto para acabar con Lapras",
+          "variant": []
+        }
+      ]
     },
     {
       "detail": "Hydreigon → Scrafty entra con +4 o +2 + más medicina de ataque",
