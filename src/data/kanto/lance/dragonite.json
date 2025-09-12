@@ -1,21 +1,21 @@
 {
-  "id": "dragonite",
+  "id": "dragonite_8",
   "name": "Dragonite",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "Llamarada → Cambiar a Chandelure y usar Truco, bloquear a Feraligatr, luego Poliwrath entra con +6 +2 + 6 (El último +6 es otro Tambor). (Si Dragonite no se retira, usar Truco nuevamente para forzar el cambio.).",
+      "detail": "LLAMARADA → Cambiar a Chandelure y usar Truco, bloquear a Feraligatr, luego Poliwrath entra con +6 +2 + 6 (El último +6 es otro Tambor). (Si Dragonite no se retira, usar Truco nuevamente para forzar el cambio.)",
       "variant": []
     },
     {
-      "detail": "Puño Fuego → Revisar el objeto:",
+      "detail": "PUÑO FUEGO → Revisar el objeto:",
       "variant": [
         {
-          "detail": "Cinta Fuerte → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco. Si no se pueden colocar rocas, cambiar directamente a Excadrill para colocarlas.",
+          "detail": "CINTA FUERTE → Colocar Trampa Rocas, luego cambiar a Chandelure y usar Truco. Si no se pueden colocar rocas, cambiar directamente a Excadrill para colocarlas",
           "variant": [
             {
-              "detail": "Ampharos → Excadrill entra con +4 ataque y +2 velocidad.",
+              "detail": "AMPHAROS → Excadrill entra con +4 ataque y +2 velocidad",
               "variant": []
             },
             {
@@ -23,7 +23,7 @@
               "variant": []
             },
             {
-              "detail": "Gyarados → Cloyster entra, consume medicina de defensa y boostea +4.",
+              "detail": "Gyarados → Cloyster entra, consume medicina de defensa y boostea +4",
               "variant": []
             },
             {
@@ -36,10 +36,10 @@
           "detail": "Restos → Evaluar según daño real en combate (no calcular mentalmente):",
           "variant": [
             {
-              "detail": "37% o más (probabilidad de crítico superior al 55%) → Intenta colocar Trampa Rocas, luego cambia a Chandelure y usa Truco.",
+              "detail": "37% o más (probabilidad de crítico superior al 55%) → Intenta colocar Trampa Rocas, luego cambia a Chandelure y usa Truco",
               "variant": [
                 {
-                  "detail": "Tyranitar → Enviar a Scrafty +2. Si Metagross muere o está quemado, curarlo o quitarle la quemadura.",
+                  "detail": "Tyranitar → Enviar a Scrafty +2. Si Metagross muere o está quemado, curarlo o quitarle la quemadura",
                   "variant": []
                 },
                 {
@@ -48,26 +48,25 @@
                 },
                 {
                   "detail": "Aerodactyl → Enviar a Excadrill con +4 +2",
+                  "variant": []
+                },
+                {
+                  "detail": "Si Metagross falla al colocar rocas → Cambiar a Chandelure y usar Truco:",
                   "variant": [
                     {
-                      "detail": "Si Metagross falla al colocar rocas → Cambiar a Chandelure y usar Truco:",
-                      "variant": [
-                        {
-                          "detail": "Si entra Tyranitar, enviar a Scrafty +3.",
-                          "variant": []
-                        },
-                        {
-                          "detail": "Si entra Lapras, enviar a Poliwrath con +6 +2 / Prohibido usar A Bocajarro en este escenario.",
-                          "variant": []
-                        }
-                      ]
+                      "detail": "Si entra Tyranitar, enviar a Scrafty +3",
+                      "variant": []
+                    },
+                    {
+                      "detail": "Si entra Lapras, enviar a Poliwrath con +6 +2 / Prohibido usar A Bocajarro en este escenario",
+                      "variant": []
                     }
                   ]
                 }
               ]
             },
             {
-              "detail": "Menos del 37% → Cambiar a Chandelure y usar Truco, bloquear a Feraligatr o Lapras, luego Ludicolo entra con +6 +2 +6 (aprovecha Absorbe Agua para curarse).Si se bloquea a Feraligatr, se puede usar A Bocajarro contra Lapras.",
+              "detail": "Menos del 37% → Cambiar a Chandelure y usar Truco, bloquear a Feraligatr o Lapras, luego Ludicolo entra con +6 +2 +6 (aprovecha Absorbe Agua para curarse).Si se bloquea a Feraligatr, se puede usar A Bocajarro contra Lapras",
               "variant": []
             }
           ]
@@ -76,11 +75,11 @@
           "detail": "Cinta Xperto → Cambiar a Chandelure y usar Truco, bloquear a Scrafty o Feraligatr, luego entra Cloyster con +1 defensa X y +4. / Carámbano contra Lucario",
           "variant": [
             {
-              "detail": "Si Dragonite no se retira, usar Truco nuevamente.",
+              "detail": "Si Dragonite no se retira, usar Truco nuevamente",
               "variant": []
             },
             {
-              "detail": "Si se bloquea a Scrafty, usar medicina de defensa antes de enviar a Ferrothorn.",
+              "detail": "Si se bloquea a Scrafty, usar medicina de defensa antes de enviar a Ferrothorn",
               "variant": []
             }
           ]
@@ -88,23 +87,27 @@
       ]
     },
     {
-      "detail": "Trueno → Excadrill entra con +2 +2 // Si Aparece inesperadamente Steelix, cambiar a Chandelure, usar Truco, bloquear Terremoto, y entra Cloyster con +4.",
+      "detail": "Trueno → Excadrill entra con +2 +2 // Si Aparece inesperadamente Steelix, cambiar a Chandelure, usar Truco, bloquear Terremoto, y entra Cloyster con +4",
       "variant": []
     },
     {
-      "detail": "Garchomp →Coloca Trampa Rocas, Cambiar a Chandelure, intercambiar objetos con Truco, luego Cloyster usa Carámbano para derrotarlo. Lapras entra → Excadrill +2 ataque y 0 velocidad, Terremoto para acabar con Lapras.",
+      "detail": "GARCHOMP → Trampa Rocas, Cambiar a Chandelure y Truco, luego Cloyster usa Carámbano para Garchomp. (SITUACIONAL) → Si encierras a Lapras antes de matar a Garchomp, Poliwrath 6+2",
       "variant": []
     },
     {
-      "detail": "Hydreigon → Scrafty entra con +4 o +2 + más medicina de ataque.",
+      "detail": "LAPRAS → Excadrill +2 + 0, Terremoto para acabar con Lapras",
       "variant": []
     },
     {
-      "detail": "Metagross → Excadrill +4+2, luego colocar rocas.",
+      "detail": "Hydreigon → Scrafty entra con +4 o +2 + más medicina de ataque",
       "variant": []
     },
     {
-      "detail": "Steelix → Colocar rocas (aguantando Colmillo Ígneo), luego cambiar a Chandelure, usar Truco, bloquear a Lapras, Poliwrath entra con +6 +2. // Si Truco no lo hace cambiar, usarlo varias veces; si sigue sin moverse, Chandelure +2+2. / Atacar con Lanzallamas.",
+      "detail": "Metagross → Excadrill +4+2, luego colocar rocas",
+      "variant": []
+    },
+    {
+      "detail": "Steelix → Colocar rocas (aguantando Colmillo Ígneo), luego cambiar a Chandelure, usar Truco, bloquear a Lapras, Poliwrath entra con +6 +2. // Si Truco no lo hace cambiar, usarlo varias veces; si sigue sin moverse, Chandelure +2+2. / Atacar con Lanzallamas",
       "variant": []
     }
   ]
