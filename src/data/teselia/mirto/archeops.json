@@ -1,11 +1,15 @@
 {
-  "id": "bouffalant",
-  "name": "Bouffalant",
+  "id": "archeops",
+  "name": "Archeops",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "Cloyster +4 (Carámbano para Excadrill)",
+      "detail": "TERREMOTO / EXCADRILL → Excadrill +4+2 (Terremoto para eliminar Druddigon)",
+      "variant": []
+    },
+    {
+      "detail": "ONDA ÍGNEA → Scrafty usa Puño Drenaje 1 vez, luego usa Danza Dragón +3 (A Bocajarro para eliminar Conkeldurr) - No hay Banda Focus",
       "variant": []
     }
   ]
