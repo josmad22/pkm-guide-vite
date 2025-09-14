@@ -158,7 +158,9 @@ export default function PokemonGuide() {
             
           </p>
           <p className="text-gray-400 mb-4">Ruta recomendada: 
-            <span className="mr-2 pl-2 text-blue-400">Teselia → Johto → Kanto → Sinnoh → Hoenn</span>
+            <span className="mr-2 pl-2 text-blue-400">Teselia → Johto → Kanto → Sinnoh → Hoenn</span> 
+            <br></br>
+            <span className="mr-2 pl-2 text-blue-400">Teselia → Hoenn(casa) → Sinnoh(casa) → Kanto(casa) → Johto(casa)</span>
           </p>          
         </div>
 
