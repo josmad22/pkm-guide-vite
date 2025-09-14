@@ -2,6 +2,11 @@
   "id": "bouffalant",
   "name": "Bouffalant",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco para bloquear Terremoto, Cloyster +4 / Eliminación con Hielo contra Excadrill",
-  "tricks": []
+  "initialMove": "TRUCO",
+  "tricks": [
+    {
+      "detail": "Cloyster +4 (Carámbano para Excadrill)",
+      "variant": []
+    }
+  ]
 }
