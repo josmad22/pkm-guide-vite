@@ -5,16 +5,12 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "Terremoto --> Excadrill +4+2 (Terremoto para eliminar Druddigon)",
+      "detail": "TERREMOTO / EXCADRILL → Excadrill +4+2 (Terremoto para eliminar Druddigon)",
       "variant": []
     },
     {
-      "detail": "Onda Ignea --> Scrafty (usa 1 Puño Drenaje luego +3) / A Bocajarro para Conkeldurr",
+      "detail": "ONDA ÍGNEA → Scrafty usa Puño Drenaje 1 vez, luego usa Danza Dragón +3 (A Bocajarro para eliminar Conkeldurr) - No hay Banda Focus",
       "variant": []
-    },
-    {
-      "detail": "EXCADRILL --> Excadrill +4+2 (Terremoto para eliminar Druddigon)",
-      "variant": []
-    }    
+    }
   ]
 }
