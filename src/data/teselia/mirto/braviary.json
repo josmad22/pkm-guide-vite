@@ -2,41 +2,68 @@
   "id": "braviary",
   "name": "Braviary",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "TRUCO",
+  "initialMove": "PUÑO TRUENO / SI BRAVIARY NO CAMBIA, CONTINUA ATACANDO",
   "tricks": [
     {
-      "detail": "A BOCAJARRO → Usa Truco para recuperar Pañuelo Elección, luego Puño Trueno para eliminar y observa el siguiente movimiento👇🏻",
+      "detail": "SANDSLASH → Cambia a Chandelure y usa Truco, Cloyster +6 (Mata todo con Carámbano)",
       "variant": [
         {
-          "detail": "Si entra Sandslash → Usa Puño Trueno para eliminar, Chandelure usa Truco para bloquear Terremoto, Cloyster +6 / Todo con Carámbano",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Lucario → Cambia a Chandelure (si usa Sacrificio), Truco para intercambiar objeto, Scrafty +2 / Puño Drenaje para eliminar Sandslash",
-          "variant": []
-        },
-        {
-          "detail": "Si entra Manectric → Cambia a Chandelure y usa Truco para bloquear Rayo, Excadrill coloca Trampa Rocas +4+2",
+          "detail": "Si Truco de Chandelure falla → saca a Metagross y sigue usando Truco",
           "variant": []
         }
       ]
     },
     {
-      "detail": "LUCARIO → Cambia a Chandelure para analizar el movimiento",
+      "detail": "MANECTRIC → Cambia a Chandelure y usa Truco. Luego Excadrill,Trampa Rocas y se potencia a +4+2. (Si Manectric está a +1 At. Esp.→ Sacrifica a Metagross, después saca a Chandelure y usa Truco.)",
+      "variant": []
+    },
+    {
+      "detail": "LUCARIO → Cambia a Chandelure para ver qué movimiento usa 👇🏻",
       "variant": [
         {
-          "detail": "Patada Salto Alta → Usa Truco hasta que se debilite por sí mismo, entra Vaporeon, usa Truco para bloquear Hidrobomba, Poder Oculto para debilitarlo, entra Metagross y usa Truco para bloquear Sandslash, Cloyster +6",
-          "variant": []
+          "detail": "Patada Salto Alta → usa Truco y espera el suicidio",
+          "variant": [
+            {
+              "detail": "Vaporeon → Truco para bloquear Hidrobomba, ayuda a Metagross a curarse al 100%. // Si usa Poder Oculto, sacrifica; luego manda a Metagross y Truco para bloquear a Sandslash. (Saca a Cloyster +6 → todo muere con Carámbano)",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Sacrificio → Usa Truco para intercambiar objeto, Scrafty +2 / Puño Drenaje para eliminar Sandslash",
+          "detail": "Sacrificio → usa Truco, Scrafty +2. (Puño Drenaje para Sandslash y Paliza para Volcarona)",
           "variant": []
         }
       ]
-    },    
+    },
     {
-      "detail": "SANDSLASH → Cloyster +6 / Todo con Carámbano",
-      "variant": []
+      "detail": "VOLCARONA → Chandelure usa Lanzallamas",
+      "variant": [
+        {
+          "detail": "VAPOREON → cambia a Metagross y usa Truco:",
+          "variant": [
+            {
+              "detail": "HIDROBOMBA→ Poliwrath +6+2 y cura al 100%. (Sandslash Banda Focus)",
+              "variant": []
+            },
+            {
+              "detail": "RAYO HIELO → Scrafty +1 Medicina Def. Esp X y +3 Danza Dragón. (Sandslash Banda Focus)",
+              "variant": []
+            },
+            {
+              "detail": "PODER OCULTO → Excadrill Trampa Rocas 4+2",
+              "variant": []
+            },
+            {
+              "detail": "SANDSLASH → Cloyster +6. (Volcarona y Sandslash Banda Focus)",
+              "variant": []
+            },
+            {
+              "detail": "LUCARIO→ Chandelure Truco, Scrafty +3. (Sandslash Banda Focus)",
+              "variant": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
