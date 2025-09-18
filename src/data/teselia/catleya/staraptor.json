@@ -12,37 +12,50 @@
           "variant": []
         },
         {
-          "detail": "MIENSHAO → Cambiar a Scrafty y observar la situación",
+          "detail": "Mienshao → Cambiar a Scrafty y observar la situación",
           "variant": [
             {
               "detail": "Mienshao no se retira → Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
               "variant": []
             },
             {
-              "detail": "VAPOREON → cambia a Poliwrath y luego a Chandelure para usar Truco, bloquear en Psíquico, luego entra Scrafty +3 // Si vuelve Vaporeon no importa.",
+              "detail": "Vaporeon → Cambiar a Poliwrath luego a Chandelure, enfrentar a Reuniclus, usar Truco para bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Imprevisto — sale Reuniclus tras Trampa Rocas → Cambiar a Chandelure, usar Truco, bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
+          "detail": "Imprevisto --- sale Reuniclus tras Trampa Rocas → Cambiar a Chandelure, usar Truco, bloquear Psíquico, Scrafty x3 / Si Vaporeon huye, no importa. Continuar fortaleciendo",
           "variant": []
         }
       ]
-    },    
+    },
     {
       "detail": "CON INTIMIDACIÓN → Cambia a Chandelure usa Lanzallamas para tantear, observa quién entra // Staraptor no se retira → Seguir usando Lanzallamas",
       "variant": [
         {
-          "detail": "MILOTIC → Cambiar a Poliwrath, a Metagross, enfrentar a Gothitelle, usar Truco para bloquear a Nidoking, entra Excadrill con Trampa Rocas, Cloyster x6",
+          "detail": "Milotic → Cambiar a Poliwrath, a Metagross, enfrentar a Gothitelle, usar Truco para bloquear a Nidoking, entra Excadrill con Trampa Rocas, Cloyster x6",
           "variant": []
         },
         {
-          "detail": "UMBREON → Scrafty x3 // A Bocajarro para eliminar a Metagross, si cambia a Milotic, continua fortaleciendo",
+          "detail": "Umbreon → cambia a Scrafty y observa la situación 👇🏻",
           "variant": [
             {
-              "detail": "Si cambia a Nidoqueen despues de Danza Dragón, cambiar a Chandelure y usar Truco para bloquearlo con Terremoto, entra Excadrill con Tampa Rocas, Cloyster +6",
+              "detail": "Umbreon se queda → Scrafty +3. / A Bocajarro mata a Metagross, Paliza mata a Staraptor",
               "variant": []
+            },
+            {
+              "detail": "Milotic → cambia a Poliwrath",
+              "variant": [
+                {
+                  "detail": "Milotic se queda → cambia a Metagross, usa Truco para bloquear a Nidoqueen, luego Excadrill pone Trampa Rocas y Cloyster +6. (Metagross se topa inesperadamente con Staraptor, repite la operación)",
+                  "variant": []
+                },
+                {
+                  "detail": "Nidoqueen → cambia a Excadrill, luego a Chandelure y usa Truco para bloquear Poder Tierra. Después Excadrill coloca Trampa Rocas y Cloyster +6",
+                  "variant": []
+                }
+              ]
             }
           ]
         }
