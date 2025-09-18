@@ -5,15 +5,24 @@
   "initialMove": "CAMBIA A CHANDELURE",
   "tricks": [
     {
-      "detail": "GIRO BOLA → usa Lanzallamas para debilitar, si entra Tyranitar, cambia a Cloyster, luego a Metagross con Truco, encerrar en Terremoto, Cloyster +4",
+      "detail": "Giro Bola → usa Lanzallamas para debilitar, si entra Tyranitar, cambia a Cloyster, luego a Metagross con Truco, encerrar en Terremoto, Cloyster +4",
       "variant": []
     },
     {
-      "detail": "PISOTÓN (ESCOGER POR DESCARTE, NO SE QUE SIGNIFICA oño) → Truco para encerrar en Vendetta, Scrafty +2",
-      "variant": []
+      "detail": "Terratemblor → Truco",
+      "variant": [
+        {
+          "detail": "Vendetta → Scrafty +2",
+          "variant": []
+        },
+        {
+          "detail": "Terratemblor → Cloyster +4",
+          "variant": []
+        }
+      ]
     },
     {
-      "detail": "FLYGON → truco para encerrar en Terremoto, Cloyster +6 (todo se mata con Carámbano)",
+      "detail": "Flygon → truco para encerrar en Terremoto, Cloyster +6 (todo se mata con Carámbano)",
       "variant": []
     }
   ]
