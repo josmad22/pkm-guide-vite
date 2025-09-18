@@ -158,9 +158,7 @@ export default function PokemonGuide() {
             
           </p>
           <p className="text-gray-400 mb-4">Ruta recomendada: 
-            <span className="mr-2 pl-2 text-blue-400">Teselia → Johto → Kanto → Sinnoh → Hoenn</span> 
-            <br></br>
-            <span className="mr-2 pl-2 text-blue-400">Teselia → Hoenn(casa) → Sinnoh(casa) → Kanto(casa) → Johto(casa)</span>
+          <span className="mr-2 pl-2 text-blue-400">Teselia → Hoenn(casa) → Sinnoh(casa) → Kanto(casa) → Johto</span>
           </p>          
         </div>
 
@@ -175,7 +173,7 @@ export default function PokemonGuide() {
               ) : (
                 <ChevronDown className="w-4 h-4 text-blue-400" />
               )}
-              <span className="text-blue-400 font-medium">RECOMENDACIONES ANTES DE EMPEZAR <b>(EQUIPO - TIPS)</b></span>
+              <span className="text-blue-400 font-medium pb-2">RECOMENDACIONES ANTES DE EMPEZAR <b>(EQUIPO - TIPS)</b></span>
             </button>
             {showTips && (
               <ul className="list-disc text-left max-w-2xl mx-auto pl-6 text-gray-300 animate-in slide-in-from-top duration-300">
@@ -184,6 +182,7 @@ export default function PokemonGuide() {
                 <li className="mb-2">Las estrategias presuponen que el equipo está correctamente configurado (objetos, EV/IV y salud al 100 % tras cada combate).</li>
                 <li className="mb">Usar equipos "económicos" o distintos a los recomendados puede generar resultados imprecisos.</li>
                 <li className="mb">Si encuentras algún error o tienes sugerencias, por favor, reporta en el canal de Discord. 👉 <a href="https://discord.gg/SDCx66c5AM" target="_blank" rel="noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors">DISCORD 👈</a></li>
+                <li className="mb">Al bloquear con CLOYSTER, usar contra GENGAR(Surf) y LUCARIO,HOUNDOOM, SHARPEDO(Carambano)</li>
               </ul>
             )}
         </div>
