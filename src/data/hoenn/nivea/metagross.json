@@ -1,18 +1,18 @@
 {
-  "id": "metagross",
+  "id": "metagross_4",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "MACHADA → Chandelure usa Lanzallamas para debilitarlos",
+      "detail": "Machada → Chandelure usa Lanzallamas para debilitarlos",
       "variant": [
         {
           "detail": "Nidoking/Nidoqueen → Cambiar a Excadrill y luego a Chandelure para usar Truco, bloquear en Tierra Viva, luego usar Excadrill +6+2",
           "variant": []
         },
         {
-          "detail": "Walrein → Poliwrath +6+2. No necesitas Puño Hielo",
+          "detail": "Walrein o Dewgong→ Poliwrath +6+2. También puede usar A Bocajarro para eliminarlo",
           "variant": []
         }
       ]
@@ -26,12 +26,11 @@
       "variant": [
         {
           "detail": "Si entra Hariyama → Cambia a Scrafty, luego a Chandelure para usar Truco y bloquearlo en Roca Afilada. Scrafty +2. / A Bocajarro mata a Hariyama y a Skarmory; si sale Lanturn, mira abajo",
-          "variant": [
-            {
-              "detail": "Si entra Lanturn → cambia a Poliwrath, luego a Excadrill para matarlo. / Si sale Walrein o Dewgong, Scrafty +1, usa Puño Drenaje para curarse y luego +1 más. / A Bocajarro mata a Skarmory",
-              "variant": []
-            }
-          ]
+          "variant": []
+        },
+        {
+          "detail": "Si entra Lanturn → cambia a Poliwrath, luego a Excadrill para matarlo. / Si sale Walrein o Dewgong, Scrafty +1, usa Puño Drenaje para curarse y luego +1 más. / A Bocajarro mata a Skarmory",
+          "variant": []
         }
       ]
     },
@@ -40,37 +39,47 @@
       "variant": []
     },
     {
-      "detail": "No cambia → Chandelure usa Lanzallamas para debilitar, observa qué saca el rival:",
+      "detail": "No cambia → Chandelure usa Lanzallamas, observa qué saca el rival:",
       "variant": [
         {
-          "detail": "Si entra Walrein → Depende del PS de Chandelure:",
+          "detail": "Walrein o Dewgong → revisa la vida de Chandelure:",
           "variant": [
             {
-              "detail": "Si está a punto de caer → Usar Lanzallamas y dejarlo KO, luego entra Poliwrath +6 y con Raíz Energía recupera PS, sigue subiendo a +2 Velocidad. Si Poliwrath está al 75% de vida, sacrifica a Chandelure, cambia a Scrafty, luego a Poliwrath para fortalecerse",
-              "variant": []
+              "detail": "PS bajos → usa Lanzallamas con Chandelure y déjalo caer, luego entra Poliwrath +6, cúralo con Raíz Energía y después +2 (Puño Hielo para Mismagius)",
+              "variant": [
+                {
+                  "detail": "Si Poliwrath está al 75% PS, primero sacrifica a Chandelure, entra Scrafty y luego cambia a Poliwrath 6+2",
+                  "variant": []
+                }
+              ]
             },
             {
-              "detail": "Si tiene PS suficiente → Poliwrath +6 con Raíz Energía, recupera PS y sube a +2",
+              "detail": "Si tiene PS suficiente → Poliwrath +6 con Raíz Energía, recupera PS y sube a +2. (Puño Hielo para Mismagius)",
               "variant": []
             }
           ]
         },
         {
-          "detail": "Si entra Lanturn → Cambiar a Poliwrath, luego a Chandelure para esperar que active Voltiocambio, luego entra Mamoswine. Usa Truco para bloquear en Terremoto, Cloyster +6",
-          "variant": []
+          "detail": "Lanturn → Cambiar a Poliwrath, luego a Chandelure para esperar que active Voltiocambio, luego entra Mamoswine. Usa Truco para bloquear en Terremoto, Cloyster +6",
+          "variant": [
+            {
+              "detail": "Si pasa algo raro → Encierra a Lanturn en Mov. Agua, saca a Poliwrath 6+2+2 (Defensa X)",
+              "variant": []
+            }
+          ]
         },
         {
-          "detail": "Si entra Mamoswine → Cambiar a Excadrill, luego a Chandelure para usar Truco, bloquear en Terremoto, Cloyster +6",
+          "detail": "Mamoswine → Cambiar a Excadrill, luego a Chandelure para usar Truco, bloquear en Terremoto, Cloyster +6",
           "variant": []
         }
       ]
     },
     {
-      "detail": "NIDOKING / NIDOQUEEN → Excadrill +6+2",
+      "detail": "Nidoking / Nidoqueen → Excadrill +6+2",
       "variant": []
     },
     {
-      "detail": "MAMOSWINE → Excadrill +6+2. / Skarmory muere de 2 Cabezahierro",
+      "detail": "Mamoswine → Excadrill +6+2. / Skarmory muere de 2 Cabezahierro",
       "variant": []
     }
   ]
