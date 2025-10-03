@@ -36,41 +36,42 @@
     },
     {
       "detail": "PUÑO METEORO → Colocar Trampa Rocas",
-      "variant": []
-    },
-    {
-      "detail": "No cambia → Chandelure usa Lanzallamas, observa qué saca el rival:",
       "variant": [
         {
-          "detail": "Walrein o Dewgong → revisa la vida de Chandelure:",
+          "detail": "No cambia → Chandelure usa Lanzallamas, observa qué saca el rival:",
           "variant": [
             {
-              "detail": "PS bajos → usa Lanzallamas con Chandelure y déjalo caer, luego entra Poliwrath +6, cúralo con Raíz Energía y después +2 (Puño Hielo para Mismagius)",
+              "detail": "Walrein o Dewgong → revisa la vida de Chandelure:",
               "variant": [
                 {
-                  "detail": "Si Poliwrath está al 75% PS, primero sacrifica a Chandelure, entra Scrafty y luego cambia a Poliwrath 6+2",
+                  "detail": "PS bajos → usa Lanzallamas con Chandelure y déjalo caer, luego entra Poliwrath +6, cúralo con Raíz Energía y después +2 (Puño Hielo para Mismagius)",
+                  "variant": [
+                    {
+                      "detail": "Si Poliwrath está al 75% PS, primero sacrifica a Chandelure, entra Scrafty y luego cambia a Poliwrath 6+2",
+                      "variant": []
+                    }
+                  ]
+                },
+                {
+                  "detail": "Si tiene PS suficiente → Poliwrath +6 con Raíz Energía, recupera PS y sube a +2. (Puño Hielo para Mismagius)",
                   "variant": []
                 }
               ]
             },
             {
-              "detail": "Si tiene PS suficiente → Poliwrath +6 con Raíz Energía, recupera PS y sube a +2. (Puño Hielo para Mismagius)",
-              "variant": []
-            }
-          ]
-        },
-        {
-          "detail": "Lanturn → Cambiar a Poliwrath, luego a Chandelure para esperar que active Voltiocambio, luego entra Mamoswine. Usa Truco para bloquear en Terremoto, Cloyster +6",
-          "variant": [
+              "detail": "Lanturn → Cambiar a Poliwrath, luego a Chandelure para esperar que active Voltiocambio, luego entra Mamoswine. Usa Truco para bloquear en Terremoto, Cloyster +6",
+              "variant": [
+                {
+                  "detail": "Si pasa algo raro → Encierra a Lanturn en Mov. Agua, saca a Poliwrath 6+2+2 (Defensa X)",
+                  "variant": []
+                }
+              ]
+            },
             {
-              "detail": "Si pasa algo raro → Encierra a Lanturn en Mov. Agua, saca a Poliwrath 6+2+2 (Defensa X)",
+              "detail": "Mamoswine → Cambiar a Excadrill, luego a Chandelure para usar Truco, bloquear en Terremoto, Cloyster +6",
               "variant": []
             }
           ]
-        },
-        {
-          "detail": "Mamoswine → Cambiar a Excadrill, luego a Chandelure para usar Truco, bloquear en Terremoto, Cloyster +6",
-          "variant": []
         }
       ]
     },
