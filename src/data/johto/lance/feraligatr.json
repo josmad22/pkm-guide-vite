@@ -8,11 +8,11 @@
       "detail": "DRAGONITE → Cambia a Chandelure y observa el movimiento:",
       "variant": [
         {
-          "detail": "Puño Fuego → Usa Truco para bloquear con Feraligatr, luego entra Poliwrath con +6 y +2+2 (Def. Esp.). Si recibe un golpe crítico de Esfera Aural y queda debilitado, usa Raíz Grande para curarse y seguir barriendo (prevención contra prioridad).",
+          "detail": "Puño Fuego → Usa Truco para bloquear con Feraligatr, luego entra Poliwrath con +6 y +2+2 (Def. Esp.). Si recibe un golpe crítico de Esfera Aural y queda debilitado, usa Raíz Grande para curarse y seguir barriendo (prevención contra prioridad)",
           "variant": []
         },
         {
-          "detail": "Llamarada → Usa Poder Oculto al punto; si Dragonite no cambia, sigue atacando.",
+          "detail": "Llamarada → Usa Poder Oculto al punto; si Dragonite no cambia, sigue atacando",
           "variant": [
             {
               "detail": "Sale Scrafty → Cambia a Metagross para colocar Trampa Rocas. Si Scrafty no se retira, o si sale Infernape, cambia a Chandelure y usa Truco.👇🏻",
@@ -37,13 +37,13 @@
               ]
             },
             {
-              "detail": "Sale Feraligatr → Cambia a Metagross para colocar trampas, sacrificarlo, luego entra Chandelure y usa Truco para bloquear con Cascada, luego entra Poliwrath con +6+2. // Si no pudiste colocar trampas, no importa, solo usa una medicina de Def. Esp. // Si recibe crítico de Esfera Aural, usa Raíz Energía para curarse.",
+              "detail": "Sale Feraligatr → Cambia a Metagross para colocar trampas, sacrificarlo, luego entra Chandelure y usa Truco para bloquear con Cascada, luego entra Poliwrath con +6+2. // Si no pudiste colocar trampas, no importa, solo usa una medicina de Def. Esp. // Si recibe crítico de Esfera Aural, usa Raíz Energía para curarse",
               "variant": []
             }
           ]
         }
       ]
-    },    
+    },
     {
       "detail": "STEELIX → Depende del objeto:",
       "variant": [
@@ -52,47 +52,42 @@
           "variant": []
         },
         {
-          "detail": "Baya Chiri → Metagross coloca Trampa Rocas, luego Excadrill con +2 Ataque, No necesitas velocidad. Si luego entra Lapras, ignóralo: ya estás completamente potenciado.",
+          "detail": "Baya Chiri → Metagross coloca Trampa Rocas, luego Excadrill con +2 Ataque, No necesitas velocidad. Si luego entra Lapras, ignóralo: ya estás completamente potenciado",
           "variant": []
         }
       ]
     },
-
     {
       "detail": "METAGROSS → Cloyster +4",
       "variant": []
     },
     {
-      "detail": "AMPHAROS → Cambia a Excadrill",
+      "detail": "AMPHAROS → Excadrill coloca Trampa Rocas +4+2. / Terremoto mata a Arcanine",
       "variant": [
         {
-          "detail": "Si Ampharos no se retira → Excadrill con +4+2. / Usa Terremoto para eliminar a Arcanine",
-          "variant": []
-        },
-        {
-          "detail": "Contra Dragonite → Usa Cabeza Hierro para romper la habilidad, luego cambia a Chandelure y remata con Poder Oculto, observa qué sale después👇🏻",
+          "detail": "Dragonite → Usa Cabeza Hierro para romper la habilidad, luego cambia a Chandelure y remata con Poder Oculto, observa qué sale después👇🏻",
           "variant": [
             {
-              "detail": "Si entra Arcanine → Excadrill con +4+2 y usa una medicina fuerte para curarse.",
+              "detail": "Arcanine → (Chandelure ayuda a Excadrill a quitar la quemadura), Excadrill coloca Trampa Rocas +4+2 y se cura con Raíz Energía",
               "variant": []
             },
             {
-              "detail": "Si entra Feraligatr → Cambia a Metagross para colocar trampas, lo sacrificas, luego entra Chandelure y usa Truco para bloquear con Cascada, luego entra Poliwrath con +6+2. Si luego Ampharos entra, cambia a Excadrill con +4+2.",
+              "detail": "Feraligatr → cambia a Metagross (Trampa Rocas), sacrifica, Chandelure usa Truco para bloquear en Cascada, Poliwrath +6+2",
               "variant": []
             }
           ]
-        }       
+        }
       ]
     },
     {
       "detail": "HYDREIGON → Cambia a Chandelure y usa Truco",
       "variant": [
         {
-          "detail": "Si Hydreigon no se va, Scrafty usa medicina de Def. Esp. y se potencia a +3. / Puño Drenaje derrota a Lucario // Si Scrafty fue derrotado por Lucario → Chandelure usa Truco para bloquear con Pulso Umbrío, revive a Scrafty, Scrafty entra con +3.",
+          "detail": "Si Hydreigon no se va, Scrafty usa medicina de Def. Esp. y se potencia a +3. / Puño Drenaje derrota a Lucario // Si Scrafty fue derrotado por Lucario → Chandelure usa Truco para bloquear con Pulso Umbrío, revive a Scrafty, Scrafty entra con +3",
           "variant": []
         },
         {
-          "detail": "Si entra Feraligatr, Poliwrath +6+2+2 (Def. Esp.) // Si Poliwrath recibe un crítico de Esfera Aural, usa Raíz Grande para curarse y seguir barriendo.",
+          "detail": "Si entra Feraligatr, Poliwrath +6+2+2 (Def. Esp.) Si Poliwrath recibe un crítico de Esfera Aural, usa Raíz Grande para curarse y seguir barriendo",
           "variant": []
         }
       ]
@@ -102,7 +97,7 @@
       "variant": []
     },
     {
-      "detail": "SCRAFTY → Cambia a Chandelure contra Infernape, usa Truco para bloquear con Puño Trueno, luego entra Excadrill con +4+2",
+      "detail": "SCRAFTY → Cambia a Chandelure contra Infernape, usa Truco para bloquear con Puño Trueno, luego entra Excadrill con +4+2 y trampa rocas",
       "variant": []
     },
     {
@@ -118,7 +113,7 @@
       "variant": []
     },
     {
-      "detail": "CASCADA→ Poliwrath +6+2+2 (Def. Esp.). // Si hay Lucario con Banda Focus, y recibe un crítico de Esfera Aural, usa Raíz Grande para curarse y seguir barriendo.",
+      "detail": "CASCADA → Poliwrath +6+2+2 (Def. Esp.). // Si hay Lucario con Banda Focus, y recibe un crítico de Esfera Aural, usa Raíz Grande para curarse y seguir barriendo",
       "variant": []
     }
   ]
