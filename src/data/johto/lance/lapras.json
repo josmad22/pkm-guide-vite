@@ -5,33 +5,38 @@
   "initialMove": "TRUCO",
   "tricks": [
     {
-      "detail": "STEELIX → Metagross pone Trampa Rocas, Excadrill 2+0 (Si sale Lapras no importa, ya tienes todas las mejoras hechas)",
+      "detail": "Steelix → Metagross pone Trampa Rocas, Excadrill 2+0 (Si sale Lapras no importa, ya tienes todas las mejoras hechas)",
       "variant": []
     },
     {
-      "detail": "DONPHAN → Excadrill 6+2",
+      "detail": "Donphan → Excadrill 6+2",
       "variant": []
     },
     {
-      "detail": "RAYO + BAYA → Excadrill 6+2",
-      "variant": []
-    },
-    {
-      "detail": "RAYO + GAFAS ELEGID. → Excadrill 4+2",
-      "variant": []
-    },
-    {
-      "detail": "SURF → Revisa el objeto",
+      "detail": "Rayo + Baya → Excadrill 6+2",
       "variant": [
         {
-          "detail": "BAYA ATANIA → Poliwrath 6+2",
-          "variant": []
-        },
-        {
-          "detail": "GAFAS ELEGID. → Pone Trampa Rocas, Poliwrath 6+2",
+          "detail": "Tyranitar → Scrafty +4 o +2 y ATK X",
           "variant": []
         }
       ]
-    }    
+    },
+    {
+      "detail": "Rayo + Gafas Elegidas → Excadrill 4+2",
+      "variant": []
+    },
+    {
+      "detail": "Surf → Revisa el objeto",
+      "variant": [
+        {
+          "detail": "Baya Atania → Poliwrath 6+2",
+          "variant": []
+        },
+        {
+          "detail": "Gafas Elegidas → Pone Trampa Rocas, Poliwrath 6+2",
+          "variant": []
+        }
+      ]
+    }
   ]
 }
