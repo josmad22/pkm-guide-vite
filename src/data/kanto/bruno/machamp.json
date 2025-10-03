@@ -5,7 +5,7 @@
   "initialMove": "CAMBIA A CHANDELURE",
   "tricks": [
     {
-      "detail": "PUÑO DINÁMICO → Utiliza Truco y observa:",
+      "detail": "Puño Dinámico → Utiliza Truco y observa:",
       "variant": [
         {
           "detail": "ROCA AFILADA, cambia a Scrafty +3 (Paliza para matar a Hitmonlee, A Bocajarro para matar a Metagross) (Si chandelure muere por el Roca Afilada usa +1 Danza Dragón Extra) (puedes usar 1 Puño Drenaje cuando estes a +2 para recuperar Salud)",
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "detail": "PUÑO DRENAJE → Utiliza Truco:",
+      "detail": "Puño Drenaje → Utiliza Truco:",
       "variant": [
         {
           "detail": "Roca Afilada (Baya Atania) → Scrafty +3. / Si Chandelure muere, cambia a Excadrill para quedar 6+2",
@@ -49,19 +49,19 @@
       ]
     },
     {
-      "detail": "METAGROSS → Truco y lo encierras en Avalancha, luego cambia a Metagross para usar Truco y encerrarlo en Krookodile, Cloyster +4. / Carámbano para matar a Lucario",
+      "detail": "Metagross → Truco y lo encierras en Avalancha, luego cambia a Metagross para usar Truco y encerrarlo en Krookodile, Cloyster +4. / Carámbano para matar a Lucario",
       "variant": []
     },
     {
-      "detail": "STEELIX → Truco y lo encierras en Terremoto, Cloyster + 4 + medicina de Ataque Especial",
+      "detail": "Steelix → Truco y lo encierras en Terremoto, Cloyster + 4 + medicina de Ataque Especial",
       "variant": []
     },
     {
-      "detail": "Contra Krookodile → Truco y lo encierras en Terremoto, Cloyster +4 . / Carámbano para matar a Lucario",
+      "detail": "Krookodile → Truco y lo encierras en Terremoto, Cloyster +4 . / Carámbano para matar a Lucario",
       "variant": []
     },
     {
-      "detail": "Contra Aggron → Truco y lo encierras en Testarazo",
+      "detail": "Aggron → usa Truco para bloquear en Testarazo, luego Excadrill usa Defensa X +6+2.",
       "variant": []
     }
   ]
