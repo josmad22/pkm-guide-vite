@@ -1,16 +1,21 @@
 {
-  "id": "metagross",
+  "id": "metagross_5",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "CHANDELURE UTILIZA LANZALLAMAS PARA DEBILITAR Y VER QUIEN ENTRA",
   "tricks": [
     {
-      "detail": "Si entra Dragonite, cambiar a Metagross y utilizar Truco para bloquear en Puño Fuego (Cura al Chandelure hasta más del 60%), luego cambia a Chandelure 4+0 / Lanzallamas para matar a todos",
+      "detail": "Dragonite → Cambiar a Metagross y utilizar Truco para bloquear en Puño Fuego (Cura al Chandelure hasta más del 60%), luego cambia a Chandelure 4+0 / Lanzallamas para matar a todos",
       "variant": []
     },
     {
-      "detail": "Si entra Gallade, cambia a Scrafty, luego cambia a Chandelure y utilizar Truco para bloquear en Tajo Umbrío, lo sacrificas, luego cambiar a Poliwrath 6 + Raíz Grande para curarse y sube +2",
-      "variant": []
+      "detail": "Gallade → Cambia a Scrafty, luego cambia a Chandelure y utilizar Truco para bloquear en Tajo Umbrío, lo sacrificas, luego cambiar a Poliwrath 6 + Raíz Energía para curarse y sube +2",
+      "variant": [
+        {
+          "detail": "Dragonite después de Truco → Cambia a Metagross y utiliza Truco para bloquear Puño Fuego, Chandelure 4+0 (+70% de Salud)",
+          "variant": []
+        }
+      ]
     }
   ]
 }
