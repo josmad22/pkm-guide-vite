@@ -1,5 +1,5 @@
 {
-  "id": "metagross_3",
+  "id": "metagross_6",
   "name": "Metagross",
   "image": "/placeholder.svg?height=80&width=80",
   "initialMove": "Observa si el rival tiene Globo Helio",
@@ -60,39 +60,8 @@
           ]
         },
         {
-          "detail": "PUÑO METEORO, cambia a Chandelure y usa Lanzallamas para eliminarlo, luego ajusta según el siguiente cambio",
-          "variant": [
-            {
-              "detail": "ALTARIA → Cambia a Metagross, coloca Trampa Rocas, luego Scrafty +2 // Empoleon, su ataque prioritario golpea a Scrafty con un 25% de daño",
-              "variant": []
-            },
-            {
-              "detail": "HOUNDOOM → Cambia a Scrafty, luego a Chandelure y usa Truco para bloquear Pulso Umbrío, luego Scrafty +2",
-              "variant": []
-            },
-            {
-              "detail": "Empoleon, cambia a Poliwrath, luego a Metagross y usa Puño Trueno para observar el cambio",
-              "variant": [
-                {
-                  "detail": "Serperior → Chandelure usa Lanzallamas para eliminar, observa el cambio",
-                  "variant": [
-                    {
-                      "detail": "Houndoom → Cambia a Scrafty, luego a Chandelure y usa Truco para bloquear Pulso Umbrío, Scrafty +2",
-                      "variant": []
-                    },
-                    {
-                      "detail": "Altaria → Cambia a Metagross, coloca Trampa Rocas, luego Scrafty +2 // Si Scrafty está debilitado a menos del 27% de HP, usa Puño Drenaje para eliminar Altaria y evitar un ataque prioritario",
-                      "variant": []
-                    }
-                  ]
-                },
-                {
-                  "detail": "Gallade → Cambia a Chandelure y usa Truco para bloquear Sombra Vil/Puño Hielo, luego Scrafty +3 / Paliza para Houndoom / Si enfrenta Serperior → Cambia a Chandelure y usa Lanzallamas para eliminar, luego sigue el plan de respuesta anterior 👆🏻",
-                  "variant": []
-                }
-              ]
-            }
-          ]
+          "detail": "PUÑO METEORO, cambia a Chandelure + Especial X y usa Lanzallamas para eliminarlo, aparece Houndoom → cambia a Scrafty, luego vuelve a cambiar a Chandelure y usa Truco, Scrafty +2",
+          "variant": []
         },
         {
           "detail": "PUÑO HIELO, cambia a Scrafty // Metagross queda congelado, prioriza la descongelación antes de continuar",
