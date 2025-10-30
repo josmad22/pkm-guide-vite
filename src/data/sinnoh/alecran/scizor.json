@@ -5,19 +5,19 @@
   "initialMove": "CAMBIA A CHANDELURE",
   "tricks": [
     {
-      "detail": "FUERZA BRUTA → truco para encerrar en robo, entra scrafty +3 (A Bocajarro mata ah Scizor, Paliza mata a Kingler)",
+      "detail": "Fuerza Bruta → truco para encerrar en robo, entra scrafty +3 (A Bocajarro mata ah Scizor, Paliza mata a Kingler)",
       "variant": []
     },
     {
-      "detail": "MORDISCO → usa Lanzallamas para debilitar, entra Drapion, Scrafty +3 (Paliza mata a Ferrothorn, A Bocajarro mata a Drapion)",
+      "detail": "Picadura → usa Lanzallamas para debilitar, entra Drapion, Scrafty +3 (Paliza mata a Ferrothorn, A Bocajarro mata a Drapion)",
       "variant": []
     },
     {
-      "detail": "PICADURA, CAMBIA A KINGLER → usa Truco para bloquear Kingler, Poliwrath +6+2",
+      "detail": "Ida y Vuelta, sale Kingler → usa Truco para bloquear Kingler, Poliwrath +6+2",
       "variant": []
     },
     {
-      "detail": "FLYGON/GASTRODON → truco para encerrar en Terremoto, Cloyster +4 (Carámbano mata a Kabutops). Si encierras en Hidrobomba, Poliwrath +6+2",
+      "detail": "Flygon / Gastrodon → truco para encerrar en Terremoto, Cloyster +4 (Carámbano mata a Kabutops). Si encierras en Hidrobomba, Poliwrath +6+2",
       "variant": []
     }
   ]
